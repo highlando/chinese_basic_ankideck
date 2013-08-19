@@ -1,4 +1,4 @@
-chinese_basic_ankideck
+chinese basic anki card deck
 ======================
 
 This is a clone of the Anki Deck that accompanies the open [basic Chinese language course](http://www.langcen.cam.ac.uk/opencourseware/cb/chinese_basic.html) by the language centre of the University of Cambridge. 
