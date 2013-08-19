@@ -1,0 +1,1205 @@
+<span style="font-size: 32px; ">阿</span>	<span style="">ā</span><br><span style="">[sound prefix]</span><br><span style="">阿姨, āyí, aunt</span>
+<br><span style="">[sound prefix]</span><br>	<span style="font-size: 32px; ">阿</span><br><span style="">ā</span><br><span style="">阿姨, āyí, aunt</span>
+<span style="font-size: 32px; ">爱</span>	<span style="">ài</span><br><span style="">love</span><br><span style="">爱好, àihào, hobby</span>
+<br><span style="">love</span><br>	<span style="font-size: 32px; ">爱</span><br><span style="">ài</span><br><span style="">爱好, àihào, hobby</span>
+<span style="font-size: 32px; ">哎</span>	<span style="">āi</span><br><span style="">hey, [interjection]</span><br><span style=""></span>
+<br><span style="">hey, [interjection]</span><br>	<span style="font-size: 32px; ">哎</span><br><span style="">āi</span><br><span style=""></span>
+<span style="font-size: 32px; ">安</span>	<span style="">ān</span><br><span style="">still, quiet</span><br><span style="">晚安，wǎn'ān, good night<br>西安, Xī'ān, Xian (city)</span>
+<br><span style="">still, quiet</span><br>	<span style="font-size: 32px; ">安</span><br><span style="">ān</span><br><span style="">晚安，wǎn'ān, good night<br>西安, Xī'ān, Xian (city)</span>
+<span style="font-size: 32px; ">八</span>	<span style="">bā</span><br><span style="">eight</span><br><span style=""></span>
+<br><span style="">eight</span><br>	<span style="font-size: 32px; ">八</span><br><span style="">bā</span><br><span style=""></span>
+<span style="font-size: 32px; ">把</span>	<span style="">bǎ</span><br><span style="">grasp, hold, handle</span><br><span style=""></span>
+<br><span style="">grasp, hold, handle</span><br>	<span style="font-size: 32px; ">把</span><br><span style="">bǎ</span><br><span style=""></span>
+<span style="font-size: 32px; ">吧</span>	<span style="">bā</span><br><span style="">[sentence final particle, indicating suggestion]</span><br><span style=""></span>
+<br><span style="">[sentence final particle, indicating suggestion]</span><br>	<span style="font-size: 32px; ">吧</span><br><span style="">bā</span><br><span style=""></span>
+<span style="font-size: 32px; ">爸</span>	<span style="">bà</span><br><span style="">father</span><br><span style="">爸爸, bàba, father</span>
+<br><span style="">father</span><br>	<span style="font-size: 32px; ">爸</span><br><span style="">bà</span><br><span style="">爸爸, bàba, father</span>
+<span style="font-size: 32px; ">白 </span>	<span style="">bái</span><br><span style="">white, in vain</span><br><span style="">白色, báisè, white<br>明白, míngbái, understand</span>
+<br><span style="">white, in vain</span><br>	<span style="font-size: 32px; ">白 </span><br><span style="">bái</span><br><span style="">白色, báisè, white<br>明白, míngbái, understand</span>
+<span style="font-size: 32px; ">半</span>	<span style="">bàn</span><br><span style="">half</span><br><span style=""></span>
+<br><span style="">half</span><br>	<span style="font-size: 32px; ">半</span><br><span style="">bàn</span><br><span style=""></span>
+<span style="font-size: 32px; ">班</span>	<span style="">bān</span><br><span style="">class, work</span><br><span style=""> 西班牙，Xībānyá, Spain<br>上班, shàngbān, go to work</span>
+<br><span style="">class, work</span><br>	<span style="font-size: 32px; ">班</span><br><span style="">bān</span><br><span style=""> 西班牙，Xībānyá, Spain<br>上班, shàngbān, go to work</span>
+<span style="font-size: 32px; ">般 </span>	<span style="">bān</span><br><span style="">sort, kind</span><br><span style="">一般, yībān, normal, common</span>
+<br><span style="">sort, kind</span><br>	<span style="font-size: 32px; ">般 </span><br><span style="">bān</span><br><span style="">一般, yībān, normal, common</span>
+<span style="font-size: 32px; ">棒</span>	<span style="">bàng</span><br><span style="">stick, excellent</span><br><span style=""></span>
+<br><span style="">stick, excellent</span><br>	<span style="font-size: 32px; ">棒</span><br><span style="">bàng</span><br><span style=""></span>
+<span style="font-size: 32px; ">包</span>	<span style="">bāo</span><br><span style="">bag, wrap</span><br><span style="">包间, bāojiān, compartment<br>包括, bāokuò, include<br>面包, miànbāo, bread</span>
+<br><span style="">bag, wrap</span><br>	<span style="font-size: 32px; ">包</span><br><span style="">bāo</span><br><span style="">包间, bāojiān, compartment<br>包括, bāokuò, include<br>面包, miànbāo, bread</span>
+<span style="font-size: 32px; ">保</span>	<span style="">bǎo</span><br><span style="">protect</span><br><span style="">保罗, bǎoluó, Paul</span>
+<br><span style="">protect</span><br>	<span style="font-size: 32px; ">保</span><br><span style="">bǎo</span><br><span style="">保罗, bǎoluó, Paul</span>
+<span style="font-size: 32px; ">抱</span>	<span style="">bào</span><br><span style="">hug, embrace</span><br><span style="">抱歉, bàoqiàn, apologize</span>
+<br><span style="">hug, embrace</span><br>	<span style="font-size: 32px; ">抱</span><br><span style="">bào</span><br><span style="">抱歉, bàoqiàn, apologize</span>
+<span style="font-size: 32px; ">北 </span>	<span style="">běi</span><br><span style="">north</span><br><span style="">北京, Běijīng, Beijing</span>
+<br><span style="">north</span><br>	<span style="font-size: 32px; ">北 </span><br><span style="">běi</span><br><span style="">北京, Běijīng, Beijing</span>
+<span style="font-size: 32px; ">杯</span>	<span style="">bēi</span><br><span style="">cup</span><br><span style=""></span>
+<br><span style="">cup</span><br>	<span style="font-size: 32px; ">杯</span><br><span style="">bēi</span><br><span style=""></span>
+<span style="font-size: 32px; ">本</span>	<span style="">běn</span><br><span style="">origin, volume</span><br><span style="">笔记本, bǐjìběn, notebook</span>
+<br><span style="">origin, volume</span><br>	<span style="font-size: 32px; ">本</span><br><span style="">běn</span><br><span style="">笔记本, bǐjìběn, notebook</span>
+<span style="font-size: 32px; ">比</span>	<span style="">bǐ</span><br><span style="">compare</span><br><span style="">比较, bǐjiào, relatively</span>
+<br><span style="">compare</span><br>	<span style="font-size: 32px; ">比</span><br><span style="">bǐ</span><br><span style="">比较, bǐjiào, relatively</span>
+<span style="font-size: 32px; ">笔</span>	<span style="">bǐ</span><br><span style="">writing implement</span><br><span style="">笔记本, bǐjìběn, notebook</span>
+<br><span style="">writing implement</span><br>	<span style="font-size: 32px; ">笔</span><br><span style="">bǐ</span><br><span style="">笔记本, bǐjìběn, notebook</span>
+<span style="font-size: 32px; ">bì </span>	<span style="">币</span><br><span style="">money</span><br><span style="">投币, tóu bì, insert money</span>
+<br><span style="">money</span><br>	<span style="font-size: 32px; ">bì </span><br><span style="">币</span><br><span style="">投币, tóu bì, insert money</span>
+<span style="font-size: 32px; ">边 </span>	<span style="">biān</span><br><span style="">side</span><br><span style="">那边, nàbiān, that side <br>里边, lǐbian, inside</span>
+<br><span style="">side</span><br>	<span style="font-size: 32px; ">边 </span><br><span style="">biān</span><br><span style="">那边, nàbiān, that side <br>里边, lǐbian, inside</span>
+<span style="font-size: 32px; ">便</span>	<span style="">biàn/ pián</span><br><span style="">convenient / sound: pian</span><br><span style="">方便, fāngbiàn, convenient<br>便宜, piányi, cheap</span>
+<br><span style="">convenient / sound: pian</span><br>	<span style="font-size: 32px; ">便</span><br><span style="">biàn/ pián</span><br><span style="">方便, fāngbiàn, convenient<br>便宜, piányi, cheap</span>
+<span style="font-size: 32px; ">表</span>	<span style="">biǎo</span><br><span style="">show, list</span><br><span style="">代表，dàibiǎo, representative <br>登记表 dēngjìbiǎo, registration form</span>
+<br><span style="">show, list</span><br>	<span style="font-size: 32px; ">表</span><br><span style="">biǎo</span><br><span style="">代表，dàibiǎo, representative <br>登记表 dēngjìbiǎo, registration form</span>
+<span style="font-size: 32px; ">别</span>	<span style="">bié</span><br><span style="">other, don't</span><br><span style="">别的, bié de, other</span>
+<br><span style="">other, don't</span><br>	<span style="font-size: 32px; ">别</span><br><span style="">bié</span><br><span style="">别的, bié de, other</span>
+<span style="font-size: 32px; ">宾</span>	<span style="">bīn</span><br><span style="">guest</span><br><span style="">宾馆, bīnguǎn, guesthouse, hotel</span>
+<br><span style="">guest</span><br>	<span style="font-size: 32px; ">宾</span><br><span style="">bīn</span><br><span style="">宾馆, bīnguǎn, guesthouse, hotel</span>
+<span style="font-size: 32px; ">冰</span>	<span style="">bīng</span><br><span style="">ice </span><br><span style="">冰箱, bīngxiāng, refrigerator</span>
+<br><span style="">ice </span><br>	<span style="font-size: 32px; ">冰</span><br><span style="">bīng</span><br><span style="">冰箱, bīngxiāng, refrigerator</span>
+<span style="font-size: 32px; ">病</span>	<span style="">bìng</span><br><span style="">sick</span><br><span style="">病人, bìngrén, patient</span>
+<br><span style="">sick</span><br>	<span style="font-size: 32px; ">病</span><br><span style="">bìng</span><br><span style="">病人, bìngrén, patient</span>
+<span style="font-size: 32px; ">饼</span>	<span style="">bǐng</span><br><span style="">cake</span><br><span style="">月饼, yuèbǐng, mooncake</span>
+<br><span style="">cake</span><br>	<span style="font-size: 32px; ">饼</span><br><span style="">bǐng</span><br><span style="">月饼, yuèbǐng, mooncake</span>
+<span style="font-size: 32px; ">不</span>	<span style="">bù</span><br><span style="">not</span><br><span style="">不客气, bù kèqi, You are welcome!</span>
+<br><span style="">not</span><br>	<span style="font-size: 32px; ">不</span><br><span style="">bù</span><br><span style="">不客气, bù kèqi, You are welcome!</span>
+<span style="font-size: 32px; ">大</span>	<span style="">dà</span><br><span style="">big</span><br><span style="">意大利, Yìdàlì, Italy<br>大学，dàxué, university<br>多大，duōdà, how big<br>大家,dà jiā, everybody</span>
+<br><span style="">big</span><br>	<span style="font-size: 32px; ">大</span><br><span style="">dà</span><br><span style="">意大利, Yìdàlì, Italy<br>大学，dàxué, university<br>多大，duōdà, how big<br>大家,dà jiā, everybody</span>
+<span style="font-size: 32px; ">打</span>	<span style="">dǎ</span><br><span style="">hit</span><br><span style="">打算，dǎsuàn, plan<br>打折, dǎ zhé, discount</span>
+<br><span style="">hit</span><br>	<span style="font-size: 32px; ">打</span><br><span style="">dǎ</span><br><span style="">打算，dǎsuàn, plan<br>打折, dǎ zhé, discount</span>
+<span style="font-size: 32px; ">代</span>	<span style="">dài</span><br><span style="">represent</span><br><span style="">代表, dàibiǎo, representative</span>
+<br><span style="">represent</span><br>	<span style="font-size: 32px; ">代</span><br><span style="">dài</span><br><span style="">代表, dàibiǎo, representative</span>
+<span style="font-size: 32px; ">带</span>	<span style="">dài</span><br><span style="">carry</span><br><span style="">宽带网, kuāndàiwǎng, broadband</span>
+<br><span style="">carry</span><br>	<span style="font-size: 32px; ">带</span><br><span style="">dài</span><br><span style="">宽带网, kuāndàiwǎng, broadband</span>
+<span style="font-size: 32px; ">袋</span>	<span style="">dài</span><br><span style="">bag</span><br><span style=""></span>
+<br><span style="">bag</span><br>	<span style="font-size: 32px; ">袋</span><br><span style="">dài</span><br><span style=""></span>
+<span style="font-size: 32px; ">丹</span>	<span style="">dān</span><br><span style="">red</span><br><span style="">牡丹, mǔdan, peony</span>
+<br><span style="">red</span><br>	<span style="font-size: 32px; ">丹</span><br><span style="">dān</span><br><span style="">牡丹, mǔdan, peony</span>
+<span style="font-size: 32px; ">但</span>	<span style="">dàn</span><br><span style="">but</span><br><span style="">但愿，dànyuàn, to wish that<br>但是, dànshì, but</span>
+<br><span style="">but</span><br>	<span style="font-size: 32px; ">但</span><br><span style="">dàn</span><br><span style="">但愿，dànyuàn, to wish that<br>但是, dànshì, but</span>
+<span style="font-size: 32px; ">单</span>	<span style="">dān</span><br><span style="">alone</span><br><span style="">菜单, càidān, menu<br />账单, zhàngdān, bill<br />但人间, dānrénjiān, single room </span>
+<br><span style="">alone</span><br>	<span style="font-size: 32px; ">单</span><br><span style="">dān</span><br><span style="">菜单, càidān, menu<br />账单, zhàngdān, bill<br />但人间, dānrénjiān, single room </span>
+<span style="font-size: 32px; ">诞</span>	<span style="">dàn</span><br><span style="">birth</span><br><span style="">圣诞节, shèngdànjié, Christmas</span>
+<br><span style="">birth</span><br>	<span style="font-size: 32px; ">诞</span><br><span style="">dàn</span><br><span style="">圣诞节, shèngdànjié, Christmas</span>
+<span style="font-size: 32px; ">蛋</span>	<span style="">dàn</span><br><span style="">egg</span><br><span style="">鸡蛋，jīdàn, hen's egg<br>蛋黄, dànhuáng, yolk</span>
+<br><span style="">egg</span><br>	<span style="font-size: 32px; ">蛋</span><br><span style="">dàn</span><br><span style="">鸡蛋，jīdàn, hen's egg<br>蛋黄, dànhuáng, yolk</span>
+<span style="font-size: 32px; ">当</span>	<span style="">dāng</span><br><span style="">serve as</span><br><span style="">当上, dāngshang, act as<br>当然, dāngrán, of course</span>
+<br><span style="">serve as</span><br>	<span style="font-size: 32px; ">当</span><br><span style="">dāng</span><br><span style="">当上, dāngshang, act as<br>当然, dāngrán, of course</span>
+<span style="font-size: 32px; ">到</span>	<span style="">dào</span><br><span style="">towards</span><br><span style="">到处, dàochù, everywhere</span>
+<br><span style="">towards</span><br>	<span style="font-size: 32px; ">到</span><br><span style="">dào</span><br><span style="">到处, dàochù, everywhere</span>
+<span style="font-size: 32px; ">岛</span>	<span style="">dǎo</span><br><span style="">island</span><br><span style="">青岛, qīngdǎo, Qingdao</span>
+<br><span style="">island</span><br>	<span style="font-size: 32px; ">岛</span><br><span style="">dǎo</span><br><span style="">青岛, qīngdǎo, Qingdao</span>
+<span style="font-size: 32px; ">道</span>	<span style="">dào</span><br><span style="">way</span><br><span style="">知道, zhīdao,know</span>
+<br><span style="">way</span><br>	<span style="font-size: 32px; ">道</span><br><span style="">dào</span><br><span style="">知道, zhīdao,know</span>
+<span style="font-size: 32px; ">电</span>	<span style="">diàn</span><br><span style="">electricity</span><br><span style="">电话, diànhuà, telephone<br>电影, diànyǐng, film <br>电影院, diànyǐngyuàn cinema <br>电脑, diànnǎo, computer<br>电视, diànshi, television</span>
+<br><span style="">electricity</span><br>	<span style="font-size: 32px; ">电</span><br><span style="">diàn</span><br><span style="">电话, diànhuà, telephone<br>电影, diànyǐng, film <br>电影院, diànyǐngyuàn cinema <br>电脑, diànnǎo, computer<br>电视, diànshi, television</span>
+<span style="font-size: 32px; ">丁</span>	<span style="">dīng</span><br><span style="">cubes (in food preparation)</span><br><span style="">鸡丁, jīdīng, diced chicken</span>
+<br><span style="">cubes (in food preparation)</span><br>	<span style="font-size: 32px; ">丁</span><br><span style="">dīng</span><br><span style="">鸡丁, jīdīng, diced chicken</span>
+<span style="font-size: 32px; ">得</span>	<span style="">de</span><br><span style="">[particle]</span><br><span style="">记得, jìde, remember</span>
+<br><span style="">[particle]</span><br>	<span style="font-size: 32px; ">得</span><br><span style="">de</span><br><span style="">记得, jìde, remember</span>
+<span style="font-size: 32px; ">的</span>	<span style="">de</span><br><span style="">[particle]</span><br><span style=""></span>
+<br><span style="">[particle]</span><br>	<span style="font-size: 32px; ">的</span><br><span style="">de</span><br><span style=""></span>
+<span style="font-size: 32px; ">德</span>	<span style="">dé</span><br><span style="">virtue</span><br><span style="">德国, Déguó, Germany</span>
+<br><span style="">virtue</span><br>	<span style="font-size: 32px; ">德</span><br><span style="">dé</span><br><span style="">德国, Déguó, Germany</span>
+<span style="font-size: 32px; ">等</span>	<span style="">děng</span><br><span style="">wait，class</span><br><span style="">稍等, shāoděng, wait a minute<br>等等, děngděng, and so on</span>
+<br><span style="">wait，class</span><br>	<span style="font-size: 32px; ">等</span><br><span style="">děng</span><br><span style="">稍等, shāoděng, wait a minute<br>等等, děngděng, and so on</span>
+<span style="font-size: 32px; ">登</span>	<span style="">dēng</span><br><span style="">climb</span><br><span style="">登记表, dēngjìbiǎo, registration form</span>
+<br><span style="">climb</span><br>	<span style="font-size: 32px; ">登</span><br><span style="">dēng</span><br><span style="">登记表, dēngjìbiǎo, registration form</span>
+<span style="font-size: 32px; ">地</span>	<span style="">dì</span><br><span style="">earth</span><br><span style="">地方，dìfāng, place<br>地图，dìtú, map<br>地铁,&nbsp;&nbsp;dìtiě, underground/metro</span>
+<br><span style="">earth</span><br>	<span style="font-size: 32px; ">地</span><br><span style="">dì</span><br><span style="">地方，dìfāng, place<br>地图，dìtú, map<br>地铁,&nbsp;&nbsp;dìtiě, underground/metro</span>
+<span style="font-size: 32px; ">第</span>	<span style="">dì</span><br><span style="">-th, ordinal number prefix</span><br><span style=""></span>
+<br><span style="">-th, ordinal number prefix</span><br>	<span style="font-size: 32px; ">第</span><br><span style="">dì</span><br><span style=""></span>
+<span style="font-size: 32px; ">弟</span>	<span style="">dì</span><br><span style="">little brother</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>弟弟, dìdi, younger brother</span>
+<br><span style="">little brother</span><br>	<span style="font-size: 32px; ">弟</span><br><span style="">dì</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>弟弟, dìdi, younger brother</span>
+<span style="font-size: 32px; ">典</span>	<span style="">diǎn</span><br><span style="">typical</span><br><span style="">瑞典, Ruìdiǎn，Sweden<br>古典, gǔdiǎn, classical</span>
+<br><span style="">typical</span><br>	<span style="font-size: 32px; ">典</span><br><span style="">diǎn</span><br><span style="">瑞典, Ruìdiǎn，Sweden<br>古典, gǔdiǎn, classical</span>
+<span style="font-size: 32px; ">点</span>	<span style="">diǎn</span><br><span style="">dot</span><br><span style="">一点儿, yīdiǎnr, a little bit<br>一点点, yīdiǎndiǎn, a little bit</span>
+<br><span style="">dot</span><br>	<span style="font-size: 32px; ">点</span><br><span style="">diǎn</span><br><span style="">一点儿, yīdiǎnr, a little bit<br>一点点, yīdiǎndiǎn, a little bit</span>
+<span style="font-size: 32px; ">定</span>	<span style="">dìng</span><br><span style="">definite</span><br><span style="">一定, yīdìng, definite</span>
+<br><span style="">definite</span><br>	<span style="font-size: 32px; ">定</span><br><span style="">dìng</span><br><span style="">一定, yīdìng, definite</span>
+<span style="font-size: 32px; ">订</span>	<span style="">dìng</span><br><span style="">conclude</span><br><span style="">预订, yùdìng, book / place an order</span>
+<br><span style="">conclude</span><br>	<span style="font-size: 32px; ">订</span><br><span style="">dìng</span><br><span style="">预订, yùdìng, book / place an order</span>
+<span style="font-size: 32px; ">店</span>	<span style="">diǎn</span><br><span style="">shop</span><br><span style="">饭店, fàndiàn, hotel / restaurant</span>
+<br><span style="">shop</span><br>	<span style="font-size: 32px; ">店</span><br><span style="">diǎn</span><br><span style="">饭店, fàndiàn, hotel / restaurant</span>
+<span style="font-size: 32px; ">东</span>	<span style="">dōng</span><br><span style="">east</span><br><span style="">广东, Guǎngdōng, Guangdong Province<br>东西, dōngxī, thing</span>
+<br><span style="">east</span><br>	<span style="font-size: 32px; ">东</span><br><span style="">dōng</span><br><span style="">广东, Guǎngdōng, Guangdong Province<br>东西, dōngxī, thing</span>
+<span style="font-size: 32px; ">动</span>	<span style="">dōng</span><br><span style="">move</span><br><span style="">运动, yùndòng, sport</span>
+<br><span style="">move</span><br>	<span style="font-size: 32px; ">动</span><br><span style="">dōng</span><br><span style="">运动, yùndòng, sport</span>
+<span style="font-size: 32px; ">都</span>	<span style="">dōu</span><br><span style="">all</span><br><span style=""></span>
+<br><span style="">all</span><br>	<span style="font-size: 32px; ">都</span><br><span style="">dōu</span><br><span style=""></span>
+<span style="font-size: 32px; ">读</span>	<span style="">dú</span><br><span style="">read</span><br><span style=""></span>
+<br><span style="">read</span><br>	<span style="font-size: 32px; ">读</span><br><span style="">dú</span><br><span style=""></span>
+<span style="font-size: 32px; ">度</span>	<span style="">dù</span><br><span style="">degree</span><br><span style=""></span>
+<br><span style="">degree</span><br>	<span style="font-size: 32px; ">度</span><br><span style="">dù</span><br><span style=""></span>
+<span style="font-size: 32px; ">对</span>	<span style="">duì</span><br><span style="">correct</span><br><span style=""></span>
+<br><span style="">correct</span><br>	<span style="font-size: 32px; ">对</span><br><span style="">duì</span><br><span style=""></span>
+<span style="font-size: 32px; ">端</span>	<span style="">duān</span><br><span style="">hold</span><br><span style="">端午节, Duānwǔjié, Dragon Boat Festival</span>
+<br><span style="">hold</span><br>	<span style="font-size: 32px; ">端</span><br><span style="">duān</span><br><span style="">端午节, Duānwǔjié, Dragon Boat Festival</span>
+<span style="font-size: 32px; ">敦</span>	<span style="">dūn</span><br><span style="">honest</span><br><span style="">伦敦, Lúndūn, London</span>
+<br><span style="">honest</span><br>	<span style="font-size: 32px; ">敦</span><br><span style="">dūn</span><br><span style="">伦敦, Lúndūn, London</span>
+<span style="font-size: 32px; ">炖</span>	<span style="">dùn</span><br><span style="">stew</span><br><span style=""></span>
+<br><span style="">stew</span><br>	<span style="font-size: 32px; ">炖</span><br><span style="">dùn</span><br><span style=""></span>
+<span style="font-size: 32px; ">多</span>	<span style="">duo</span><br><span style="">many</span><br><span style="">多大, duōdà, how old?<br>多少, duōshao how many/much?</span>
+<br><span style="">many</span><br>	<span style="font-size: 32px; ">多</span><br><span style="">duo</span><br><span style="">多大, duōdà, how old?<br>多少, duōshao how many/much?</span>
+<span style="font-size: 32px; ">儿</span>	<span style="">ér</span><br><span style="">son</span><br><span style="">哪儿, nǎr, where<br>儿子, érzi, son<br>一会儿, yīhuìr, a while <br>这儿, zhèr, this, <br>儿童, értóng, child</span>
+<br><span style="">son</span><br>	<span style="font-size: 32px; ">儿</span><br><span style="">ér</span><br><span style="">哪儿, nǎr, where<br>儿子, érzi, son<br>一会儿, yīhuìr, a while <br>这儿, zhèr, this, <br>儿童, értóng, child</span>
+<span style="font-size: 32px; ">二</span>	<span style="">èr</span><br><span style="">two</span><br><span style="">二哥, èrgē, second elder brother</span>
+<br><span style="">two</span><br>	<span style="font-size: 32px; ">二</span><br><span style="">èr</span><br><span style="">二哥, èrgē, second elder brother</span>
+<span style="font-size: 32px; ">耳</span>	<span style="">ěr</span><br><span style="">ear</span><br><span style="">木耳, mù'ěr, fungus (&quot;wood ear&quot;)</span>
+<br><span style="">ear</span><br>	<span style="font-size: 32px; ">耳</span><br><span style="">ěr</span><br><span style="">木耳, mù'ěr, fungus (&quot;wood ear&quot;)</span>
+<span style="font-size: 32px; ">而</span>	<span style="">ér</span><br><span style="">and</span><br><span style="">而且, érqiě, furthermore</span>
+<br><span style="">and</span><br>	<span style="font-size: 32px; ">而</span><br><span style="">ér</span><br><span style="">而且, érqiě, furthermore</span>
+<span style="font-size: 32px; ">法</span>	<span style="">fǎ</span><br><span style="">law</span><br><span style="">法语, Fǎyǔ, French<br>法国, Fǎguó, France<br>书法, shūfǎ, calligraphy</span>
+<br><span style="">law</span><br>	<span style="font-size: 32px; ">法</span><br><span style="">fǎ</span><br><span style="">法语, Fǎyǔ, French<br>法国, Fǎguó, France<br>书法, shūfǎ, calligraphy</span>
+<span style="font-size: 32px; ">发</span>	<span style="">fā</span><br><span style="">emit</span><br><span style="">发票, fāpiào, receipt<br>发烧, fāshāo, fever<br>发炎, fāyán, inflammation</span>
+<br><span style="">emit</span><br>	<span style="font-size: 32px; ">发</span><br><span style="">fā</span><br><span style="">发票, fāpiào, receipt<br>发烧, fāshāo, fever<br>发炎, fāyán, inflammation</span>
+<span style="font-size: 32px; ">帆</span>	<span style="">fān</span><br><span style="">sail (name)</span><br><span style=""></span>
+<br><span style="">sail (name)</span><br>	<span style="font-size: 32px; ">帆</span><br><span style="">fān</span><br><span style=""></span>
+<span style="font-size: 32px; ">饭</span>	<span style="">fàn</span><br><span style="">food</span><br><span style="">米饭, mǐfàn, rice<br>早饭, zǎofàn, breakfast<br>晚饭, wǎnfàn, dinner<br>饭店, fàndiǎn, restaurant/hotel</span>
+<br><span style="">food</span><br>	<span style="font-size: 32px; ">饭</span><br><span style="">fàn</span><br><span style="">米饭, mǐfàn, rice<br>早饭, zǎofàn, breakfast<br>晚饭, wǎnfàn, dinner<br>饭店, fàndiǎn, restaurant/hotel</span>
+<span style="font-size: 32px; ">方</span>	<span style="">fāng</span><br><span style="">square</span><br><span style="">地方, dìfang, place，<br>方便, fāngbiàn, convenient<br>西方, xīfāng, the West</span>
+<br><span style="">square</span><br>	<span style="font-size: 32px; ">方</span><br><span style="">fāng</span><br><span style="">地方, dìfang, place，<br>方便, fāngbiàn, convenient<br>西方, xīfāng, the West</span>
+<span style="font-size: 32px; ">房</span>	<span style="">fáng</span><br><span style="">room</span><br><span style="">房间, fángjiān, room<br>退房, tuìfáng, check out</span>
+<br><span style="">room</span><br>	<span style="font-size: 32px; ">房</span><br><span style="">fáng</span><br><span style="">房间, fángjiān, room<br>退房, tuìfáng, check out</span>
+<span style="font-size: 32px; ">放</span>	<span style="">fàng</span><br><span style="">put</span><br><span style="">放松, fàngsōng, relax</span>
+<br><span style="">put</span><br>	<span style="font-size: 32px; ">放</span><br><span style="">fàng</span><br><span style="">放松, fàngsōng, relax</span>
+<span style="font-size: 32px; ">费</span>	<span style="">fèi</span><br><span style="">cost</span><br><span style="">免费, miǎnfèi, free<br>收费, shōufèi, charge</span>
+<br><span style="">cost</span><br>	<span style="font-size: 32px; ">费</span><br><span style="">fèi</span><br><span style="">免费, miǎnfèi, free<br>收费, shōufèi, charge</span>
+<span style="font-size: 32px; ">啡</span>	<span style="">fēi</span><br><span style="">[none, used for sound - fei]</span><br><span style="">咖啡, kāfēi, coffee</span>
+<br><span style="">[none, used for sound - fei]</span><br>	<span style="font-size: 32px; ">啡</span><br><span style="">fēi</span><br><span style="">咖啡, kāfēi, coffee</span>
+<span style="font-size: 32px; ">非</span>	<span style="">fēi</span><br><span style="">not</span><br><span style="">非常, fēicháng, very</span>
+<br><span style="">not</span><br>	<span style="font-size: 32px; ">非</span><br><span style="">fēi</span><br><span style="">非常, fēicháng, very</span>
+<span style="font-size: 32px; ">份</span>	<span style="">fèn</span><br><span style="">portion</span><br><span style="">身份证, shēnfènzhèng, identity card</span>
+<br><span style="">portion</span><br>	<span style="font-size: 32px; ">份</span><br><span style="">fèn</span><br><span style="">身份证, shēnfènzhèng, identity card</span>
+<span style="font-size: 32px; ">氛</span>	<span style="">fēn</span><br><span style="">atmosphere</span><br><span style="">气氛, qìfēn, atmosphere</span>
+<br><span style="">atmosphere</span><br>	<span style="font-size: 32px; ">氛</span><br><span style="">fēn</span><br><span style="">气氛, qìfēn, atmosphere</span>
+<span style="font-size: 32px; ">负</span>	<span style="">fù</span><br><span style="">carry</span><br><span style="">负责, fùzé, be responsible</span>
+<br><span style="">carry</span><br>	<span style="font-size: 32px; ">负</span><br><span style="">fù</span><br><span style="">负责, fùzé, be responsible</span>
+<span style="font-size: 32px; ">父</span>	<span style="">fù</span><br><span style="">father</span><br><span style="">父母, fùmǔ, parents</span>
+<br><span style="">father</span><br>	<span style="font-size: 32px; ">父</span><br><span style="">fù</span><br><span style="">父母, fùmǔ, parents</span>
+<span style="font-size: 32px; ">fǔ</span>	<span style="">府</span><br><span style="">government</span><br><span style="">王府井, Wángfǔjǐng, Wangfujing (shopping area in Beijing)</span>
+<br><span style="">government</span><br>	<span style="font-size: 32px; ">fǔ</span><br><span style="">府</span><br><span style="">王府井, Wángfǔjǐng, Wangfujing (shopping area in Beijing)</span>
+<span style="font-size: 32px; ">傅</span>	<span style="">fù</span><br><span style="">master</span><br><span style="">师傅, shīfu, term of address</span>
+<br><span style="">master</span><br>	<span style="font-size: 32px; ">傅</span><br><span style="">fù</span><br><span style="">师傅, shīfu, term of address</span>
+<span style="font-size: 32px; ">腐</span>	<span style="">fǔ</span><br><span style="">rotten</span><br><span style="">豆腐, dòufu, tofu</span>
+<br><span style="">rotten</span><br>	<span style="font-size: 32px; ">腐</span><br><span style="">fǔ</span><br><span style="">豆腐, dòufu, tofu</span>
+<span style="font-size: 32px; ">服</span>	<span style="">fú</span><br><span style="">serve</span><br><span style="">服务员, fúwùyuán, attendent/waiter<br>舒服, shūfu, comfortable</span>
+<br><span style="">serve</span><br>	<span style="font-size: 32px; ">服</span><br><span style="">fú</span><br><span style="">服务员, fúwùyuán, attendent/waiter<br>舒服, shūfu, comfortable</span>
+<span style="font-size: 32px; ">附</span>	<span style="">fù</span><br><span style="">enclose</span><br><span style="">附近, fùjìn, vicinity</span>
+<br><span style="">enclose</span><br>	<span style="font-size: 32px; ">附</span><br><span style="">fù</span><br><span style="">附近, fùjìn, vicinity</span>
+<span style="font-size: 32px; ">复</span>	<span style="">fù</span><br><span style="">recover</span><br><span style="">康复, kāngfù, restore to health</span>
+<br><span style="">recover</span><br>	<span style="font-size: 32px; ">复</span><br><span style="">fù</span><br><span style="">康复, kāngfù, restore to health</span>
+<span style="font-size: 32px; ">妇</span>	<span style="">fù</span><br><span style="">woman</span><br><span style="">妇女节,Fùnǚjié, International Women's Day</span>
+<br><span style="">woman</span><br>	<span style="font-size: 32px; ">妇</span><br><span style="">fù</span><br><span style="">妇女节,Fùnǚjié, International Women's Day</span>
+<span style="font-size: 32px; ">该</span>	<span style="">gāi</span><br><span style="">should</span><br><span style="">应该, yīnggāi, ought to</span>
+<br><span style="">should</span><br>	<span style="font-size: 32px; ">该</span><br><span style="">gāi</span><br><span style="">应该, yīnggāi, ought to</span>
+<span style="font-size: 32px; ">刚</span>	<span style="">gāng</span><br><span style="">just</span><br><span style=""></span>
+<br><span style="">just</span><br>	<span style="font-size: 32px; ">刚</span><br><span style="">gāng</span><br><span style=""></span>
+<span style="font-size: 32px; ">港</span>	<span style="">gǎng</span><br><span style="">harbour</span><br><span style="">香港, Xiānggǎng, Hong Kong</span>
+<br><span style="">harbour</span><br>	<span style="font-size: 32px; ">港</span><br><span style="">gǎng</span><br><span style="">香港, Xiānggǎng, Hong Kong</span>
+<span style="font-size: 32px; ">高</span>	<span style="">gāo</span><br><span style="">tall</span><br><span style=""></span>
+<br><span style="">tall</span><br>	<span style="font-size: 32px; ">高</span><br><span style="">gāo</span><br><span style=""></span>
+<span style="font-size: 32px; ">个</span>	<span style="">ge</span><br><span style="">[general measure word]</span><br><span style=""></span>
+<br><span style="">[general measure word]</span><br>	<span style="font-size: 32px; ">个</span><br><span style="">ge</span><br><span style=""></span>
+<span style="font-size: 32px; ">哥</span>	<span style="">gē</span><br><span style="">older brother</span><br><span style="">哥哥, gēge, older brother<br>大哥, dàgē, eldest brother<br>芝加哥, Zhījiāgē, Chicago<br>二哥, èrgē, second elder brother</span>
+<br><span style="">older brother</span><br>	<span style="font-size: 32px; ">哥</span><br><span style="">gē</span><br><span style="">哥哥, gēge, older brother<br>大哥, dàgē, eldest brother<br>芝加哥, Zhījiāgē, Chicago<br>二哥, èrgē, second elder brother</span>
+<span style="font-size: 32px; ">给</span>	<span style="">gěi</span><br><span style="">give</span><br><span style=""></span>
+<br><span style="">give</span><br>	<span style="font-size: 32px; ">给</span><br><span style="">gěi</span><br><span style=""></span>
+<span style="font-size: 32px; ">跟</span>	<span style="">gēn</span><br><span style="">with</span><br><span style=""></span>
+<br><span style="">with</span><br>	<span style="font-size: 32px; ">跟</span><br><span style="">gēn</span><br><span style=""></span>
+<span style="font-size: 32px; ">更</span>	<span style="">gèng</span><br><span style="">more</span><br><span style=""></span>
+<br><span style="">more</span><br>	<span style="font-size: 32px; ">更</span><br><span style="">gèng</span><br><span style=""></span>
+<span style="font-size: 32px; ">公</span>	<span style="">gōng</span><br><span style="">public</span><br><span style="">公司, gōngsī, company<br>公务员, gōngwùyuán, goverment employee</span>
+<br><span style="">public</span><br>	<span style="font-size: 32px; ">公</span><br><span style="">gōng</span><br><span style="">公司, gōngsī, company<br>公务员, gōngwùyuán, goverment employee</span>
+<span style="font-size: 32px; ">工</span>	<span style="">gōng</span><br><span style="">work</span><br><span style="">工作, gōngzuò, work<br>工程师, gōngchéngshī, engineer</span>
+<br><span style="">work</span><br>	<span style="font-size: 32px; ">工</span><br><span style="">gōng</span><br><span style="">工作, gōngzuò, work<br>工程师, gōngchéngshī, engineer</span>
+<span style="font-size: 32px; ">共</span>	<span style="">gòng</span><br><span style="">share</span><br><span style="">一共, yīgòng, togheter<br>总共, zǒnggòng, altogether</span>
+<br><span style="">share</span><br>	<span style="font-size: 32px; ">共</span><br><span style="">gòng</span><br><span style="">一共, yīgòng, togheter<br>总共, zǒnggòng, altogether</span>
+<span style="font-size: 32px; ">宫</span>	<span style="">gōng</span><br><span style="">palace</span><br><span style="">故宫, gùgōng, former imperial palace</span>
+<br><span style="">palace</span><br>	<span style="font-size: 32px; ">宫</span><br><span style="">gōng</span><br><span style="">故宫, gùgōng, former imperial palace</span>
+<span style="font-size: 32px; ">gǒu</span>	<span style="">狗</span><br><span style="">dog</span><br><span style=""></span>
+<br><span style="">dog</span><br>	<span style="font-size: 32px; ">gǒu</span><br><span style="">狗</span><br><span style=""></span>
+<span style="font-size: 32px; ">顾</span>	<span style="">gù</span><br><span style="">look after</span><br><span style="">顾客, gùkè, customer<br>顾名思义, gùmíngsīyì, just as its name implies</span>
+<br><span style="">look after</span><br>	<span style="font-size: 32px; ">顾</span><br><span style="">gù</span><br><span style="">顾客, gùkè, customer<br>顾名思义, gùmíngsīyì, just as its name implies</span>
+<span style="font-size: 32px; ">古</span>	<span style="">gǔ</span><br><span style="">ancient</span><br><span style="">古典, gǔdiǎn, classical</span>
+<br><span style="">ancient</span><br>	<span style="font-size: 32px; ">古</span><br><span style="">gǔ</span><br><span style="">古典, gǔdiǎn, classical</span>
+<span style="font-size: 32px; ">故</span>	<span style="">gù</span><br><span style="">cause</span><br><span style="">故宫, gùgōng, former imperial palace</span>
+<br><span style="">cause</span><br>	<span style="font-size: 32px; ">故</span><br><span style="">gù</span><br><span style="">故宫, gùgōng, former imperial palace</span>
+<span style="font-size: 32px; ">菇</span>	<span style="">gū</span><br><span style="">mushroom</span><br><span style="">香菇, xiānggū, mushrooms (grown on logs),<br>蘑菇, mógu, mushroom</span>
+<br><span style="">mushroom</span><br>	<span style="font-size: 32px; ">菇</span><br><span style="">gū</span><br><span style="">香菇, xiānggū, mushrooms (grown on logs),<br>蘑菇, mógu, mushroom</span>
+<span style="font-size: 32px; ">关</span>	<span style="">guān</span><br><span style="">shut</span><br><span style="">关系, guānxì, connection</span>
+<br><span style="">shut</span><br>	<span style="font-size: 32px; ">关</span><br><span style="">guān</span><br><span style="">关系, guānxì, connection</span>
+<span style="font-size: 32px; ">管</span>	<span style="">guǎn</span><br><span style="">manage</span><br><span style="">管理, guǎnlǐ,manage</span>
+<br><span style="">manage</span><br>	<span style="font-size: 32px; ">管</span><br><span style="">guǎn</span><br><span style="">管理, guǎnlǐ,manage</span>
+<span style="font-size: 32px; ">馆</span>	<span style="">guǎn</span><br><span style="">building</span><br><span style="">图书馆, túshūguǎn, library<br>宾馆, bīnguǎn, guesthouse</span>
+<br><span style="">building</span><br>	<span style="font-size: 32px; ">馆</span><br><span style="">guǎn</span><br><span style="">图书馆, túshūguǎn, library<br>宾馆, bīnguǎn, guesthouse</span>
+<span style="font-size: 32px; ">广</span>	<span style="">guǎng</span><br><span style="">wide</span><br><span style="">广东, Guǎngdōng, Guangdong province</span>
+<br><span style="">wide</span><br>	<span style="font-size: 32px; ">广</span><br><span style="">guǎng</span><br><span style="">广东, Guǎngdōng, Guangdong province</span>
+<span style="font-size: 32px; ">光</span>	<span style="">guāng</span><br><span style="">light</span><br><span style="">欢迎光临, huānyíng guānglín, Welcome!</span>
+<br><span style="">light</span><br>	<span style="font-size: 32px; ">光</span><br><span style="">guāng</span><br><span style="">欢迎光临, huānyíng guānglín, Welcome!</span>
+<span style="font-size: 32px; ">逛 </span>	<span style="">guàng</span><br><span style="">stroll</span><br><span style="">逛街, guàngjiē, window shop</span>
+<br><span style="">stroll</span><br>	<span style="font-size: 32px; ">逛 </span><br><span style="">guàng</span><br><span style="">逛街, guàngjiē, window shop</span>
+<span style="font-size: 32px; ">贵</span>	<span style="">guì</span><br><span style="">expensive</span><br><span style=""></span>
+<br><span style="">expensive</span><br>	<span style="font-size: 32px; ">贵</span><br><span style="">guì</span><br><span style=""></span>
+<span style="font-size: 32px; ">国</span>	<span style="">guó</span><br><span style="">country</span><br><span style="">中国, Zhōngguó, China<br>国际, guójì, international<br>回国, huíguó, return to home country</span>
+<br><span style="">country</span><br>	<span style="font-size: 32px; ">国</span><br><span style="">guó</span><br><span style="">中国, Zhōngguó, China<br>国际, guójì, international<br>回国, huíguó, return to home country</span>
+<span style="font-size: 32px; ">果</span>	<span style="">guǒ</span><br><span style="">fruit</span><br><span style="">水果, shuǐguǒ, fruit<br>苹果, píngguǒ, apple</span>
+<br><span style="">fruit</span><br>	<span style="font-size: 32px; ">果</span><br><span style="">guǒ</span><br><span style="">水果, shuǐguǒ, fruit<br>苹果, píngguǒ, apple</span>
+<span style="font-size: 32px; ">过</span>	<span style="">guò</span><br><span style="">pass</span><br><span style="">通过, tōngguò, get past<br>过敏, guòmǐn, allergic</span>
+<br><span style="">pass</span><br>	<span style="font-size: 32px; ">过</span><br><span style="">guò</span><br><span style="">通过, tōngguò, get past<br>过敏, guòmǐn, allergic</span>
+<span style="font-size: 32px; ">还</span>	<span style="">hái</span><br><span style="">still</span><br><span style="">还是, háishi, still</span>
+<br><span style="">still</span><br>	<span style="font-size: 32px; ">还</span><br><span style="">hái</span><br><span style="">还是, háishi, still</span>
+<span style="font-size: 32px; ">海</span>	<span style="">hǎi</span><br><span style="">ocean</span><br><span style="">上海, Shànghǎi, Shanghai</span>
+<br><span style="">ocean</span><br>	<span style="font-size: 32px; ">海</span><br><span style="">hǎi</span><br><span style="">上海, Shànghǎi, Shanghai</span>
+<span style="font-size: 32px; ">汉</span>	<span style="">hàn</span><br><span style="">Han</span><br><span style="">汉族, Hànzú, Han ethnic group</span>
+<br><span style="">Han</span><br>	<span style="font-size: 32px; ">汉</span><br><span style="">hàn</span><br><span style="">汉族, Hànzú, Han ethnic group</span>
+<span style="font-size: 32px; ">行</span>	<span style="">háng / xíng</span><br><span style="">profession / go</span><br><span style="">银行, yínháng, bank<br>行李, xínglǐ, luggage<br>流行, liúxíng, popular</span>
+<br><span style="">profession / go</span><br>	<span style="font-size: 32px; ">行</span><br><span style="">háng / xíng</span><br><span style="">银行, yínháng, bank<br>行李, xínglǐ, luggage<br>流行, liúxíng, popular</span>
+<span style="font-size: 32px; ">杭</span>	<span style="">háng</span><br><span style="">[no translation]</span><br><span style="">杭州, Hángzhōu, Hángzhōu (city)</span>
+<br><span style="">[no translation]</span><br>	<span style="font-size: 32px; ">杭</span><br><span style="">háng</span><br><span style="">杭州, Hángzhōu, Hángzhōu (city)</span>
+<span style="font-size: 32px; ">好</span>	<span style="">hǎo/hào</span><br><span style="">good</span><br><span style="">你好, nǐ hǎo, hello<br>您好, nín hǎo, How do you?<br>好像, hǎoxiàng, be like<br>爱好, àihào, hobby</span>
+<br><span style="">good</span><br>	<span style="font-size: 32px; ">好</span><br><span style="">hǎo/hào</span><br><span style="">你好, nǐ hǎo, hello<br>您好, nín hǎo, How do you?<br>好像, hǎoxiàng, be like<br>爱好, àihào, hobby</span>
+<span style="font-size: 32px; ">号</span>	<span style="">hào</span><br><span style="">number</span><br><span style=""></span>
+<br><span style="">number</span><br>	<span style="font-size: 32px; ">号</span><br><span style="">hào</span><br><span style=""></span>
+<span style="font-size: 32px; ">合</span>	<span style="">hé</span><br><span style="">shut</span><br><span style="">合作, hézuò,collaborate<br>合适, héshì, appropriate</span>
+<br><span style="">shut</span><br>	<span style="font-size: 32px; ">合</span><br><span style="">hé</span><br><span style="">合作, hézuò,collaborate<br>合适, héshì, appropriate</span>
+<span style="font-size: 32px; ">喝</span>	<span style="">hē</span><br><span style="">drink</span><br><span style=""></span>
+<br><span style="">drink</span><br>	<span style="font-size: 32px; ">喝</span><br><span style="">hē</span><br><span style=""></span>
+<span style="font-size: 32px; ">hé</span>	<span style="">和</span><br><span style="">and</span><br><span style="">颐和园, Yíhéyuán, Summer Palace (in Beijing)</span>
+<br><span style="">and</span><br>	<span style="font-size: 32px; ">hé</span><br><span style="">和</span><br><span style="">颐和园, Yíhéyuán, Summer Palace (in Beijing)</span>
+<span style="font-size: 32px; ">盒</span>	<span style="">hé</span><br><span style="">box</span><br><span style=""></span>
+<br><span style="">box</span><br>	<span style="font-size: 32px; ">盒</span><br><span style="">hé</span><br><span style=""></span>
+<span style="font-size: 32px; ">嘿</span>	<span style="">hēi</span><br><span style="">hey</span><br><span style=""></span>
+<br><span style="">hey</span><br>	<span style="font-size: 32px; ">嘿</span><br><span style="">hēi</span><br><span style=""></span>
+<span style="font-size: 32px; ">很</span>	<span style="">hěn</span><br><span style="">very</span><br><span style=""></span>
+<br><span style="">very</span><br>	<span style="font-size: 32px; ">很</span><br><span style="">hěn</span><br><span style=""></span>
+<span style="font-size: 32px; ">红</span>	<span style="">hóng</span><br><span style="">red</span><br><span style=""></span>
+<br><span style="">red</span><br>	<span style="font-size: 32px; ">红</span><br><span style="">hóng</span><br><span style=""></span>
+<span style="font-size: 32px; ">后</span>	<span style="">hòu</span><br><span style="">after</span><br><span style="">以后, yǐhòu, afterwards<br>然后, ránhòu, after that</span>
+<br><span style="">after</span><br>	<span style="font-size: 32px; ">后</span><br><span style="">hòu</span><br><span style="">以后, yǐhòu, afterwards<br>然后, ránhòu, after that</span>
+<span style="font-size: 32px; ">猴</span>	<span style="">hóu</span><br><span style="">monkey</span><br><span style=""></span>
+<br><span style="">monkey</span><br>	<span style="font-size: 32px; ">猴</span><br><span style="">hóu</span><br><span style=""></span>
+<span style="font-size: 32px; ">候</span>	<span style="">hòu</span><br><span style="">time</span><br><span style="">时候, shíhou, time</span>
+<br><span style="">time</span><br>	<span style="font-size: 32px; ">候</span><br><span style="">hòu</span><br><span style="">时候, shíhou, time</span>
+<span style="font-size: 32px; ">喉</span>	<span style="">hóu</span><br><span style="">throat</span><br><span style="">喉咙, hóulóng, throat</span>
+<br><span style="">throat</span><br>	<span style="font-size: 32px; ">喉</span><br><span style="">hóu</span><br><span style="">喉咙, hóulóng, throat</span>
+<span style="font-size: 32px; ">壶</span>	<span style="">hú</span><br><span style="">pot</span><br><span style=""></span>
+<br><span style="">pot</span><br>	<span style="font-size: 32px; ">壶</span><br><span style="">hú</span><br><span style=""></span>
+<span style="font-size: 32px; ">划</span>	<span style="">huà</span><br><span style="">plan</span><br><span style="">计划, jìhuà, plan<br />划算, jìsuàn, be worth the price</span>
+<span style="font-size: 32px; ">化</span>	<span style="">huà</span><br><span style="">change</span><br><span style=""></span>
+<br><span style="">change</span><br>	<span style="font-size: 32px; ">化</span><br><span style="">huà</span><br><span style=""></span>
+<span style="font-size: 32px; ">话</span>	<span style="">huà</span><br><span style="">speech</span><br><span style="">普通话, Pǔtōnghuà, Mandarin Chinese<br>广东话, Guǎngdōnghuà, Cantonese<br>电话, diànhuà, telephone</span>
+<br><span style="">speech</span><br>	<span style="font-size: 32px; ">话</span><br><span style="">huà</span><br><span style="">普通话, Pǔtōnghuà, Mandarin Chinese<br>广东话, Guǎngdōnghuà, Cantonese<br>电话, diànhuà, telephone</span>
+<span style="font-size: 32px; ">华</span>	<span style="">huà</span><br><span style="">China</span><br><span style=""></span>
+<br><span style="">China</span><br>	<span style="font-size: 32px; ">华</span><br><span style="">huà</span><br><span style=""></span>
+<span style="font-size: 32px; ">画</span>	<span style="">huà</span><br><span style="">draw</span><br><span style=""></span>
+<br><span style="">draw</span><br>	<span style="font-size: 32px; ">画</span><br><span style="">huà</span><br><span style=""></span>
+<span style="font-size: 32px; ">滑</span>	<span style="">huá</span><br><span style="">glide</span><br><span style="">滑雪, huáxuě, ski</span>
+<br><span style="">glide</span><br>	<span style="font-size: 32px; ">滑</span><br><span style="">huá</span><br><span style="">滑雪, huáxuě, ski</span>
+<span style="font-size: 32px; ">坏</span>	<span style="">huài</span><br><span style="">bad</span><br><span style=""></span>
+<br><span style="">bad</span><br>	<span style="font-size: 32px; ">坏</span><br><span style="">huài</span><br><span style=""></span>
+<span style="font-size: 32px; ">欢</span>	<span style="">huān</span><br><span style="">happy</span><br><span style="">欢迎, huānyíng, welcome<br>欢迎光临, huānyíngguānglín, Welcome!<br>喜欢, xǐhuan, like</span>
+<br><span style="">happy</span><br>	<span style="font-size: 32px; ">欢</span><br><span style="">huān</span><br><span style="">欢迎, huānyíng, welcome<br>欢迎光临, huānyíngguānglín, Welcome!<br>喜欢, xǐhuan, like</span>
+<span style="font-size: 32px; ">黄</span>	<span style="">huáng</span><br><span style="">yellow</span><br><span style="">蛋黄, dànhuáng, yolk</span>
+<br><span style="">yellow</span><br>	<span style="font-size: 32px; ">黄</span><br><span style="">huáng</span><br><span style="">蛋黄, dànhuáng, yolk</span>
+<span style="font-size: 32px; ">会</span>	<span style="">huì / kuài</span><br><span style="">can / account</span><br><span style="">会议, huìyì,meeting<br />一会儿, yīhuìr, some<br />机会, jīhuì, opportunity<br />晚会, wǎnhuì,party<br>会计, kuàijì, accounting</span>
+<br><span style="">can / account</span><br>	<span style="font-size: 32px; ">会</span><br><span style="">huì / kuài</span><br><span style="">会议, huìyì,meeting<br />一会儿, yīhuìr, some<br />机会, jīhuì, opportunity<br />晚会, wǎnhuì,party<br>会计, kuàijì, accounting</span>
+<span style="font-size: 32px; ">回</span>	<span style="">huí</span><br><span style="">return</span><br><span style="">回来, huílái, return<br>回国, huíguó, return home (country),<br>回家, huíjiā, return home (family)</span>
+<br><span style="">return</span><br>	<span style="font-size: 32px; ">回</span><br><span style="">huí</span><br><span style="">回来, huílái, return<br>回国, huíguó, return home (country),<br>回家, huíjiā, return home (family)</span>
+<span style="font-size: 32px; ">货</span>	<span style="">huò</span><br><span style="">goods</span><br><span style="">售货员, shòuhuòyuán, shop assistant</span>
+<br><span style="">goods</span><br>	<span style="font-size: 32px; ">货</span><br><span style="">huò</span><br><span style="">售货员, shòuhuòyuán, shop assistant</span>
+<span style="font-size: 32px; ">火</span>	<span style="">huǒ</span><br><span style="">fire</span><br><span style="">火车, huǒchē, train</span>
+<br><span style="">fire</span><br>	<span style="font-size: 32px; ">火</span><br><span style="">huǒ</span><br><span style="">火车, huǒchē, train</span>
+<span style="font-size: 32px; ">婚</span>	<span style="">hūn</span><br><span style="">marry</span><br><span style="">结婚, jiéhūn, marry</span>
+<br><span style="">marry</span><br>	<span style="font-size: 32px; ">婚</span><br><span style="">hūn</span><br><span style="">结婚, jiéhūn, marry</span>
+<span style="font-size: 32px; ">几</span>	<span style="">jǐ</span><br><span style="">how many?</span><br><span style=""></span>
+<br><span style="">how many?</span><br>	<span style="font-size: 32px; ">几</span><br><span style="">jǐ</span><br><span style=""></span>
+<span style="font-size: 32px; ">寄</span>	<span style="">jì</span><br><span style="">send</span><br><span style="">寄存, jìcún, deposit</span>
+<br><span style="">send</span><br>	<span style="font-size: 32px; ">寄</span><br><span style="">jì</span><br><span style="">寄存, jìcún, deposit</span>
+<span style="font-size: 32px; ">鸡</span>	<span style="">jī</span><br><span style="">chicken</span><br><span style="">鸡丁, jīdīng, diced chicken<br>鸡肉, jīròu, chicken meat<br>鸡蛋, jīdàn, egg</span>
+<br><span style="">chicken</span><br>	<span style="font-size: 32px; ">鸡</span><br><span style="">jī</span><br><span style="">鸡丁, jīdīng, diced chicken<br>鸡肉, jīròu, chicken meat<br>鸡蛋, jīdàn, egg</span>
+<span style="font-size: 32px; ">己</span>	<span style="">jǐ</span><br><span style="">self</span><br><span style="">自己, zìjǐ, oneself</span>
+<br><span style="">self</span><br>	<span style="font-size: 32px; ">己</span><br><span style="">jǐ</span><br><span style="">自己, zìjǐ, oneself</span>
+<span style="font-size: 32px; ">济</span>	<span style="">jì</span><br><span style="">[no translation, part of jīngjì]</span><br><span style="">经济, jīngjì, economy</span>
+<br><span style="">[no translation, part of jīngjì]</span><br>	<span style="font-size: 32px; ">济</span><br><span style="">jì</span><br><span style="">经济, jīngjì, economy</span>
+<span style="font-size: 32px; ">矶</span>	<span style="">jī</span><br><span style="">rock</span><br><span style="">洛杉矶, Luòshānjī, Los Angeles</span>
+<br><span style="">rock</span><br>	<span style="font-size: 32px; ">矶</span><br><span style="">jī</span><br><span style="">洛杉矶, Luòshānjī, Los Angeles</span>
+<span style="font-size: 32px; ">计</span>	<span style="">jì</span><br><span style="">count</span><br><span style="">计划, jìhuà, plan<br>设计师, shèjìshī，designer<br>计算机, jìsuànjī, computer</span>
+<br><span style="">count</span><br>	<span style="font-size: 32px; ">计</span><br><span style="">jì</span><br><span style="">计划, jìhuà, plan<br>设计师, shèjìshī，designer<br>计算机, jìsuànjī, computer</span>
+<span style="font-size: 32px; ">记</span>	<span style="">jì</span><br><span style="">remember</span><br><span style="">记得, jìde，remember<br>登记表，dēngjìbiǎo, registration form<br>笔记本, bǐjìběn, notebook</span>
+<br><span style="">remember</span><br>	<span style="font-size: 32px; ">记</span><br><span style="">jì</span><br><span style="">记得, jìde，remember<br>登记表，dēngjìbiǎo, registration form<br>笔记本, bǐjìběn, notebook</span>
+<span style="font-size: 32px; ">机</span>	<span style="">jī</span><br><span style="">machine</span><br><span style="">计算机, jìsuànjī, computer<br>机会, jīhuì，opportunity<br>司机, sījī, driver</span>
+<br><span style="">machine</span><br>	<span style="font-size: 32px; ">机</span><br><span style="">jī</span><br><span style="">计算机, jìsuànjī, computer<br>机会, jīhuì，opportunity<br>司机, sījī, driver</span>
+<span style="font-size: 32px; ">际</span>	<span style="">jì</span><br><span style="">boundary</span><br><span style="">国际, guójì, international</span>
+<br><span style="">boundary</span><br>	<span style="font-size: 32px; ">际</span><br><span style="">jì</span><br><span style="">国际, guójì, international</span>
+<span style="font-size: 32px; ">极</span>	<span style="">jí</span><br><span style="">extreme</span><br><span style="">太极拳,Tàijíquán, Tai-chi</span>
+<br><span style="">extreme</span><br>	<span style="font-size: 32px; ">极</span><br><span style="">jí</span><br><span style="">太极拳,Tàijíquán, Tai-chi</span>
+<span style="font-size: 32px; ">加</span>	<span style="">jiā</span><br><span style="">add</span><br><span style="">新加坡, Xīnjiāpō, Singapore<br>芝加哥, Zhījiāgē, Chicago</span>
+<br><span style="">add</span><br>	<span style="font-size: 32px; ">加</span><br><span style="">jiā</span><br><span style="">新加坡, Xīnjiāpō, Singapore<br>芝加哥, Zhījiāgē, Chicago</span>
+<span style="font-size: 32px; ">家</span>	<span style="">jiā</span><br><span style="">home</span><br><span style="">大家, dàjiā, everbody<br>回家, huíjiā, return home</span>
+<br><span style="">home</span><br>	<span style="font-size: 32px; ">家</span><br><span style="">jiā</span><br><span style="">大家, dàjiā, everbody<br>回家, huíjiā, return home</span>
+<span style="font-size: 32px; ">见</span>	<span style="">jiàn</span><br><span style="">see</span><br><span style=""></span>
+<br><span style="">see</span><br>	<span style="font-size: 32px; ">见</span><br><span style="">jiàn</span><br><span style=""></span>
+<span style="font-size: 32px; ">建</span>	<span style="">jiàn</span><br><span style="">construct</span><br><span style="">建筑, jiànzhù, build</span>
+<br><span style="">construct</span><br>	<span style="font-size: 32px; ">建</span><br><span style="">jiàn</span><br><span style="">建筑, jiànzhù, build</span>
+<span style="font-size: 32px; ">件</span>	<span style="">jiàn</span><br><span style="">item</span><br><span style="">软件, ruǎnjiàn, software</span>
+<br><span style="">item</span><br>	<span style="font-size: 32px; ">件</span><br><span style="">jiàn</span><br><span style="">软件, ruǎnjiàn, software</span>
+<span style="font-size: 32px; ">间</span>	<span style="">jiān</span><br><span style="">room</span><br><span style="">包间, bāojiān, compartment<br>房间, fángjiān, room<br>当人间, dāngrénjiān, single room<br>试衣间, shìyījiān, changing room (in clothes shop)</span>
+<br><span style="">room</span><br>	<span style="font-size: 32px; ">间</span><br><span style="">jiān</span><br><span style="">包间, bāojiān, compartment<br>房间, fángjiān, room<br>当人间, dāngrénjiān, single room<br>试衣间, shìyījiān, changing room (in clothes shop)</span>
+<span style="font-size: 32px; ">叫</span>	<span style="">jiào</span><br><span style="">call</span><br><span style=""></span>
+<br><span style="">call</span><br>	<span style="font-size: 32px; ">叫</span><br><span style="">jiào</span><br><span style=""></span>
+<span style="font-size: 32px; ">教</span>	<span style="">jiào</span><br><span style="">teach</span><br><span style="">教师, jiàoshī, teacher</span>
+<br><span style="">teach</span><br>	<span style="font-size: 32px; ">教</span><br><span style="">jiào</span><br><span style="">教师, jiàoshī, teacher</span>
+<span style="font-size: 32px; ">交</span>	<span style="">jiāo</span><br><span style="">join</span><br><span style="">公交车, gōngjiāochē, bus</span>
+<br><span style="">join</span><br>	<span style="font-size: 32px; ">交</span><br><span style="">jiāo</span><br><span style="">公交车, gōngjiāochē, bus</span>
+<span style="font-size: 32px; ">较</span>	<span style="">jiào</span><br><span style="">relatively</span><br><span style="">比较, bǐjiào, compare /relatively</span>
+<br><span style="">relatively</span><br>	<span style="font-size: 32px; ">较</span><br><span style="">jiào</span><br><span style="">比较, bǐjiào, compare /relatively</span>
+<span style="font-size: 32px; ">接</span>	<span style="">jiē</span><br><span style="">connect</span><br><span style=""></span>
+<br><span style="">connect</span><br>	<span style="font-size: 32px; ">接</span><br><span style="">jiē</span><br><span style=""></span>
+<span style="font-size: 32px; ">节</span>	<span style="">jié</span><br><span style="">festival</span><br><span style="">万圣节, Wànshèngjié, Hallowe'en<br>圣诞节, Shèngdànjié, Christmas<br>春节, Chūnjié, Spring Festival<br>节日, jiérì, festival</span>
+<br><span style="">festival</span><br>	<span style="font-size: 32px; ">节</span><br><span style="">jié</span><br><span style="">万圣节, Wànshèngjié, Hallowe'en<br>圣诞节, Shèngdànjié, Christmas<br>春节, Chūnjié, Spring Festival<br>节日, jiérì, festival</span>
+<span style="font-size: 32px; ">介</span>	<span style="">jiè</span><br><span style="">introduce</span><br><span style="">介绍, jièshào, introduce</span>
+<br><span style="">introduce</span><br>	<span style="font-size: 32px; ">介</span><br><span style="">jiè</span><br><span style="">介绍, jièshào, introduce</span>
+<span style="font-size: 32px; ">结</span>	<span style="">jié</span><br><span style="">tie</span><br><span style="">结婚, jiéhūn, marry结帐, jiézhàng, pay the bill</span>
+<br><span style="">tie</span><br>	<span style="font-size: 32px; ">结</span><br><span style="">jié</span><br><span style="">结婚, jiéhūn, marry结帐, jiézhàng, pay the bill</span>
+<span style="font-size: 32px; ">姐</span>	<span style="">jiě</span><br><span style="">older sister</span><br><span style="">姐姐, jiějie, older sister<br>小姐, xiǎojiě, Miss<br>兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>大姐, dàjiě, eldest sister</span>
+<br><span style="">older sister</span><br>	<span style="font-size: 32px; ">姐</span><br><span style="">jiě</span><br><span style="">姐姐, jiějie, older sister<br>小姐, xiǎojiě, Miss<br>兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>大姐, dàjiě, eldest sister</span>
+<span style="font-size: 32px; ">街</span>	<span style="">jiē</span><br><span style="">street</span><br><span style="">逛街, guàngjiē, window shop</span>
+<br><span style="">street</span><br>	<span style="font-size: 32px; ">街</span><br><span style="">jiē</span><br><span style="">逛街, guàngjiē, window shop</span>
+<span style="font-size: 32px; ">今</span>	<span style="">jīn</span><br><span style="">now</span><br><span style="">今年, jīnnián, this year今天, jīntiān, today</span>
+<br><span style="">now</span><br>	<span style="font-size: 32px; ">今</span><br><span style="">jīn</span><br><span style="">今年, jīnnián, this year今天, jīntiān, today</span>
+<span style="font-size: 32px; ">斤</span>	<span style="">jīn</span><br><span style="">pound</span><br><span style=""></span>
+<br><span style="">pound</span><br>	<span style="font-size: 32px; ">斤</span><br><span style="">jīn</span><br><span style=""></span>
+<span style="font-size: 32px; ">金</span>	<span style="">jīn</span><br><span style="">gold</span><br><span style="">现金, xiànjīn, cash</span>
+<br><span style="">gold</span><br>	<span style="font-size: 32px; ">金</span><br><span style="">jīn</span><br><span style="">现金, xiànjīn, cash</span>
+<span style="font-size: 32px; ">近</span>	<span style="">jìn</span><br><span style="">near</span><br><span style="">最近,zuìjìn, recently附近, fùjìn, close</span>
+<br><span style="">near</span><br>	<span style="font-size: 32px; ">近</span><br><span style="">jìn</span><br><span style="">最近,zuìjìn, recently附近, fùjìn, close</span>
+<span style="font-size: 32px; ">京</span>	<span style="">jīng</span><br><span style="">capital</span><br><span style="">北京, Běijīng, Beijing南京, Nánjīng, Nanjing</span>
+<br><span style="">capital</span><br>	<span style="font-size: 32px; ">京</span><br><span style="">jīng</span><br><span style="">北京, Běijīng, Beijing南京, Nánjīng, Nanjing</span>
+<span style="font-size: 32px; ">经</span>	<span style="">jīng</span><br><span style="">scripture</span><br><span style="">经理, jīnglǐ, manager<br>经济, jīngjì, economy<br>已经, yǐjīng, already</span>
+<br><span style="">scripture</span><br>	<span style="font-size: 32px; ">经</span><br><span style="">jīng</span><br><span style="">经理, jīnglǐ, manager<br>经济, jīngjì, economy<br>已经, yǐjīng, already</span>
+<span style="font-size: 32px; ">jīng</span>	<span style="">精</span><br><span style="">perfect</span><br><span style="">精彩, jīngcǎi, brilliant</span>
+<br><span style="">perfect</span><br>	<span style="font-size: 32px; ">jīng</span><br><span style="">精</span><br><span style="">精彩, jīngcǎi, brilliant</span>
+<span style="font-size: 32px; ">井</span>	<span style="">jǐng</span><br><span style="">well</span><br><span style="">王府井, Wánfǔjǐng</span>
+<br><span style="">well</span><br>	<span style="font-size: 32px; ">井</span><br><span style="">jǐng</span><br><span style="">王府井, Wánfǔjǐng</span>
+<span style="font-size: 32px; ">久</span>	<span style="">jiǔ</span><br><span style="">long time</span><br><span style=""></span>
+<br><span style="">long time</span><br>	<span style="font-size: 32px; ">久</span><br><span style="">jiǔ</span><br><span style=""></span>
+<span style="font-size: 32px; ">九</span>	<span style="">jiǔ</span><br><span style="">nine</span><br><span style=""></span>
+<br><span style="">nine</span><br>	<span style="font-size: 32px; ">九</span><br><span style="">jiǔ</span><br><span style=""></span>
+<span style="font-size: 32px; ">就</span>	<span style="">jiù</span><br><span style="">just</span><br><span style=""></span>
+<br><span style="">just</span><br>	<span style="font-size: 32px; ">就</span><br><span style="">jiù</span><br><span style=""></span>
+<span style="font-size: 32px; ">酒</span>	<span style="">jiǔ</span><br><span style="">alcohol</span><br><span style="">啤酒, píjiǔ, beer</span>
+<br><span style="">alcohol</span><br>	<span style="font-size: 32px; ">酒</span><br><span style="">jiǔ</span><br><span style="">啤酒, píjiǔ, beer</span>
+<span style="font-size: 32px; ">究</span>	<span style="">jiū</span><br><span style="">study</span><br><span style="">研究, yánjiū, research研究生, yánjiūshēng, research student</span>
+<br><span style="">study</span><br>	<span style="font-size: 32px; ">究</span><br><span style="">jiū</span><br><span style="">研究, yánjiū, research研究生, yánjiūshēng, research student</span>
+<span style="font-size: 32px; ">据</span>	<span style="">jù</span><br><span style="">seize</span><br><span style="">收据, shōujù, receipt</span>
+<br><span style="">seize</span><br>	<span style="font-size: 32px; ">据</span><br><span style="">jù</span><br><span style="">收据, shōujù, receipt</span>
+<span style="font-size: 32px; ">爵</span>	<span style="">jué</span><br><span style="">nobility</span><br><span style="">爵士, juéshì, jazz</span>
+<br><span style="">nobility</span><br>	<span style="font-size: 32px; ">爵</span><br><span style="">jué</span><br><span style="">爵士, juéshì, jazz</span>
+<span style="font-size: 32px; ">觉</span>	<span style="">jué</span><br><span style="">perceive</span><br><span style="">觉得, juéde, feel</span>
+<br><span style="">perceive</span><br>	<span style="font-size: 32px; ">觉</span><br><span style="">jué</span><br><span style="">觉得, juéde, feel</span>
+<span style="font-size: 32px; ">卡</span>	<span style="">kǎ</span><br><span style="">card</span><br><span style="">信用卡, xìnyòngkǎ, credit card</span>
+<br><span style="">card</span><br>	<span style="font-size: 32px; ">卡</span><br><span style="">kǎ</span><br><span style="">信用卡, xìnyòngkǎ, credit card</span>
+<span style="font-size: 32px; ">咖</span>	<span style="">kā</span><br><span style="">[character used in transcriptions - ka]</span><br><span style="">咖啡, kāfēi, coffee</span>
+<br><span style="">[character used in transcriptions - ka]</span><br>	<span style="font-size: 32px; ">咖</span><br><span style="">kā</span><br><span style="">咖啡, kāfēi, coffee</span>
+<span style="font-size: 32px; ">开</span>	<span style="">kāi</span><br><span style="">open</span><br><span style="">离开,líkāi, leave开心, kāixīn, happy开始, kāishǐ, begin</span>
+<br><span style="">open</span><br>	<span style="font-size: 32px; ">开</span><br><span style="">kāi</span><br><span style="">离开,líkāi, leave开心, kāixīn, happy开始, kāishǐ, begin</span>
+<span style="font-size: 32px; ">看</span>	<span style="">kàn</span><br><span style="">see</span><br><span style=""></span>
+<br><span style="">see</span><br>	<span style="font-size: 32px; ">看</span><br><span style="">kàn</span><br><span style=""></span>
+<span style="font-size: 32px; ">康</span>	<span style="">kàng</span><br><span style="">health</span><br><span style="">康复, kàngfù, restore to health</span>
+<br><span style="">health</span><br>	<span style="font-size: 32px; ">康</span><br><span style="">kàng</span><br><span style="">康复, kàngfù, restore to health</span>
+<span style="font-size: 32px; ">课</span>	<span style="">kè</span><br><span style="">lesson</span><br><span style="">课程, kèchéng, curriculum</span>
+<br><span style="">lesson</span><br>	<span style="font-size: 32px; ">课</span><br><span style="">kè</span><br><span style="">课程, kèchéng, curriculum</span>
+<span style="font-size: 32px; ">kè</span>	<span style="">客</span><br><span style="">guest</span><br><span style="">乘客, chéngkè, passenger</span>
+<br><span style="">guest</span><br>	<span style="font-size: 32px; ">kè</span><br><span style="">客</span><br><span style="">乘客, chéngkè, passenger</span>
+<span style="font-size: 32px; ">kě</span>	<span style="">可</span><br><span style="">can</span><br><span style="">可是kěshì, but<br>可以kěyǐ, can<br>可惜kěxī, unfortunately</span>
+<br><span style="">can</span><br>	<span style="font-size: 32px; ">kě</span><br><span style="">可</span><br><span style="">可是kěshì, but<br>可以kěyǐ, can<br>可惜kěxī, unfortunately</span>
+<span style="font-size: 32px; ">孔</span>	<span style="">kǒng</span><br><span style="">Kong</span><br><span style="">孔子, Kǒngzǐ, Confucius</span>
+<br><span style="">Kong</span><br>	<span style="font-size: 32px; ">孔</span><br><span style="">kǒng</span><br><span style="">孔子, Kǒngzǐ, Confucius</span>
+<span style="font-size: 32px; ">kōng</span>	<span style="">空</span><br><span style="">empty</span><br><span style="">空调, kōngtiáo, air conditioning</span>
+<br><span style="">empty</span><br>	<span style="font-size: 32px; ">kōng</span><br><span style="">空</span><br><span style="">空调, kōngtiáo, air conditioning</span>
+<span style="font-size: 32px; ">快</span>	<span style="">kuài</span><br><span style="">fast</span><br><span style=""></span>
+<br><span style="">fast</span><br>	<span style="font-size: 32px; ">快</span><br><span style="">kuài</span><br><span style=""></span>
+<span style="font-size: 32px; ">块</span>	<span style="">kuài</span><br><span style="">piece</span><br><span style=""></span>
+<br><span style="">piece</span><br>	<span style="font-size: 32px; ">块</span><br><span style="">kuài</span><br><span style=""></span>
+<span style="font-size: 32px; ">宽</span>	<span style="">kuān</span><br><span style="">wide</span><br><span style="">宽带网, kuāndàiwǎng, broadband</span>
+<br><span style="">wide</span><br>	<span style="font-size: 32px; ">宽</span><br><span style="">kuān</span><br><span style="">宽带网, kuāndàiwǎng, broadband</span>
+<span style="font-size: 32px; ">括</span>	<span style="">kuò</span><br><span style="">include</span><br><span style="">包括, bāokuò, include</span>
+<br><span style="">include</span><br>	<span style="font-size: 32px; ">括</span><br><span style="">kuò</span><br><span style="">包括, bāokuò, include</span>
+<span style="font-size: 32px; ">口</span>	<span style="">kǒu</span><br><span style="">mouth</span><br><span style="">口味, kǒuwèi, flavour</span>
+<br><span style="">mouth</span><br>	<span style="font-size: 32px; ">口</span><br><span style="">kǒu</span><br><span style="">口味, kǒuwèi, flavour</span>
+<span style="font-size: 32px; ">客</span>	<span style="">kè</span><br><span style="">guest</span><br><span style="">顾客, gùkè, customer<br>不客气, bù kèqi, Don't mention it<br>客人, kèrén, guest</span>
+<br><span style="">guest</span><br>	<span style="font-size: 32px; ">客</span><br><span style="">kè</span><br><span style="">顾客, gùkè, customer<br>不客气, bù kèqi, Don't mention it<br>客人, kèrén, guest</span>
+<span style="font-size: 32px; ">辣</span>	<span style="">là</span><br><span style="">hot</span><br><span style="">香辣, xiānglà, hot and spicey</span>
+<br><span style="">hot</span><br>	<span style="font-size: 32px; ">辣</span><br><span style="">là</span><br><span style="">香辣, xiānglà, hot and spicey</span>
+<span style="font-size: 32px; ">来</span>	<span style="">lái</span><br><span style="">come</span><br><span style="">来自, láizì, come from<br>回来, huílái, return</span>
+<br><span style="">come</span><br>	<span style="font-size: 32px; ">来</span><br><span style="">lái</span><br><span style="">来自, láizì, come from<br>回来, huílái, return</span>
+<span style="font-size: 32px; ">蓝</span>	<span style="">lán</span><br><span style="">blue</span><br><span style=""></span>
+<br><span style="">blue</span><br>	<span style="font-size: 32px; ">蓝</span><br><span style="">lán</span><br><span style=""></span>
+<span style="font-size: 32px; ">篮</span>	<span style="">lán</span><br><span style="">basket</span><br><span style="">篮球, lánqiú, basketball</span>
+<br><span style="">basket</span><br>	<span style="font-size: 32px; ">篮</span><br><span style="">lán</span><br><span style="">篮球, lánqiú, basketball</span>
+<span style="font-size: 32px; ">兰</span>	<span style="">lán</span><br><span style="">orchid (name)</span><br><span style=""></span>
+<br><span style="">orchid (name)</span><br>	<span style="font-size: 32px; ">兰</span><br><span style="">lán</span><br><span style=""></span>
+<span style="font-size: 32px; ">老</span>	<span style="">lǎo</span><br><span style="">old</span><br><span style="">老师, lǎoshī, teacher</span>
+<br><span style="">old</span><br>	<span style="font-size: 32px; ">老</span><br><span style="">lǎo</span><br><span style="">老师, lǎoshī, teacher</span>
+<span style="font-size: 32px; ">了</span>	<span style="">le/liao</span><br><span style="">[particle]/[bf. understand]</span><br><span style="">了解, liǎojiě, understand</span>
+<br><span style="">[particle]/[bf. understand]</span><br>	<span style="font-size: 32px; ">了</span><br><span style="">le/liao</span><br><span style="">了解, liǎojiě, understand</span>
+<span style="font-size: 32px; ">乐</span>	<span style="">lè/yuè</span><br><span style="">happy/music</span><br><span style="">快乐, kuàile, happy<br />音乐, yīnyuè, music</span>
+<br><span style="">happy/music</span><br>	<span style="font-size: 32px; ">乐</span><br><span style="">lè/yuè</span><br><span style="">快乐, kuàile, happy<br />音乐, yīnyuè, music</span>
+<span style="font-size: 32px; ">冷</span>	<span style="">lěng</span><br><span style="">cold</span><br><span style=""></span>
+<br><span style="">cold</span><br>	<span style="font-size: 32px; ">冷</span><br><span style="">lěng</span><br><span style=""></span>
+<span style="font-size: 32px; ">李</span>	<span style="">lǐ</span><br><span style="">plum</span><br><span style="">行李, xíngli, luggage</span>
+<br><span style="">plum</span><br>	<span style="font-size: 32px; ">李</span><br><span style="">lǐ</span><br><span style="">行李, xíngli, luggage</span>
+<span style="font-size: 32px; ">礼</span>	<span style="">lǐ</span><br><span style="">ceremony</span><br><span style="">礼物, lǐwù, present</span>
+<br><span style="">ceremony</span><br>	<span style="font-size: 32px; ">礼</span><br><span style="">lǐ</span><br><span style="">礼物, lǐwù, present</span>
+<span style="font-size: 32px; ">理</span>	<span style="">lǐ</span><br><span style="">principle</span><br><span style="">管理, guǎnlǐ, manage</span>
+<br><span style="">principle</span><br>	<span style="font-size: 32px; ">理</span><br><span style="">lǐ</span><br><span style="">管理, guǎnlǐ, manage</span>
+<span style="font-size: 32px; ">里</span>	<span style="">lǐ</span><br><span style="">inside</span><br><span style="">哪里, nǎlǐ, where<br>这里, zhèlǐ, here<br>里边, lǐbian, inside</span>
+<br><span style="">inside</span><br>	<span style="font-size: 32px; ">里</span><br><span style="">lǐ</span><br><span style="">哪里, nǎlǐ, where<br>这里, zhèlǐ, here<br>里边, lǐbian, inside</span>
+<span style="font-size: 32px; ">利</span>	<span style="">lì</span><br><span style="">benefit</span><br><span style="">意大利, Yìdàlì, Italy</span>
+<br><span style="">benefit</span><br>	<span style="font-size: 32px; ">利</span><br><span style="">lì</span><br><span style="">意大利, Yìdàlì, Italy</span>
+<span style="font-size: 32px; ">离</span>	<span style="">lí</span><br><span style="">leave</span><br><span style="">离开, lìkāi, leave</span>
+<br><span style="">leave</span><br>	<span style="font-size: 32px; ">离</span><br><span style="">lí</span><br><span style="">离开, lìkāi, leave</span>
+<span style="font-size: 32px; ">历</span>	<span style="">lì</span><br><span style="">history</span><br><span style="">阴历, yīnlì, traditional calendar</span>
+<br><span style="">history</span><br>	<span style="font-size: 32px; ">历</span><br><span style="">lì</span><br><span style="">阴历, yīnlì, traditional calendar</span>
+<span style="font-size: 32px; ">临</span>	<span style="">lín</span><br><span style="">overlook</span><br><span style="">欢迎光临, huānyíngguānglín, Welcome!</span>
+<br><span style="">overlook</span><br>	<span style="font-size: 32px; ">临</span><br><span style="">lín</span><br><span style="">欢迎光临, huānyíngguānglín, Welcome!</span>
+<span style="font-size: 32px; ">联</span>	<span style="">lián</span><br><span style="">unite</span><br><span style="">联欢晚会, liánhuān wǎnhuì, party</span>
+<br><span style="">unite</span><br>	<span style="font-size: 32px; ">联</span><br><span style="">lián</span><br><span style="">联欢晚会, liánhuān wǎnhuì, party</span>
+<span style="font-size: 32px; ">两</span>	<span style="">liǎng</span><br><span style="">two</span><br><span style=""></span>
+<br><span style="">two</span><br>	<span style="font-size: 32px; ">两</span><br><span style="">liǎng</span><br><span style=""></span>
+<span style="font-size: 32px; ">量</span>	<span style="">liàng</span><br><span style="">amount</span><br><span style=""></span>
+<br><span style="">amount</span><br>	<span style="font-size: 32px; ">量</span><br><span style="">liàng</span><br><span style=""></span>
+<span style="font-size: 32px; ">亮</span>	<span style="">liàng</span><br><span style="">bright</span><br><span style="">月亮, yuèliàng moon light</span>
+<br><span style="">bright</span><br>	<span style="font-size: 32px; ">亮</span><br><span style="">liàng</span><br><span style="">月亮, yuèliàng moon light</span>
+<span style="font-size: 32px; ">聊</span>	<span style="">liáo</span><br><span style="">slightly</span><br><span style="">聊天, liáotiān, chat</span>
+<br><span style="">slightly</span><br>	<span style="font-size: 32px; ">聊</span><br><span style="">liáo</span><br><span style="">聊天, liáotiān, chat</span>
+<span style="font-size: 32px; ">疗</span>	<span style="">liáo</span><br><span style="">treat</span><br><span style="">疗效, liáoxiào, treatment</span>
+<br><span style="">treat</span><br>	<span style="font-size: 32px; ">疗</span><br><span style="">liáo</span><br><span style="">疗效, liáoxiào, treatment</span>
+<span style="font-size: 32px; ">料</span>	<span style="">liào</span><br><span style="">material</span><br><span style="">饮料, yǐnliào, drink</span>
+<br><span style="">material</span><br>	<span style="font-size: 32px; ">料</span><br><span style="">liào</span><br><span style="">饮料, yǐnliào, drink</span>
+<span style="font-size: 32px; ">六</span>	<span style="">liù</span><br><span style="">six</span><br><span style=""></span>
+<br><span style="">six</span><br>	<span style="font-size: 32px; ">六</span><br><span style="">liù</span><br><span style=""></span>
+<span style="font-size: 32px; ">流</span>	<span style="">liú</span><br><span style="">flow</span><br><span style="">流行, liúxíng, popular</span>
+<br><span style="">flow</span><br>	<span style="font-size: 32px; ">流</span><br><span style="">liú</span><br><span style="">流行, liúxíng, popular</span>
+<span style="font-size: 32px; ">龙</span>	<span style="">lóng</span><br><span style="">dragon</span><br><span style="">舞龙, wǔlong drance</span>
+<br><span style="">dragon</span><br>	<span style="font-size: 32px; ">龙</span><br><span style="">lóng</span><br><span style="">舞龙, wǔlong drance</span>
+<span style="font-size: 32px; ">咙</span>	<span style="">lóng</span><br><span style="">throat</span><br><span style="">喉咙, hóulóng, throat</span>
+<br><span style="">throat</span><br>	<span style="font-size: 32px; ">咙</span><br><span style="">lóng</span><br><span style="">喉咙, hóulóng, throat</span>
+<span style="font-size: 32px; ">楼</span>	<span style="">lóu</span><br><span style="">building</span><br><span style=""></span>
+<br><span style="">building</span><br>	<span style="font-size: 32px; ">楼</span><br><span style="">lóu</span><br><span style=""></span>
+<span style="font-size: 32px; ">伦</span>	<span style="">lún</span><br><span style="">ethics</span><br><span style="">伦敦, lúndūn, London</span>
+<br><span style="">ethics</span><br>	<span style="font-size: 32px; ">伦</span><br><span style="">lún</span><br><span style="">伦敦, lúndūn, London</span>
+<span style="font-size: 32px; ">洛</span>	<span style="">luò</span><br><span style="">Luo (name of river)</span><br><span style="">洛杉矶, Luòshānjī, Los Angeles</span>
+<br><span style="">Luo (name of river)</span><br>	<span style="font-size: 32px; ">洛</span><br><span style="">luò</span><br><span style="">洛杉矶, Luòshānjī, Los Angeles</span>
+<span style="font-size: 32px; ">罗</span>	<span style="">luó</span><br><span style="">net</span><br><span style="">保罗, bǎoluó, Paul</span>
+<br><span style="">net</span><br>	<span style="font-size: 32px; ">罗</span><br><span style="">luó</span><br><span style="">保罗, bǎoluó, Paul</span>
+<span style="font-size: 32px; ">绿</span>	<span style="">lǜ</span><br><span style="">green</span><br><span style=""></span>
+<br><span style="">green</span><br>	<span style="font-size: 32px; ">绿</span><br><span style="">lǜ</span><br><span style=""></span>
+<span style="font-size: 32px; ">旅</span>	<span style="">lǚ</span><br><span style="">travel</span><br><span style="">旅游, lǚyóu, travel</span>
+<br><span style="">travel</span><br>	<span style="font-size: 32px; ">旅</span><br><span style="">lǚ</span><br><span style="">旅游, lǚyóu, travel</span>
+<span style="font-size: 32px; ">录</span>	<span style="">lù</span><br><span style="">record</span><br><span style="">录音, lùyīn, record sound</span>
+<br><span style="">record</span><br>	<span style="font-size: 32px; ">录</span><br><span style="">lù</span><br><span style="">录音, lùyīn, record sound</span>
+<span style="font-size: 32px; ">吗</span>	<span style="">ma</span><br><span style="">[question particle]</span><br><span style=""></span>
+<br><span style="">[question particle]</span><br>	<span style="font-size: 32px; ">吗</span><br><span style="">ma</span><br><span style=""></span>
+<span style="font-size: 32px; ">嘛</span>	<span style="">ma</span><br><span style="">[particle (persuasion, encouragement)]</span><br><span style=""></span>
+<br><span style="">[particle (persuasion, encouragement)]</span><br>	<span style="font-size: 32px; ">嘛</span><br><span style="">ma</span><br><span style=""></span>
+<span style="font-size: 32px; ">妈</span>	<span style="">mā</span><br><span style="">mother</span><br><span style="">妈妈, mǎma, mother</span>
+<br><span style="">mother</span><br>	<span style="font-size: 32px; ">妈</span><br><span style="">mā</span><br><span style="">妈妈, mǎma, mother</span>
+<span style="font-size: 32px; ">买</span>	<span style="">mǎi</span><br><span style="">buy</span><br><span style=""></span>
+<br><span style="">buy</span><br>	<span style="font-size: 32px; ">买</span><br><span style="">mǎi</span><br><span style=""></span>
+<span style="font-size: 32px; ">慢</span>	<span style="">màn</span><br><span style="">slow</span><br><span style=""></span>
+<br><span style="">slow</span><br>	<span style="font-size: 32px; ">慢</span><br><span style="">màn</span><br><span style=""></span>
+<span style="font-size: 32px; ">忙</span>	<span style="">máng</span><br><span style="">busy</span><br><span style=""></span>
+<br><span style="">busy</span><br>	<span style="font-size: 32px; ">忙</span><br><span style="">máng</span><br><span style=""></span>
+<span style="font-size: 32px; ">mào</span>	<span style="">贸</span><br><span style="">trade</span><br><span style="">贸易, màoyì, trade</span>
+<br><span style="">trade</span><br>	<span style="font-size: 32px; ">mào</span><br><span style="">贸</span><br><span style="">贸易, màoyì, trade</span>
+<span style="font-size: 32px; ">么</span>	<span style="">me</span><br><span style="">[suffix - in shenme]</span><br><span style="">什么, shénme, what<br>怎么, zěnme, how<br>怎么样, zěnmeme yàng</span>
+<br><span style="">[suffix - in shenme]</span><br>	<span style="font-size: 32px; ">么</span><br><span style="">me</span><br><span style="">什么, shénme, what<br>怎么, zěnme, how<br>怎么样, zěnmeme yàng</span>
+<span style="font-size: 32px; ">没</span>	<span style="">méi</span><br><span style="">not</span><br><span style="">没事, méishì, be free<br>没有, méiyǒu，not have<br>没错, méicuò, correct</span>
+<br><span style="">not</span><br>	<span style="font-size: 32px; ">没</span><br><span style="">méi</span><br><span style="">没事, méishì, be free<br>没有, méiyǒu，not have<br>没错, méicuò, correct</span>
+<span style="font-size: 32px; ">美</span>	<span style="">měi</span><br><span style="">beautiful</span><br><span style="">美国, Měiguó, America</span>
+<br><span style="">beautiful</span><br>	<span style="font-size: 32px; ">美</span><br><span style="">měi</span><br><span style="">美国, Měiguó, America</span>
+<span style="font-size: 32px; ">霉</span>	<span style="">méi</span><br><span style="">mold</span><br><span style="">青霉素, qīngméisù, penicillin</span>
+<br><span style="">mold</span><br>	<span style="font-size: 32px; ">霉</span><br><span style="">méi</span><br><span style="">青霉素, qīngméisù, penicillin</span>
+<span style="font-size: 32px; ">妹</span>	<span style="">mèi</span><br><span style="">younger sister</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>妹妹, mèimei, sisters</span>
+<br><span style="">younger sister</span><br>	<span style="font-size: 32px; ">妹</span><br><span style="">mèi</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters<br>妹妹, mèimei, sisters</span>
+<span style="font-size: 32px; ">每</span>	<span style="">měi</span><br><span style="">every</span><br><span style="">每人, měirén, everybody</span>
+<br><span style="">every</span><br>	<span style="font-size: 32px; ">每</span><br><span style="">měi</span><br><span style="">每人, měirén, everybody</span>
+<span style="font-size: 32px; ">们</span>	<span style="">men</span><br><span style="">[plural suffix]</span><br><span style="">你们, nímen, you (plural)<br>我们, wǒmen, we<br>他们, tāmen, they<br>人们, rénmen, people</span>
+<br><span style="">[plural suffix]</span><br>	<span style="font-size: 32px; ">们</span><br><span style="">men</span><br><span style="">你们, nímen, you (plural)<br>我们, wǒmen, we<br>他们, tāmen, they<br>人们, rénmen, people</span>
+<span style="font-size: 32px; ">门</span>	<span style="">mén</span><br><span style="">gate</span><br><span style=""></span>
+<br><span style="">gate</span><br>	<span style="font-size: 32px; ">门</span><br><span style="">mén</span><br><span style=""></span>
+<span style="font-size: 32px; ">檬</span>	<span style="">méng</span><br><span style="">lemon</span><br><span style="">柠檬茶, níngméngchá, lemon tea</span>
+<br><span style="">lemon</span><br>	<span style="font-size: 32px; ">檬</span><br><span style="">méng</span><br><span style="">柠檬茶, níngméngchá, lemon tea</span>
+<span style="font-size: 32px; ">秘</span>	<span style="">mì</span><br><span style="">secret</span><br><span style="">秘书, mìshū, secretary</span>
+<br><span style="">secret</span><br>	<span style="font-size: 32px; ">秘</span><br><span style="">mì</span><br><span style="">秘书, mìshū, secretary</span>
+<span style="font-size: 32px; ">米</span>	<span style="">mǐ</span><br><span style="">rice</span><br><span style="">米饭, mifàn, cooked rice</span>
+<br><span style="">rice</span><br>	<span style="font-size: 32px; ">米</span><br><span style="">mǐ</span><br><span style="">米饭, mifàn, cooked rice</span>
+<span style="font-size: 32px; ">免</span>	<span style="">miǎn</span><br><span style="">exempt</span><br><span style="">免费, miǎnfèi, free of charge</span>
+<br><span style="">exempt</span><br>	<span style="font-size: 32px; ">免</span><br><span style="">miǎn</span><br><span style="">免费, miǎnfèi, free of charge</span>
+<span style="font-size: 32px; ">面</span>	<span style="">miàn</span><br><span style="">face</span><br><span style="">面包, miànbāo, bread</span>
+<br><span style="">face</span><br>	<span style="font-size: 32px; ">面</span><br><span style="">miàn</span><br><span style="">面包, miànbāo, bread</span>
+<span style="font-size: 32px; ">名</span>	<span style="">míng</span><br><span style="">name</span><br><span style="">名片, míngmpiàn, name card<br>名字, mingzí, name<br>顾名思义, gùmíngsīyì, just as the name implies</span>
+<br><span style="">name</span><br>	<span style="font-size: 32px; ">名</span><br><span style="">míng</span><br><span style="">名片, míngmpiàn, name card<br>名字, mingzí, name<br>顾名思义, gùmíngsīyì, just as the name implies</span>
+<span style="font-size: 32px; ">明</span>	<span style="">míng</span><br><span style="">bright</span><br><span style="">明天, míngtiān, tomorrow<br>明白, míngbái, clear</span>
+<br><span style="">bright</span><br>	<span style="font-size: 32px; ">明</span><br><span style="">míng</span><br><span style="">明天, míngtiān, tomorrow<br>明白, míngbái, clear</span>
+<span style="font-size: 32px; ">敏</span>	<span style="">mǐn</span><br><span style="">sharp</span><br><span style="">过敏, guòmǐn, have an allergy</span>
+<br><span style="">sharp</span><br>	<span style="font-size: 32px; ">敏</span><br><span style="">mǐn</span><br><span style="">过敏, guòmǐn, have an allergy</span>
+<span style="font-size: 32px; ">民</span>	<span style="">mín</span><br><span style="">people</span><br><span style="">人民, rénmín, the people</span>
+<br><span style="">people</span><br>	<span style="font-size: 32px; ">民</span><br><span style="">mín</span><br><span style="">人民, rénmín, the people</span>
+<span style="font-size: 32px; ">末</span>	<span style="">mò</span><br><span style="">end</span><br><span style="">周末, zhōumò, weekend</span>
+<br><span style="">end</span><br>	<span style="font-size: 32px; ">末</span><br><span style="">mò</span><br><span style="">周末, zhōumò, weekend</span>
+<span style="font-size: 32px; ">蘑</span>	<span style="">mó</span><br><span style="">mushroom</span><br><span style="">蘑菇, mógu mushroom</span>
+<br><span style="">mushroom</span><br>	<span style="font-size: 32px; ">蘑</span><br><span style="">mó</span><br><span style="">蘑菇, mógu mushroom</span>
+<span style="font-size: 32px; ">母</span>	<span style="">mǔ</span><br><span style="">mother</span><br><span style="">母语, mǔyǔ, mother tongue<br>父母, fùmǔ, parents</span>
+<br><span style="">mother</span><br>	<span style="font-size: 32px; ">母</span><br><span style="">mǔ</span><br><span style="">母语, mǔyǔ, mother tongue<br>父母, fùmǔ, parents</span>
+<span style="font-size: 32px; ">牡</span>	<span style="">mǔ</span><br><span style="">ox</span><br><span style="">牡丹, mǔdan, peony</span>
+<br><span style="">ox</span><br>	<span style="font-size: 32px; ">牡</span><br><span style="">mǔ</span><br><span style="">牡丹, mǔdan, peony</span>
+<span style="font-size: 32px; ">目</span>	<span style="">mù</span><br><span style="">eye</span><br><span style="">项目, xiàngmù, item</span>
+<br><span style="">eye</span><br>	<span style="font-size: 32px; ">目</span><br><span style="">mù</span><br><span style="">项目, xiàngmù, item</span>
+<span style="font-size: 32px; ">木</span>	<span style="">mù</span><br><span style="">wood</span><br><span style="">木耳, mù'ěr, 'Wood ear' (mushroom)</span>
+<br><span style="">wood</span><br>	<span style="font-size: 32px; ">木</span><br><span style="">mù</span><br><span style="">木耳, mù'ěr, 'Wood ear' (mushroom)</span>
+<span style="font-size: 32px; ">慕</span>	<span style="">mù</span><br><span style="">admire</span><br><span style="">羡慕, xiànmù, envy</span>
+<br><span style="">admire</span><br>	<span style="font-size: 32px; ">慕</span><br><span style="">mù</span><br><span style="">羡慕, xiànmù, envy</span>
+<span style="font-size: 32px; ">nǎ</span>	<span style="">哪</span><br><span style="">what</span><br><span style="">哪里, nǎlǐ, where</span>
+<br><span style="">what</span><br>	<span style="font-size: 32px; ">nǎ</span><br><span style="">哪</span><br><span style="">哪里, nǎlǐ, where</span>
+<span style="font-size: 32px; ">哪</span>	<span style="">nǎ</span><br><span style="">what</span><br><span style="">哪里, nǎlǐ, where</span>
+<br><span style="">what</span><br>	<span style="font-size: 32px; ">哪</span><br><span style="">nǎ</span><br><span style="">哪里, nǎlǐ, where</span>
+<span style="font-size: 32px; ">拿</span>	<span style="">ná</span><br><span style="">hold</span><br><span style=""></span>
+<br><span style="">hold</span><br>	<span style="font-size: 32px; ">拿</span><br><span style="">ná</span><br><span style=""></span>
+<span style="font-size: 32px; ">奶</span>	<span style="">nǎi</span><br><span style="">milk</span><br><span style="">奶奶, nǎinai, garndmother牛奶, niúnǎi, cow's milk</span>
+<br><span style="">milk</span><br>	<span style="font-size: 32px; ">奶</span><br><span style="">nǎi</span><br><span style="">奶奶, nǎinai, garndmother牛奶, niúnǎi, cow's milk</span>
+<span style="font-size: 32px; ">南</span>	<span style="">nán</span><br><span style="">south</span><br><span style="">南京, Nánjīng, Nanjing</span>
+<br><span style="">south</span><br>	<span style="font-size: 32px; ">南</span><br><span style="">nán</span><br><span style="">南京, Nánjīng, Nanjing</span>
+<span style="font-size: 32px; ">男</span>	<span style="">nán</span><br><span style="">male</span><br><span style=""></span>
+<br><span style="">male</span><br>	<span style="font-size: 32px; ">男</span><br><span style="">nán</span><br><span style=""></span>
+<span style="font-size: 32px; ">难</span>	<span style="">nán</span><br><span style="">difficult</span><br><span style=""></span>
+<br><span style="">difficult</span><br>	<span style="font-size: 32px; ">难</span><br><span style="">nán</span><br><span style=""></span>
+<span style="font-size: 32px; ">脑</span>	<span style="">nǎo</span><br><span style="">brain</span><br><span style="">电脑, diànnǎo, computer</span>
+<br><span style="">brain</span><br>	<span style="font-size: 32px; ">脑</span><br><span style="">nǎo</span><br><span style="">电脑, diànnǎo, computer</span>
+<span style="font-size: 32px; ">呢</span>	<span style="">ne</span><br><span style="">[sentence final particle]</span><br><span style=""></span>
+<br><span style="">[sentence final particle]</span><br>	<span style="font-size: 32px; ">呢</span><br><span style="">ne</span><br><span style=""></span>
+<span style="font-size: 32px; ">能</span>	<span style="">néng</span><br><span style="">be able</span><br><span style="">能用, néngyòng, be able</span>
+<br><span style="">be able</span><br>	<span style="font-size: 32px; ">能</span><br><span style="">néng</span><br><span style="">能用, néngyòng, be able</span>
+<span style="font-size: 32px; ">牛</span>	<span style="">niú</span><br><span style="">ox</span><br><span style="">牛奶, niúnǎi cow's milk牛肉, niúròu, beef</span>
+<br><span style="">ox</span><br>	<span style="font-size: 32px; ">牛</span><br><span style="">niú</span><br><span style="">牛奶, niúnǎi cow's milk牛肉, niúròu, beef</span>
+<span style="font-size: 32px; ">女</span>	<span style="">nǚ</span><br><span style="">woman</span><br><span style="">妇女, fùnǚ, woman</span>
+<br><span style="">woman</span><br>	<span style="font-size: 32px; ">女</span><br><span style="">nǚ</span><br><span style="">妇女, fùnǚ, woman</span>
+<span style="font-size: 32px; ">嗯</span>	<span style="">ńg</span><br><span style="">hmm [interjection]</span><br><span style=""></span>
+<br><span style="">hmm [interjection]</span><br>	<span style="font-size: 32px; ">嗯</span><br><span style="">ńg</span><br><span style=""></span>
+<span style="font-size: 32px; ">你</span>	<span style="">nǐ</span><br><span style="">you</span><br><span style="">你好, nǐhǎo, hello</span>
+<br><span style="">you</span><br>	<span style="font-size: 32px; ">你</span><br><span style="">nǐ</span><br><span style="">你好, nǐhǎo, hello</span>
+<span style="font-size: 32px; ">年</span>	<span style="">nián</span><br><span style="">year</span><br><span style=""></span>
+<br><span style="">year</span><br>	<span style="font-size: 32px; ">年</span><br><span style="">nián</span><br><span style=""></span>
+<span style="font-size: 32px; ">念</span>	<span style="">niàn</span><br><span style="">miss</span><br><span style="">想念, xiǎngniàn, miss</span>
+<br><span style="">miss</span><br>	<span style="font-size: 32px; ">念</span><br><span style="">niàn</span><br><span style="">想念, xiǎngniàn, miss</span>
+<span style="font-size: 32px; ">您</span>	<span style="">nín</span><br><span style="">you (polite)</span><br><span style="">您好, nínhǎo, how do you to?</span>
+<br><span style="">you (polite)</span><br>	<span style="font-size: 32px; ">您</span><br><span style="">nín</span><br><span style="">您好, nínhǎo, how do you to?</span>
+<span style="font-size: 32px; ">宁</span>	<span style="">nìng</span><br><span style="">prefer (name)</span><br><span style=""></span>
+<br><span style="">prefer (name)</span><br>	<span style="font-size: 32px; ">宁</span><br><span style="">nìng</span><br><span style=""></span>
+<span style="font-size: 32px; ">柠</span>	<span style="">níng</span><br><span style="">lemon</span><br><span style="">柠檬茶, níngméng chǎ, lemon tea<br>柠檬, níngméng, lemon</span>
+<br><span style="">lemon</span><br>	<span style="font-size: 32px; ">柠</span><br><span style="">níng</span><br><span style="">柠檬茶, níngméng chǎ, lemon tea<br>柠檬, níngméng, lemon</span>
+<span style="font-size: 32px; ">浓</span>	<span style="">nóng</span><br><span style="">dense</span><br><span style=""></span>
+<br><span style="">dense</span><br>	<span style="font-size: 32px; ">浓</span><br><span style="">nóng</span><br><span style=""></span>
+<span style="font-size: 32px; ">哦</span>	<span style="">ó</span><br><span style="">Oh!</span><br><span style=""></span>
+<br><span style="">Oh!</span><br>	<span style="font-size: 32px; ">哦</span><br><span style="">ó</span><br><span style=""></span>
+<span style="font-size: 32px; ">欧</span>	<span style="">ōu</span><br><span style="">Europe</span><br><span style="">欧洲, Ōuzhōu, Europe</span>
+<br><span style="">Europe</span><br>	<span style="font-size: 32px; ">欧</span><br><span style="">ōu</span><br><span style="">欧洲, Ōuzhōu, Europe</span>
+<span style="font-size: 32px; ">牌</span>	<span style="">pái</span><br><span style="">tablet</span><br><span style="">牌儿, páir, card</span>
+<br><span style="">tablet</span><br>	<span style="font-size: 32px; ">牌</span><br><span style="">pái</span><br><span style="">牌儿, páir, card</span>
+<span style="font-size: 32px; ">派</span>	<span style="">pài</span><br><span style="">send</span><br><span style=""></span>
+<br><span style="">send</span><br>	<span style="font-size: 32px; ">派</span><br><span style="">pài</span><br><span style=""></span>
+<span style="font-size: 32px; ">乓</span>	<span style="">pāng</span><br><span style="">[sound: pang]</span><br><span style="">乒乓球, pīngpāngqiú, table tennis</span>
+<br><span style="">[sound: pang]</span><br>	<span style="font-size: 32px; ">乓</span><br><span style="">pāng</span><br><span style="">乒乓球, pīngpāngqiú, table tennis</span>
+<span style="font-size: 32px; ">旁</span>	<span style="">páng</span><br><span style="">side</span><br><span style="">旁边, pángbiān, side</span>
+<br><span style="">side</span><br>	<span style="font-size: 32px; ">旁</span><br><span style="">páng</span><br><span style="">旁边, pángbiān, side</span>
+<span style="font-size: 32px; ">朋</span>	<span style="">péng</span><br><span style="">friend</span><br><span style="">朋友, péngyou, friend</span>
+<br><span style="">friend</span><br>	<span style="font-size: 32px; ">朋</span><br><span style="">péng</span><br><span style="">朋友, péngyou, friend</span>
+<span style="font-size: 32px; ">片</span>	<span style="">piàn</span><br><span style="">slice</span><br><span style="">药片, yàopiàn, tablet</span>
+<br><span style="">slice</span><br>	<span style="font-size: 32px; ">片</span><br><span style="">piàn</span><br><span style="">药片, yàopiàn, tablet</span>
+<span style="font-size: 32px; ">瓶</span>	<span style="">píng</span><br><span style="">bottle</span><br><span style=""></span>
+<br><span style="">bottle</span><br>	<span style="font-size: 32px; ">瓶</span><br><span style="">píng</span><br><span style=""></span>
+<span style="font-size: 32px; ">啤</span>	<span style="">pí</span><br><span style="">[sound: pi]</span><br><span style="">啤酒, píjiǔ, beer</span>
+<br><span style="">[sound: pi]</span><br>	<span style="font-size: 32px; ">啤</span><br><span style="">pí</span><br><span style="">啤酒, píjiǔ, beer</span>
+<span style="font-size: 32px; ">品</span>	<span style="">pǐn</span><br><span style="">product</span><br><span style="">小品, xiǎopǐn, essay</span>
+<br><span style="">product</span><br>	<span style="font-size: 32px; ">品</span><br><span style="">pǐn</span><br><span style="">小品, xiǎopǐn, essay</span>
+<span style="font-size: 32px; ">平</span>	<span style="">píng</span><br><span style="">flat</span><br><span style="">平时, píngshí, normally</span>
+<br><span style="">flat</span><br>	<span style="font-size: 32px; ">平</span><br><span style="">píng</span><br><span style="">平时, píngshí, normally</span>
+<span style="font-size: 32px; ">苹</span>	<span style="">píng</span><br><span style="">[sound: ping]</span><br><span style="">苹果, píngguǒ, apple</span>
+<br><span style="">[sound: ping]</span><br>	<span style="font-size: 32px; ">苹</span><br><span style="">píng</span><br><span style="">苹果, píngguǒ, apple</span>
+<span style="font-size: 32px; ">乒</span>	<span style="">pīng</span><br><span style="">[sound: ping]</span><br><span style="">乒乓球, pīngpāngqiú, table tennis</span>
+<br><span style="">[sound: ping]</span><br>	<span style="font-size: 32px; ">乒</span><br><span style="">pīng</span><br><span style="">乒乓球, pīngpāngqiú, table tennis</span>
+<span style="font-size: 32px; ">票</span>	<span style="">piào</span><br><span style="">ticket</span><br><span style="">发票, fāpiào, receipt车票, chēpiào, train ticket</span>
+<br><span style="">ticket</span><br>	<span style="font-size: 32px; ">票</span><br><span style="">piào</span><br><span style="">发票, fāpiào, receipt车票, chēpiào, train ticket</span>
+<span style="font-size: 32px; ">pō</span>	<span style="">坡</span><br><span style="">slope</span><br><span style="">新加坡, Xīnjiāpō, Singapore</span>
+<br><span style="">slope</span><br>	<span style="font-size: 32px; ">pō</span><br><span style="">坡</span><br><span style="">新加坡, Xīnjiāpō, Singapore</span>
+<span style="font-size: 32px; ">普</span>	<span style="">pǔ</span><br><span style="">common</span><br><span style="">普通话, Pǔtōnghuà, Mandarin Chinese</span>
+<br><span style="">common</span><br>	<span style="font-size: 32px; ">普</span><br><span style="">pǔ</span><br><span style="">普通话, Pǔtōnghuà, Mandarin Chinese</span>
+<span style="font-size: 32px; ">葡</span>	<span style="">pú</span><br><span style="">[sound:pu]</span><br><span style="">葡萄, pútao, grape葡萄酒, pǔtaojiǔ, grape wine</span>
+<br><span style="">[sound:pu]</span><br>	<span style="font-size: 32px; ">葡</span><br><span style="">pú</span><br><span style="">葡萄, pútao, grape葡萄酒, pǔtaojiǔ, grape wine</span>
+<span style="font-size: 32px; ">起</span>	<span style="">qǐ</span><br><span style="">rise</span><br><span style="">对不起，duìbùqǐ, excuse me一起, yī qǐ, together</span>
+<br><span style="">rise</span><br>	<span style="font-size: 32px; ">起</span><br><span style="">qǐ</span><br><span style="">对不起，duìbùqǐ, excuse me一起, yī qǐ, together</span>
+<span style="font-size: 32px; ">qì</span>	<span style="">气</span><br><span style="">air</span><br><span style="">不客气, bùkèqi, You are welcome!<br>气氛, qìfēn, atmosphere</span>
+<br><span style="">air</span><br>	<span style="font-size: 32px; ">qì</span><br><span style="">气</span><br><span style="">不客气, bùkèqi, You are welcome!<br>气氛, qìfēn, atmosphere</span>
+<span style="font-size: 32px; ">棋</span>	<span style="">qí</span><br><span style="">board game</span><br><span style="">象棋, xiàngqí, Chinese chess</span>
+<br><span style="">board game</span><br>	<span style="font-size: 32px; ">棋</span><br><span style="">qí</span><br><span style="">象棋, xiàngqí, Chinese chess</span>
+<span style="font-size: 32px; ">其</span>	<span style="">qí</span><br><span style="">its</span><br><span style="">尤其, yóuqí, especially<br>其他, qítā, others</span>
+<br><span style="">its</span><br>	<span style="font-size: 32px; ">其</span><br><span style="">qí</span><br><span style="">尤其, yóuqí, especially<br>其他, qítā, others</span>
+<span style="font-size: 32px; ">七</span>	<span style="">qī</span><br><span style="">seven</span><br><span style=""></span>
+<br><span style="">seven</span><br>	<span style="font-size: 32px; ">七</span><br><span style="">qī</span><br><span style=""></span>
+<span style="font-size: 32px; ">qián</span>	<span style="">前</span><br><span style="">before</span><br><span style=""></span>
+<br><span style="">before</span><br>	<span style="font-size: 32px; ">qián</span><br><span style="">前</span><br><span style=""></span>
+<span style="font-size: 32px; ">歉</span>	<span style="">qiàn</span><br><span style="">apology</span><br><span style="">抱歉, bàoqiàn, be sorry</span>
+<br><span style="">apology</span><br>	<span style="font-size: 32px; ">歉</span><br><span style="">qiàn</span><br><span style="">抱歉, bàoqiàn, be sorry</span>
+<span style="font-size: 32px; ">钱</span>	<span style="">qián</span><br><span style="">money</span><br><span style=""></span>
+<br><span style="">money</span><br>	<span style="font-size: 32px; ">钱</span><br><span style="">qián</span><br><span style=""></span>
+<span style="font-size: 32px; ">且</span>	<span style="">qiě</span><br><span style="">for the time being</span><br><span style="">而且, érqiě, furthermore</span>
+<br><span style="">for the time being</span><br>	<span style="font-size: 32px; ">且</span><br><span style="">qiě</span><br><span style="">而且, érqiě, furthermore</span>
+<span style="font-size: 32px; ">请</span>	<span style="">qǐng</span><br><span style="">please</span><br><span style="">请问, qǐngwèn, excuse me</span>
+<br><span style="">please</span><br>	<span style="font-size: 32px; ">请</span><br><span style="">qǐng</span><br><span style="">请问, qǐngwèn, excuse me</span>
+<span style="font-size: 32px; ">青</span>	<span style="">qīng</span><br><span style="">green</span><br><span style="">青岛, Qingdǎo, Qingdao<br>青霉素, qīngméisù, penicillin</span>
+<br><span style="">green</span><br>	<span style="font-size: 32px; ">青</span><br><span style="">qīng</span><br><span style="">青岛, Qingdǎo, Qingdao<br>青霉素, qīngméisù, penicillin</span>
+<span style="font-size: 32px; ">清</span>	<span style="">qīng</span><br><span style="">clear</span><br><span style="">清洗, qīngxǐ, wash<br>清明节, Qīngmíngjié, Tomb Sweeping Day </span>
+<br><span style="">clear</span><br>	<span style="font-size: 32px; ">清</span><br><span style="">qīng</span><br><span style="">清洗, qīngxǐ, wash<br>清明节, Qīngmíngjié, Tomb Sweeping Day </span>
+<span style="font-size: 32px; ">轻</span>	<span style="">qīng</span><br><span style="">light</span><br><span style="">年轻人, niánqīngrén, young people</span>
+<br><span style="">light</span><br>	<span style="font-size: 32px; ">轻</span><br><span style="">qīng</span><br><span style="">年轻人, niánqīngrén, young people</span>
+<span style="font-size: 32px; ">情</span>	<span style="">qíng</span><br><span style="">feeling</span><br><span style="">情人, qíngrén, lovers</span>
+<br><span style="">feeling</span><br>	<span style="font-size: 32px; ">情</span><br><span style="">qíng</span><br><span style="">情人, qíngrén, lovers</span>
+<span style="font-size: 32px; ">球</span>	<span style="">qiú</span><br><span style="">ball</span><br><span style="">篮球, lánqiú, basketball<br>足球, zúqiú, football<br>网球, wǎngqiǔ, tennis<br>乒乓球, pīngpānqiú, table tennis</span>
+<br><span style="">ball</span><br>	<span style="font-size: 32px; ">球</span><br><span style="">qiú</span><br><span style="">篮球, lánqiú, basketball<br>足球, zúqiú, football<br>网球, wǎngqiǔ, tennis<br>乒乓球, pīngpānqiú, table tennis</span>
+<span style="font-size: 32px; ">秋</span>	<span style="">qiū</span><br><span style="">autumn</span><br><span style="">中秋节, zhōngqiújié, Mid-Autumn Festival</span>
+<br><span style="">autumn</span><br>	<span style="font-size: 32px; ">秋</span><br><span style="">qiū</span><br><span style="">中秋节, zhōngqiújié, Mid-Autumn Festival</span>
+<span style="font-size: 32px; ">qù</span>	<span style="">去</span><br><span style="">go</span><br><span style=""></span>
+<br><span style="">go</span><br>	<span style="font-size: 32px; ">qù</span><br><span style="">去</span><br><span style=""></span>
+<span style="font-size: 32px; ">qǔ</span>	<span style="">取</span><br><span style="">take</span><br><span style=""></span>
+<br><span style="">take</span><br>	<span style="font-size: 32px; ">qǔ</span><br><span style="">取</span><br><span style=""></span>
+<span style="font-size: 32px; ">趣</span>	<span style="">qù</span><br><span style="">interest</span><br><span style="">兴趣, xìngqù, interest</span>
+<br><span style="">interest</span><br>	<span style="font-size: 32px; ">趣</span><br><span style="">qù</span><br><span style="">兴趣, xìngqù, interest</span>
+<span style="font-size: 32px; ">确</span>	<span style="">què</span><br><span style="">true</span><br><span style="">确实, quèshí, true</span>
+<br><span style="">true</span><br>	<span style="font-size: 32px; ">确</span><br><span style="">què</span><br><span style="">确实, quèshí, true</span>
+<span style="font-size: 32px; ">拳</span>	<span style="">quán</span><br><span style="">fist</span><br><span style="">太极拳, tàijíquán, Tai-Chi</span>
+<br><span style="">fist</span><br>	<span style="font-size: 32px; ">拳</span><br><span style="">quán</span><br><span style="">太极拳, tàijíquán, Tai-Chi</span>
+<span style="font-size: 32px; ">然</span>	<span style="">rán</span><br><span style="">although</span><br><span style="">当然, dāngrán, of course<br>然后, ránhòu, afterwards</span>
+<br><span style="">although</span><br>	<span style="font-size: 32px; ">然</span><br><span style="">rán</span><br><span style="">当然, dāngrán, of course<br>然后, ránhòu, afterwards</span>
+<span style="font-size: 32px; ">让</span>	<span style="">ràng</span><br><span style="">let</span><br><span style=""></span>
+<br><span style="">let</span><br>	<span style="font-size: 32px; ">让</span><br><span style="">ràng</span><br><span style=""></span>
+<span style="font-size: 32px; ">热</span>	<span style="">rè</span><br><span style="">hot</span><br><span style="">热水, rèshuǐ, hot water</span>
+<br><span style="">hot</span><br>	<span style="font-size: 32px; ">热</span><br><span style="">rè</span><br><span style="">热水, rèshuǐ, hot water</span>
+<span style="font-size: 32px; ">人</span>	<span style="">rén</span><br><span style="">person</span><br><span style="">中国人, Zhōngguórén, Chinese (person)<br>客人, kèrén, guest<br>每人, měirén, everybody<br>病人, bìngrén, patient<br>人们, rénmen, people</span>
+<br><span style="">person</span><br>	<span style="font-size: 32px; ">人</span><br><span style="">rén</span><br><span style="">中国人, Zhōngguórén, Chinese (person)<br>客人, kèrén, guest<br>每人, měirén, everybody<br>病人, bìngrén, patient<br>人们, rénmen, people</span>
+<span style="font-size: 32px; ">认</span>	<span style="">rèn</span><br><span style="">consider</span><br><span style="">认识, rènshi, know</span>
+<br><span style="">consider</span><br>	<span style="font-size: 32px; ">认</span><br><span style="">rèn</span><br><span style="">认识, rènshi, know</span>
+<span style="font-size: 32px; ">日</span>	<span style="">rì</span><br><span style="">day</span><br><span style="">生日, shēngrì, birthday</span>
+<br><span style="">day</span><br>	<span style="font-size: 32px; ">日</span><br><span style="">rì</span><br><span style="">生日, shēngrì, birthday</span>
+<span style="font-size: 32px; ">荣</span>	<span style="">róng</span><br><span style="">glory</span><br><span style="">荣幸, róngxìng, honored</span>
+<br><span style="">glory</span><br>	<span style="font-size: 32px; ">荣</span><br><span style="">róng</span><br><span style="">荣幸, róngxìng, honored</span>
+<span style="font-size: 32px; ">肉</span>	<span style="">ròu</span><br><span style="">meat</span><br><span style="">鸡肉, jīròu, chicken (meat)<br>牛肉, niúròu, beef</span>
+<br><span style="">meat</span><br>	<span style="font-size: 32px; ">肉</span><br><span style="">ròu</span><br><span style="">鸡肉, jīròu, chicken (meat)<br>牛肉, niúròu, beef</span>
+<span style="font-size: 32px; ">瑞</span>	<span style="">ruì</span><br><span style="">auspicious</span><br><span style="">瑞典, ruìdiǎn, Sweden<br>瑞士, Ruìshì, Switzerland</span>
+<br><span style="">auspicious</span><br>	<span style="font-size: 32px; ">瑞</span><br><span style="">ruì</span><br><span style="">瑞典, ruìdiǎn, Sweden<br>瑞士, Ruìshì, Switzerland</span>
+<span style="font-size: 32px; ">ruǎn</span>	<span style="">软</span><br><span style="">soft</span><br><span style="">软件, ruǎnjiàn, software<br>软卧, ruǎnwò, soft sleeper</span>
+<br><span style="">soft</span><br>	<span style="font-size: 32px; ">ruǎn</span><br><span style="">软</span><br><span style="">软件, ruǎnjiàn, software<br>软卧, ruǎnwò, soft sleeper</span>
+<span style="font-size: 32px; ">三</span>	<span style="">sān</span><br><span style="">three</span><br><span style=""></span>
+<br><span style="">three</span><br>	<span style="font-size: 32px; ">三</span><br><span style="">sān</span><br><span style=""></span>
+<span style="font-size: 32px; ">色</span>	<span style="">sè</span><br><span style="">colour</span><br><span style="">橙色, chéngsè, orange (colour)<br>白色, báisè, white</span>
+<br><span style="">colour</span><br>	<span style="font-size: 32px; ">色</span><br><span style="">sè</span><br><span style="">橙色, chéngsè, orange (colour)<br>白色, báisè, white</span>
+<span style="font-size: 32px; ">森</span>	<span style="">sēn</span><br><span style="">forrest</span><br><span style=""></span>
+<br><span style="">forrest</span><br>	<span style="font-size: 32px; ">森</span><br><span style="">sēn</span><br><span style=""></span>
+<span style="font-size: 32px; ">四</span>	<span style="">sì</span><br><span style="">four</span><br><span style=""></span>
+<br><span style="">four</span><br>	<span style="font-size: 32px; ">四</span><br><span style="">sì</span><br><span style=""></span>
+<span style="font-size: 32px; ">司</span>	<span style="">sī</span><br><span style="">manage</span><br><span style="">公司, gōngsī, company<br>司机, sījī, driver</span>
+<br><span style="">manage</span><br>	<span style="font-size: 32px; ">司</span><br><span style="">sī</span><br><span style="">公司, gōngsī, company<br>司机, sījī, driver</span>
+<span style="font-size: 32px; ">思</span>	<span style="">sī</span><br><span style="">thought</span><br><span style="">顾名思义, gùmíngsīyì, just as the name implies</span>
+<br><span style="">thought</span><br>	<span style="font-size: 32px; ">思</span><br><span style="">sī</span><br><span style="">顾名思义, gùmíngsīyì, just as the name implies</span>
+<span style="font-size: 32px; ">松</span>	<span style="">sōng</span><br><span style="">pine tree</span><br><span style="">放松, fàngsōng, relax</span>
+<br><span style="">pine tree</span><br>	<span style="font-size: 32px; ">松</span><br><span style="">sōng</span><br><span style="">放松, fàngsōng, relax</span>
+<span style="font-size: 32px; ">苏</span>	<span style="">sū</span><br><span style="">revive</span><br><span style="">苏州, Sūzhōu, Suzhou (city)</span>
+<br><span style="">revive</span><br>	<span style="font-size: 32px; ">苏</span><br><span style="">sū</span><br><span style="">苏州, Sūzhōu, Suzhou (city)</span>
+<span style="font-size: 32px; ">素</span>	<span style="">sù</span><br><span style="">plain</span><br><span style="">青霉素, qīngméisù, penicillin</span>
+<br><span style="">plain</span><br>	<span style="font-size: 32px; ">素</span><br><span style="">sù</span><br><span style="">青霉素, qīngméisù, penicillin</span>
+<span style="font-size: 32px; ">算</span>	<span style="">suàn</span><br><span style="">compute</span><br><span style="">计算机, jìsuànjī, computer<br>打算, dǎsuàn, plan<br>算了, suànle, forget it<br>划算, huàsuàn, be worth the price</span>
+<br><span style="">compute</span><br>	<span style="font-size: 32px; ">算</span><br><span style="">suàn</span><br><span style="">计算机, jìsuànjī, computer<br>打算, dǎsuàn, plan<br>算了, suànle, forget it<br>划算, huàsuàn, be worth the price</span>
+<span style="font-size: 32px; ">岁</span>	<span style="">suì</span><br><span style="">age</span><br><span style=""></span>
+<br><span style="">age</span><br>	<span style="font-size: 32px; ">岁</span><br><span style="">suì</span><br><span style=""></span>
+<span style="font-size: 32px; ">所</span>	<span style="">suǒ</span><br><span style="">place</span><br><span style="">所以, suǒyǐ, therefore</span>
+<br><span style="">place</span><br>	<span style="font-size: 32px; ">所</span><br><span style="">suǒ</span><br><span style="">所以, suǒyǐ, therefore</span>
+<span style="font-size: 32px; ">杉</span>	<span style="">shān</span><br><span style="">China fir</span><br><span style="">洛杉矶, Luòshānjī</span>
+<br><span style="">China fir</span><br>	<span style="font-size: 32px; ">杉</span><br><span style="">shān</span><br><span style="">洛杉矶, Luòshānjī</span>
+<span style="font-size: 32px; ">擅</span>	<span style="">shàn</span><br><span style="">act without authority</span><br><span style="">擅长, shàncháng, be good at</span>
+<br><span style="">act without authority</span><br>	<span style="font-size: 32px; ">擅</span><br><span style="">shàn</span><br><span style="">擅长, shàncháng, be good at</span>
+<span style="font-size: 32px; ">上</span>	<span style="">shàng</span><br><span style="">above</span><br><span style="">晚上, wǎnshang, evening<br>上海, Shànghǎi, Shanghai<br>当上, dāngshang, attain the position of</span>
+<br><span style="">above</span><br>	<span style="font-size: 32px; ">上</span><br><span style="">shàng</span><br><span style="">晚上, wǎnshang, evening<br>上海, Shànghǎi, Shanghai<br>当上, dāngshang, attain the position of</span>
+<span style="font-size: 32px; ">赏</span>	<span style="">shǎng</span><br><span style="">admire</span><br><span style="">欣赏, xīnshǎng, appreciate<br>赏月shǎngyuè, admire the moon</span>
+<br><span style="">admire</span><br>	<span style="font-size: 32px; ">赏</span><br><span style="">shǎng</span><br><span style="">欣赏, xīnshǎng, appreciate<br>赏月shǎngyuè, admire the moon</span>
+<span style="font-size: 32px; ">绍</span>	<span style="">shào</span><br><span style="">connect</span><br><span style="">介绍 ,jièshào, introduce</span>
+<br><span style="">connect</span><br>	<span style="font-size: 32px; ">绍</span><br><span style="">shào</span><br><span style="">介绍 ,jièshào, introduce</span>
+<span style="font-size: 32px; ">稍</span>	<span style="">shāo</span><br><span style="">slightly</span><br><span style="">稍等, shāoděng, wait a moment</span>
+<br><span style="">slightly</span><br>	<span style="font-size: 32px; ">稍</span><br><span style="">shāo</span><br><span style="">稍等, shāoděng, wait a moment</span>
+<span style="font-size: 32px; ">shǎo</span>	<span style="">少</span><br><span style="">few</span><br><span style="">多少, duōshao, how many</span>
+<br><span style="">few</span><br>	<span style="font-size: 32px; ">shǎo</span><br><span style="">少</span><br><span style="">多少, duōshao, how many</span>
+<span style="font-size: 32px; ">烧</span>	<span style="">shāo</span><br><span style="">cook</span><br><span style="">发烧, fāshāo, have a fever</span>
+<br><span style="">cook</span><br>	<span style="font-size: 32px; ">烧</span><br><span style="">shāo</span><br><span style="">发烧, fāshāo, have a fever</span>
+<span style="font-size: 32px; ">设</span>	<span style="">shè</span><br><span style="">set up</span><br><span style="">设计师, shèjìshī, designer</span>
+<br><span style="">set up</span><br>	<span style="font-size: 32px; ">设</span><br><span style="">shè</span><br><span style="">设计师, shèjìshī, designer</span>
+<span style="font-size: 32px; ">什</span>	<span style="">shén</span><br><span style="">what</span><br><span style="">什么, shénme, what</span>
+<br><span style="">what</span><br>	<span style="font-size: 32px; ">什</span><br><span style="">shén</span><br><span style="">什么, shénme, what</span>
+<span style="font-size: 32px; ">身</span>	<span style="">shēn</span><br><span style="">body</span><br><span style="">身份证, shēnfènzhèng, identify card<br>身心, shēnxīn, body and mind</span>
+<br><span style="">body</span><br>	<span style="font-size: 32px; ">身</span><br><span style="">shēn</span><br><span style="">身份证, shēnfènzhèng, identify card<br>身心, shēnxīn, body and mind</span>
+<span style="font-size: 32px; ">生</span>	<span style="">shēng</span><br><span style="">life</span><br><span style="">先生, xiānsheng, Mr.<br>学生, xuésheng, student<br>研究学生, yánjiūxuésheng, research student<br>生日, shēngrì, birthday</span>
+<br><span style="">life</span><br>	<span style="font-size: 32px; ">生</span><br><span style="">shēng</span><br><span style="">先生, xiānsheng, Mr.<br>学生, xuésheng, student<br>研究学生, yánjiūxuésheng, research student<br>生日, shēngrì, birthday</span>
+<span style="font-size: 32px; ">圣</span>	<span style="">shèng</span><br><span style="">holy</span><br><span style="">万圣节, Wànshèngjié, Hallowe 'en<br>圣诞节, Shèngdànjié, Christmas</span>
+<br><span style="">holy</span><br>	<span style="font-size: 32px; ">圣</span><br><span style="">shèng</span><br><span style="">万圣节, Wànshèngjié, Hallowe 'en<br>圣诞节, Shèngdànjié, Christmas</span>
+<span style="font-size: 32px; ">声</span>	<span style="">shēng</span><br><span style="">sound</span><br><span style="">相声, xiāngsheng, comic dialogue</span>
+<br><span style="">sound</span><br>	<span style="font-size: 32px; ">声</span><br><span style="">shēng</span><br><span style="">相声, xiāngsheng, comic dialogue</span>
+<span style="font-size: 32px; ">十</span>	<span style="">shí</span><br><span style="">ten</span><br><span style=""></span>
+<br><span style="">ten</span><br>	<span style="font-size: 32px; ">十</span><br><span style="">shí</span><br><span style=""></span>
+<span style="font-size: 32px; ">事</span>	<span style="">shì</span><br><span style="">thing</span><br><span style="">没事, méi shì, be free<br>从事, cóngshì, deal with</span>
+<br><span style="">thing</span><br>	<span style="font-size: 32px; ">事</span><br><span style="">shì</span><br><span style="">没事, méi shì, be free<br>从事, cóngshì, deal with</span>
+<span style="font-size: 32px; ">士</span>	<span style="">shì</span><br><span style="">scholar</span><br><span style="">硕士, shuòshì, M.A.<br>爵士, juéshì, jazz<br>瑞士, Ruìshì, Switzerland</span>
+<br><span style="">scholar</span><br>	<span style="font-size: 32px; ">士</span><br><span style="">shì</span><br><span style="">硕士, shuòshì, M.A.<br>爵士, juéshì, jazz<br>瑞士, Ruìshì, Switzerland</span>
+<span style="font-size: 32px; ">室</span>	<span style="">shǐ</span><br><span style="">room</span><br><span style="">实验室, shíyànshì, laboratory</span>
+<br><span style="">room</span><br>	<span style="font-size: 32px; ">室</span><br><span style="">shǐ</span><br><span style="">实验室, shíyànshì, laboratory</span>
+<span style="font-size: 32px; ">是</span>	<span style="">shì</span><br><span style="">to be</span><br><span style="">可是, kěshì, but<br>还是, háishì, had better</span>
+<br><span style="">to be</span><br>	<span style="font-size: 32px; ">是</span><br><span style="">shì</span><br><span style="">可是, kěshì, but<br>还是, háishì, had better</span>
+<span style="font-size: 32px; ">识</span>	<span style="">shí</span><br><span style="">know</span><br><span style="">认识, rènshi, know</span>
+<br><span style="">know</span><br>	<span style="font-size: 32px; ">识</span><br><span style="">shí</span><br><span style="">认识, rènshi, know</span>
+<span style="font-size: 32px; ">适</span>	<span style="">shì</span><br><span style="">suitable</span><br><span style="">合适, héshì, appropriate</span>
+<br><span style="">suitable</span><br>	<span style="font-size: 32px; ">适</span><br><span style="">shì</span><br><span style="">合适, héshì, appropriate</span>
+<span style="font-size: 32px; ">师</span>	<span style="">shī</span><br><span style="">teacher</span><br><span style="">设计师, shèjìshī, designer<br>老师, lǎoshī, teacher<br>工程师, gōngchéngshī, engineer<br>师傅, shīfu, master</span>
+<br><span style="">teacher</span><br>	<span style="font-size: 32px; ">师</span><br><span style="">shī</span><br><span style="">设计师, shèjìshī, designer<br>老师, lǎoshī, teacher<br>工程师, gōngchéngshī, engineer<br>师傅, shīfu, master</span>
+<span style="font-size: 32px; ">匙</span>	<span style="">shi</span><br><span style="">[part of 'key']</span><br><span style="">钥匙, yàoshi, key</span>
+<br><span style="">[part of 'key']</span><br>	<span style="font-size: 32px; ">匙</span><br><span style="">shi</span><br><span style="">钥匙, yàoshi, key</span>
+<span style="font-size: 32px; ">视</span>	<span style="">shì</span><br><span style="">look</span><br><span style="">电视, diànshì, TV<br>重视, zhòngshì, take serious</span>
+<br><span style="">look</span><br>	<span style="font-size: 32px; ">视</span><br><span style="">shì</span><br><span style="">电视, diànshì, TV<br>重视, zhòngshì, take serious</span>
+<span style="font-size: 32px; ">始</span>	<span style="">shǐ</span><br><span style="">begin</span><br><span style="">开始, kāishǐ, begin</span>
+<br><span style="">begin</span><br>	<span style="font-size: 32px; ">始</span><br><span style="">shǐ</span><br><span style="">开始, kāishǐ, begin</span>
+<span style="font-size: 32px; ">时</span>	<span style="">shí</span><br><span style="">time</span><br><span style="">小时, xiǎoshí, hour<br>平时, píngshí, ordinary<br>时候, shíhòu, (point in) time<br>时间, shíjiān, (duration of) time</span>
+<br><span style="">time</span><br>	<span style="font-size: 32px; ">时</span><br><span style="">shí</span><br><span style="">小时, xiǎoshí, hour<br>平时, píngshí, ordinary<br>时候, shíhòu, (point in) time<br>时间, shíjiān, (duration of) time</span>
+<span style="font-size: 32px; ">试</span>	<span style="">shì</span><br><span style="">try</span><br><span style="">试衣间, shìyījiān, changing room (in clothes shop)</span>
+<br><span style="">try</span><br>	<span style="font-size: 32px; ">试</span><br><span style="">shì</span><br><span style="">试衣间, shìyījiān, changing room (in clothes shop)</span>
+<span style="font-size: 32px; ">实</span>	<span style="">shí</span><br><span style="">real</span><br><span style="">确实, quèshí, real</span>
+<br><span style="">real</span><br>	<span style="font-size: 32px; ">实</span><br><span style="">shí</span><br><span style="">确实, quèshí, real</span>
+<span style="font-size: 32px; ">狮</span>	<span style="">shī</span><br><span style="">lion</span><br><span style="">舞狮, wǔshī, lion dance</span>
+<br><span style="">lion</span><br>	<span style="font-size: 32px; ">狮</span><br><span style="">shī</span><br><span style="">舞狮, wǔshī, lion dance</span>
+<span style="font-size: 32px; ">手</span>	<span style="">shǒu</span><br><span style="">hand</span><br><span style="">助手, zhùshǒu, assistant</span>
+<br><span style="">hand</span><br>	<span style="font-size: 32px; ">手</span><br><span style="">shǒu</span><br><span style="">助手, zhùshǒu, assistant</span>
+<span style="font-size: 32px; ">收</span>	<span style="">shōu</span><br><span style="">gather</span><br><span style="">收费, shōufèi, charge<br>收银员, shōuyínyuán, cashier<br>收据, shōujù, receipt</span>
+<br><span style="">gather</span><br>	<span style="font-size: 32px; ">收</span><br><span style="">shōu</span><br><span style="">收费, shōufèi, charge<br>收银员, shōuyínyuán, cashier<br>收据, shōujù, receipt</span>
+<span style="font-size: 32px; ">售</span>	<span style="">shǒu</span><br><span style="">sell</span><br><span style="">售货员, shòuhuòyuán, shop assistant</span>
+<br><span style="">sell</span><br>	<span style="font-size: 32px; ">售</span><br><span style="">shǒu</span><br><span style="">售货员, shòuhuòyuán, shop assistant</span>
+<span style="font-size: 32px; ">书</span>	<span style="">shū</span><br><span style="">book</span><br><span style="">图书馆, túshūguǎn, library<br>秘书, mìshū, secretary<br>书法, shūfǎ, calligraphy</span>
+<br><span style="">book</span><br>	<span style="font-size: 32px; ">书</span><br><span style="">shū</span><br><span style="">图书馆, túshūguǎn, library<br>秘书, mìshū, secretary<br>书法, shūfǎ, calligraphy</span>
+<span style="font-size: 32px; ">叔</span>	<span style="">shū</span><br><span style="">uncle</span><br><span style="">叔叔, shūshu, uncle</span>
+<br><span style="">uncle</span><br>	<span style="font-size: 32px; ">叔</span><br><span style="">shū</span><br><span style="">叔叔, shūshu, uncle</span>
+<span style="font-size: 32px; ">舒</span>	<span style="">shū</span><br><span style="">stretch</span><br><span style="">舒服, shūfu, comfortable</span>
+<br><span style="">stretch</span><br>	<span style="font-size: 32px; ">舒</span><br><span style="">shū</span><br><span style="">舒服, shūfu, comfortable</span>
+<span style="font-size: 32px; ">属</span>	<span style="">shǔ</span><br><span style="">belong to</span><br><span style=""></span>
+<br><span style="">belong to</span><br>	<span style="font-size: 32px; ">属</span><br><span style="">shǔ</span><br><span style=""></span>
+<span style="font-size: 32px; ">鼠</span>	<span style="">shǔ</span><br><span style="">mouse</span><br><span style=""></span>
+<br><span style="">mouse</span><br>	<span style="font-size: 32px; ">鼠</span><br><span style="">shǔ</span><br><span style=""></span>
+<span style="font-size: 32px; ">双</span>	<span style="">shuāng</span><br><span style="">pair</span><br><span style="">双人间, shuāngrénjiān, double room</span>
+<br><span style="">pair</span><br>	<span style="font-size: 32px; ">双</span><br><span style="">shuāng</span><br><span style="">双人间, shuāngrénjiān, double room</span>
+<span style="font-size: 32px; ">水</span>	<span style="">shuǐ</span><br><span style="">water</span><br><span style="">热水, rèshuǐ, hot water<br>水果, shuǐguǒ, fruit</span>
+<br><span style="">water</span><br>	<span style="font-size: 32px; ">水</span><br><span style="">shuǐ</span><br><span style="">热水, rèshuǐ, hot water<br>水果, shuǐguǒ, fruit</span>
+<span style="font-size: 32px; ">说</span>	<span style="">shuō</span><br><span style="">say</span><br><span style=""></span>
+<br><span style="">say</span><br>	<span style="font-size: 32px; ">说</span><br><span style="">shuō</span><br><span style=""></span>
+<span style="font-size: 32px; ">硕</span>	<span style="">shuò</span><br><span style="">large</span><br><span style="">硕士, shuòshì, M.A.</span>
+<br><span style="">large</span><br>	<span style="font-size: 32px; ">硕</span><br><span style="">shuò</span><br><span style="">硕士, shuòshì, M.A.</span>
+<span style="font-size: 32px; ">他</span>	<span style="">tā</span><br><span style="">he</span><br><span style="">他们, tāmen, they<br>其他, qítā, others</span>
+<br><span style="">he</span><br>	<span style="font-size: 32px; ">他</span><br><span style="">tā</span><br><span style="">他们, tāmen, they<br>其他, qítā, others</span>
+<span style="font-size: 32px; ">她</span>	<span style="">tā</span><br><span style="">she</span><br><span style=""></span>
+<br><span style="">she</span><br>	<span style="font-size: 32px; ">她</span><br><span style="">tā</span><br><span style=""></span>
+<span style="font-size: 32px; ">它</span>	<span style="">tā</span><br><span style="">it</span><br><span style=""></span>
+<br><span style="">it</span><br>	<span style="font-size: 32px; ">它</span><br><span style="">tā</span><br><span style=""></span>
+<span style="font-size: 32px; ">太</span>	<span style="">tài</span><br><span style="">great</span><br><span style="">太太, tàitai, Mrs</span>
+<br><span style="">great</span><br>	<span style="font-size: 32px; ">太</span><br><span style="">tài</span><br><span style="">太太, tàitai, Mrs</span>
+<span style="font-size: 32px; ">台</span>	<span style="">tái</span><br><span style="">platform</span><br><span style="">中央台, Zhōngyāngtái, CCTV (Chinese Television Station)</span>
+<br><span style="">platform</span><br>	<span style="font-size: 32px; ">台</span><br><span style="">tái</span><br><span style="">中央台, Zhōngyāngtái, CCTV (Chinese Television Station)</span>
+<span style="font-size: 32px; ">tán</span>	<span style="">谈</span><br><span style="">talk</span><br><span style=""></span>
+<br><span style="">talk</span><br>	<span style="font-size: 32px; ">tán</span><br><span style="">谈</span><br><span style=""></span>
+<span style="font-size: 32px; ">坛</span>	<span style="">tán</span><br><span style="">altar</span><br><span style="">天坛, Tiāntán, Temple of Heaven (in Beijing)</span>
+<br><span style="">altar</span><br>	<span style="font-size: 32px; ">坛</span><br><span style="">tán</span><br><span style="">天坛, Tiāntán, Temple of Heaven (in Beijing)</span>
+<span style="font-size: 32px; ">糖</span>	<span style="">táng</span><br><span style="">sugar</span><br><span style="">糖醋, tángcù, sweet and sour</span>
+<br><span style="">sugar</span><br>	<span style="font-size: 32px; ">糖</span><br><span style="">táng</span><br><span style="">糖醋, tángcù, sweet and sour</span>
+<span style="font-size: 32px; ">汤</span>	<span style="">tāng</span><br><span style="">soup</span><br><span style=""></span>
+<br><span style="">soup</span><br>	<span style="font-size: 32px; ">汤</span><br><span style="">tāng</span><br><span style=""></span>
+<span style="font-size: 32px; ">趟</span>	<span style="">tàng</span><br><span style="">Measure word for trips</span><br><span style=""></span>
+<br><span style="">Measure word for trips</span><br>	<span style="font-size: 32px; ">趟</span><br><span style="">tàng</span><br><span style=""></span>
+<span style="font-size: 32px; ">萄</span>	<span style="">táo</span><br><span style="">grape</span><br><span style="">葡萄, pútao, grapes<br>葡萄酒, pútaojiǔ, wine</span>
+<br><span style="">grape</span><br>	<span style="font-size: 32px; ">萄</span><br><span style="">táo</span><br><span style="">葡萄, pútao, grapes<br>葡萄酒, pútaojiǔ, wine</span>
+<span style="font-size: 32px; ">桃</span>	<span style="">táo</span><br><span style="">peach</span><br><span style="">桃子, peach, táozi, peach</span>
+<br><span style="">peach</span><br>	<span style="font-size: 32px; ">桃</span><br><span style="">táo</span><br><span style="">桃子, peach, táozi, peach</span>
+<span style="font-size: 32px; ">疼</span>	<span style="">téng</span><br><span style="">sore</span><br><span style="">胃疼, wèi téng, stomach pain</span>
+<br><span style="">sore</span><br>	<span style="font-size: 32px; ">疼</span><br><span style="">téng</span><br><span style="">胃疼, wèi téng, stomach pain</span>
+<span style="font-size: 32px; ">题</span>	<span style="">tí</span><br><span style="">raise</span><br><span style="">问题, wèntí, question, problem</span>
+<br><span style="">raise</span><br>	<span style="font-size: 32px; ">题</span><br><span style="">tí</span><br><span style="">问题, wèntí, question, problem</span>
+<span style="font-size: 32px; ">踢</span>	<span style="">tī</span><br><span style="">kick</span><br><span style=""></span>
+<br><span style="">kick</span><br>	<span style="font-size: 32px; ">踢</span><br><span style="">tī</span><br><span style=""></span>
+<span style="font-size: 32px; ">体</span>	<span style="">tǐ</span><br><span style="">body</span><br><span style="">体温, tǐwēn, body temperature</span>
+<br><span style="">body</span><br>	<span style="font-size: 32px; ">体</span><br><span style="">tǐ</span><br><span style="">体温, tǐwēn, body temperature</span>
+<span style="font-size: 32px; ">天 </span>	<span style="">tiān</span><br><span style="">heaven</span><br><span style="">明天, míngtiān, tomorrow<br>今天, jīntiān, today<br>昨天, zuótiān, yesterday<br>天坛, Tiāntán, Temple of Heaven (in Beiijing)</span>
+<br><span style="">heaven</span><br>	<span style="font-size: 32px; ">天 </span><br><span style="">tiān</span><br><span style="">明天, míngtiān, tomorrow<br>今天, jīntiān, today<br>昨天, zuótiān, yesterday<br>天坛, Tiāntán, Temple of Heaven (in Beiijing)</span>
+<span style="font-size: 32px; ">甜</span>	<span style="">tián</span><br><span style="">sweet</span><br><span style=""></span>
+<br><span style="">sweet</span><br>	<span style="font-size: 32px; ">甜</span><br><span style="">tián</span><br><span style=""></span>
+<span style="font-size: 32px; ">填</span>	<span style="">tián</span><br><span style="">fill in</span><br><span style=""></span>
+<br><span style="">fill in</span><br>	<span style="font-size: 32px; ">填</span><br><span style="">tián</span><br><span style=""></span>
+<span style="font-size: 32px; ">调</span>	<span style="">tiáo</span><br><span style="">adjust</span><br><span style="">空调, kōngtiáo, air-conditioning</span>
+<br><span style="">adjust</span><br>	<span style="font-size: 32px; ">调</span><br><span style="">tiáo</span><br><span style="">空调, kōngtiáo, air-conditioning</span>
+<span style="font-size: 32px; ">铁</span>	<span style="">tiě</span><br><span style="">iron</span><br><span style="">地铁, dìtiě, underground (railway)</span>
+<br><span style="">iron</span><br>	<span style="font-size: 32px; ">铁</span><br><span style="">tiě</span><br><span style="">地铁, dìtiě, underground (railway)</span>
+<span style="font-size: 32px; ">厅</span>	<span style="">tīng</span><br><span style="">hall</span><br><span style=""></span>
+<br><span style="">hall</span><br>	<span style="font-size: 32px; ">厅</span><br><span style="">tīng</span><br><span style=""></span>
+<span style="font-size: 32px; ">挺</span>	<span style="">tǐng</span><br><span style="">quite, very</span><br><span style=""></span>
+<br><span style="">quite, very</span><br>	<span style="font-size: 32px; ">挺</span><br><span style="">tǐng</span><br><span style=""></span>
+<span style="font-size: 32px; ">听</span>	<span style="">tīng</span><br><span style="">listen</span><br><span style=""></span>
+<br><span style="">listen</span><br>	<span style="font-size: 32px; ">听</span><br><span style="">tīng</span><br><span style=""></span>
+<span style="font-size: 32px; ">通</span>	<span style="">tōng</span><br><span style="">go through</span><br><span style="">普通话, Pǔtōnghuà, standard language<br>通过, tōngguò, pass<br>通常, tōngcháng, general</span>
+<br><span style="">go through</span><br>	<span style="font-size: 32px; ">通</span><br><span style="">tōng</span><br><span style="">普通话, Pǔtōnghuà, standard language<br>通过, tōngguò, pass<br>通常, tōngcháng, general</span>
+<span style="font-size: 32px; ">同</span>	<span style="">tóng</span><br><span style="">same</span><br><span style="">同学, tóngxué, fellow student</span>
+<br><span style="">same</span><br>	<span style="font-size: 32px; ">同</span><br><span style="">tóng</span><br><span style="">同学, tóngxué, fellow student</span>
+<span style="font-size: 32px; ">统</span>	<span style="">tǒng</span><br><span style="">system</span><br><span style="">传统, chuántǒng, tradition</span>
+<br><span style="">system</span><br>	<span style="font-size: 32px; ">统</span><br><span style="">tǒng</span><br><span style="">传统, chuántǒng, tradition</span>
+<span style="font-size: 32px; ">tóng</span>	<span style="">童</span><br><span style="">child</span><br><span style="">儿童, értóng, children</span>
+<br><span style="">child</span><br>	<span style="font-size: 32px; ">tóng</span><br><span style="">童</span><br><span style="">儿童, értóng, children</span>
+<span style="font-size: 32px; ">投</span>	<span style="">tóu</span><br><span style="">throw</span><br><span style="">投币, tóu bì, insert money</span>
+<br><span style="">throw</span><br>	<span style="font-size: 32px; ">投</span><br><span style="">tóu</span><br><span style="">投币, tóu bì, insert money</span>
+<span style="font-size: 32px; ">图</span>	<span style="">tú</span><br><span style="">map</span><br><span style="">图书馆, túshūguǎn, library<br>地图, dìtú, map</span>
+<br><span style="">map</span><br>	<span style="font-size: 32px; ">图</span><br><span style="">tú</span><br><span style="">图书馆, túshūguǎn, library<br>地图, dìtú, map</span>
+<span style="font-size: 32px; ">团</span>	<span style="">tuán</span><br><span style="">group</span><br><span style="">团圆, tuányuán, member</span>
+<br><span style="">group</span><br>	<span style="font-size: 32px; ">团</span><br><span style="">tuán</span><br><span style="">团圆, tuányuán, member</span>
+<span style="font-size: 32px; ">退</span>	<span style="">tuì</span><br><span style="">go backwards</span><br><span style="">退休, tuìxiū, retire<br>退房, tuì fáng, check out</span>
+<br><span style="">go backwards</span><br>	<span style="font-size: 32px; ">退</span><br><span style="">tuì</span><br><span style="">退休, tuìxiū, retire<br>退房, tuì fáng, check out</span>
+<span style="font-size: 32px; ">万</span>	<span style="">wàn</span><br><span style="">ten thousand</span><br><span style="">万圣节, Wànshèngjié, Hallowe'en</span>
+<br><span style="">ten thousand</span><br>	<span style="font-size: 32px; ">万</span><br><span style="">wàn</span><br><span style="">万圣节, Wànshèngjié, Hallowe'en</span>
+<span style="font-size: 32px; ">玩</span>	<span style="">wán</span><br><span style="">play</span><br><span style=""></span>
+<br><span style="">play</span><br>	<span style="font-size: 32px; ">玩</span><br><span style="">wán</span><br><span style=""></span>
+<span style="font-size: 32px; ">完</span>	<span style="">wán</span><br><span style="">finish</span><br><span style="">完成, wánchéng, complete</span>
+<br><span style="">finish</span><br>	<span style="font-size: 32px; ">完</span><br><span style="">wán</span><br><span style="">完成, wánchéng, complete</span>
+<span style="font-size: 32px; ">碗</span>	<span style="">wǎn</span><br><span style="">bowl</span><br><span style=""></span>
+<br><span style="">bowl</span><br>	<span style="font-size: 32px; ">碗</span><br><span style="">wǎn</span><br><span style=""></span>
+<span style="font-size: 32px; ">晚</span>	<span style="">wǎn</span><br><span style="">evening</span><br><span style="">晚上, wǎnshang, evening<br>晚饭, wǎnfàn, dinner<br>晚会, wǎnhuì, party</span>
+<br><span style="">evening</span><br>	<span style="font-size: 32px; ">晚</span><br><span style="">wǎn</span><br><span style="">晚上, wǎnshang, evening<br>晚饭, wǎnfàn, dinner<br>晚会, wǎnhuì, party</span>
+<span style="font-size: 32px; ">王</span>	<span style="">wáng</span><br><span style="">king</span><br><span style="">王府井, Wángfǔjǐng, Wangfujing (shopping area in Beijing)</span>
+<br><span style="">king</span><br>	<span style="font-size: 32px; ">王</span><br><span style="">wáng</span><br><span style="">王府井, Wángfǔjǐng, Wangfujing (shopping area in Beijing)</span>
+<span style="font-size: 32px; ">网</span>	<span style="">wǎng</span><br><span style="">net</span><br><span style="">宽带网, kuāndàiwǎng, broadband<br>网球, wǎngqiú, tennis</span>
+<br><span style="">net</span><br>	<span style="font-size: 32px; ">网</span><br><span style="">wǎng</span><br><span style="">宽带网, kuāndàiwǎng, broadband<br>网球, wǎngqiú, tennis</span>
+<span style="font-size: 32px; ">望</span>	<span style="">wàng</span><br><span style="">look</span><br><span style="">看望, kànwàng, visit</span>
+<br><span style="">look</span><br>	<span style="font-size: 32px; ">望</span><br><span style="">wàng</span><br><span style="">看望, kànwàng, visit</span>
+<span style="font-size: 32px; ">喂</span>	<span style="">wèi</span><br><span style="">hello</span><br><span style=""></span>
+<br><span style="">hello</span><br>	<span style="font-size: 32px; ">喂</span><br><span style="">wèi</span><br><span style=""></span>
+<span style="font-size: 32px; ">wèi</span>	<span style="">位</span><br><span style="">position</span><br><span style="">几位, jǐ wèi, table for how many? (in restaurant)</span>
+<br><span style="">position</span><br>	<span style="font-size: 32px; ">wèi</span><br><span style="">位</span><br><span style="">几位, jǐ wèi, table for how many? (in restaurant)</span>
+<span style="font-size: 32px; ">胃</span>	<span style="">wèi</span><br><span style="">stomach</span><br><span style="">胃疼 , wèi téng, stomach pains</span>
+<br><span style="">stomach</span><br>	<span style="font-size: 32px; ">胃</span><br><span style="">wèi</span><br><span style="">胃疼 , wèi téng, stomach pains</span>
+<span style="font-size: 32px; ">味</span>	<span style="">wèi</span><br><span style="">flavour</span><br><span style="">口味, kǒuwèi, flavour</span>
+<br><span style="">flavour</span><br>	<span style="font-size: 32px; ">味</span><br><span style="">wèi</span><br><span style="">口味, kǒuwèi, flavour</span>
+<span style="font-size: 32px; ">为</span>	<span style="">wèi</span><br><span style="">for</span><br><span style="">因为, yīnwèi, because</span>
+<br><span style="">for</span><br>	<span style="font-size: 32px; ">为</span><br><span style="">wèi</span><br><span style="">因为, yīnwèi, because</span>
+<span style="font-size: 32px; ">温</span>	<span style="">wēn</span><br><span style="">warm</span><br><span style=""> 体温, tǐwēn, body temperature</span>
+<br><span style="">warm</span><br>	<span style="font-size: 32px; ">温</span><br><span style="">wēn</span><br><span style=""> 体温, tǐwēn, body temperature</span>
+<span style="font-size: 32px; ">文</span>	<span style="">wén</span><br><span style="">language</span><br><span style="">中文, Zhōngwén, Chinese language</span>
+<br><span style="">language</span><br>	<span style="font-size: 32px; ">文</span><br><span style="">wén</span><br><span style="">中文, Zhōngwén, Chinese language</span>
+<span style="font-size: 32px; ">问</span>	<span style="">wèn</span><br><span style="">ask</span><br><span style="">请问, qǐngwèn, may I ask?<br>问题, wèntí, question, problem</span>
+<br><span style="">ask</span><br>	<span style="font-size: 32px; ">问</span><br><span style="">wèn</span><br><span style="">请问, qǐngwèn, may I ask?<br>问题, wèntí, question, problem</span>
+<span style="font-size: 32px; ">我</span>	<span style="">wǒ</span><br><span style="">I</span><br><span style=""></span>
+<br><span style="">I</span><br>	<span style="font-size: 32px; ">我</span><br><span style="">wǒ</span><br><span style=""></span>
+<span style="font-size: 32px; ">卧</span>	<span style="">wò</span><br><span style="">lie down</span><br><span style="">硬卧,yìngwò, hard slipper<br>软卧, ruǎnwò, soft sleeper</span>
+<br><span style="">lie down</span><br>	<span style="font-size: 32px; ">卧</span><br><span style="">wò</span><br><span style="">硬卧,yìngwò, hard slipper<br>软卧, ruǎnwò, soft sleeper</span>
+<span style="font-size: 32px; ">务</span>	<span style="">wù</span><br><span style="">task</span><br><span style="">公务员, gōngwùyuán, government employee<br>服务员, fúwùyuán, waiter</span>
+<br><span style="">task</span><br>	<span style="font-size: 32px; ">务</span><br><span style="">wù</span><br><span style="">公务员, gōngwùyuán, government employee<br>服务员, fúwùyuán, waiter</span>
+<span style="font-size: 32px; ">物</span>	<span style="">wù</span><br><span style="">thing</span><br><span style="">礼物, lǐwù, present</span>
+<br><span style="">thing</span><br>	<span style="font-size: 32px; ">物</span><br><span style="">wù</span><br><span style="">礼物, lǐwù, present</span>
+<span style="font-size: 32px; ">午</span>	<span style="">wǔ</span><br><span style="">noon</span><br><span style="">中午, zhōngwǔ, midday</span>
+<br><span style="">noon</span><br>	<span style="font-size: 32px; ">午</span><br><span style="">wǔ</span><br><span style="">中午, zhōngwǔ, midday</span>
+<span style="font-size: 32px; ">舞</span>	<span style="">wǔ</span><br><span style="">dance</span><br><span style="">舞狮, wǔshī, lion dance<br>舞龙, wǔlóng, dragon, dance</span>
+<br><span style="">dance</span><br>	<span style="font-size: 32px; ">舞</span><br><span style="">wǔ</span><br><span style="">舞狮, wǔshī, lion dance<br>舞龙, wǔlóng, dragon, dance</span>
+<span style="font-size: 32px; ">系</span>	<span style="">xì</span><br><span style="">system</span><br><span style="">关系, guānxì, connection</span>
+<br><span style="">system</span><br>	<span style="font-size: 32px; ">系</span><br><span style="">xì</span><br><span style="">关系, guānxì, connection</span>
+<span style="font-size: 32px; ">喜</span>	<span style="">xǐ</span><br><span style="">happiness</span><br><span style="">喜欢, xǐhuan, like<br>喜气洋洋, xǐqìyángyáng, cheerful, jubilant</span>
+<br><span style="">happiness</span><br>	<span style="font-size: 32px; ">喜</span><br><span style="">xǐ</span><br><span style="">喜欢, xǐhuan, like<br>喜气洋洋, xǐqìyángyáng, cheerful, jubilant</span>
+<span style="font-size: 32px; ">洗</span>	<span style="">xǐ</span><br><span style="">wash</span><br><span style="">清洗, xǐzǎo, take a bath/shower</span>
+<br><span style="">wash</span><br>	<span style="font-size: 32px; ">洗</span><br><span style="">xǐ</span><br><span style="">清洗, xǐzǎo, take a bath/shower</span>
+<span style="font-size: 32px; ">西</span>	<span style="">xī</span><br><span style="">west</span><br><span style="">西班牙, Xībānyá, Spain<br>西安, Xī'ān, Xian (city)<br>西方, xīfāng, the west</span>
+<br><span style="">west</span><br>	<span style="font-size: 32px; ">西</span><br><span style="">xī</span><br><span style="">西班牙, Xībānyá, Spain<br>西安, Xī'ān, Xian (city)<br>西方, xīfāng, the west</span>
+<span style="font-size: 32px; ">夕</span>	<span style="">xī</span><br><span style="">evening</span><br><span style="">七夕节, qīxījié, Qīxī festival</span>
+<br><span style="">evening</span><br>	<span style="font-size: 32px; ">夕</span><br><span style="">xī</span><br><span style="">七夕节, qīxījié, Qīxī festival</span>
+<span style="font-size: 32px; ">xī</span>	<span style="">惜</span><br><span style="">cherish</span><br><span style="">可惜, kěxī, It's a pity!</span>
+<br><span style="">cherish</span><br>	<span style="font-size: 32px; ">xī</span><br><span style="">惜</span><br><span style="">可惜, kěxī, It's a pity!</span>
+<span style="font-size: 32px; ">兄</span>	<span style="">xiōng</span><br><span style="">brother</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters</span>
+<br><span style="">brother</span><br>	<span style="font-size: 32px; ">兄</span><br><span style="">xiōng</span><br><span style="">兄弟姐妹, xiōngdìjiěmèi, brothers and sisters</span>
+<span style="font-size: 32px; ">xià</span>	<span style="">下</span><br><span style="">under</span><br><span style=""></span>
+<br><span style="">under</span><br>	<span style="font-size: 32px; ">xià</span><br><span style="">下</span><br><span style=""></span>
+<span style="font-size: 32px; ">虾</span>	<span style="">xiā</span><br><span style="">shrimp</span><br><span style=""></span>
+<br><span style="">shrimp</span><br>	<span style="font-size: 32px; ">虾</span><br><span style="">xiā</span><br><span style=""></span>
+<span style="font-size: 32px; ">先</span>	<span style="">xiān</span><br><span style="">first</span><br><span style="">先生, xiānsheng, Mr</span>
+<br><span style="">first</span><br>	<span style="font-size: 32px; ">先</span><br><span style="">xiān</span><br><span style="">先生, xiānsheng, Mr</span>
+<span style="font-size: 32px; ">现</span>	<span style="">xiàn</span><br><span style="">appear</span><br><span style="">现在, xiànzài, now<br>现金, xiànjīn, cash</span>
+<br><span style="">appear</span><br>	<span style="font-size: 32px; ">现</span><br><span style="">xiàn</span><br><span style="">现在, xiànzài, now<br>现金, xiànjīn, cash</span>
+<span style="font-size: 32px; ">咸</span>	<span style="">xián</span><br><span style="">salt</span><br><span style=""></span>
+<br><span style="">salt</span><br>	<span style="font-size: 32px; ">咸</span><br><span style="">xián</span><br><span style=""></span>
+<span style="font-size: 32px; ">鲜</span>	<span style="">xiān</span><br><span style="">fresh</span><br><span style="">新鲜, xīnxiān, fresh</span>
+<br><span style="">fresh</span><br>	<span style="font-size: 32px; ">鲜</span><br><span style="">xiān</span><br><span style="">新鲜, xīnxiān, fresh</span>
+<span style="font-size: 32px; ">羡</span>	<span style="">xiàn</span><br><span style="">admire</span><br><span style="">羡慕, xiànmù, admire, envy</span>
+<br><span style="">admire</span><br>	<span style="font-size: 32px; ">羡</span><br><span style="">xiàn</span><br><span style="">羡慕, xiànmù, admire, envy</span>
+<span style="font-size: 32px; ">项</span>	<span style="">xiàng</span><br><span style="">item</span><br><span style="">项目, xiàngmù, project</span>
+<br><span style="">item</span><br>	<span style="font-size: 32px; ">项</span><br><span style="">xiàng</span><br><span style="">项目, xiàngmù, project</span>
+<span style="font-size: 32px; ">想</span>	<span style="">xiǎng</span><br><span style="">think</span><br><span style="">想念, xiǎngniàn, remember, long for</span>
+<br><span style="">think</span><br>	<span style="font-size: 32px; ">想</span><br><span style="">xiǎng</span><br><span style="">想念, xiǎngniàn, remember, long for</span>
+<span style="font-size: 32px; ">象</span>	<span style="">xiàng</span><br><span style="">appearance</span><br><span style="">象棋, xiàngqí, Chinese chess</span>
+<br><span style="">appearance</span><br>	<span style="font-size: 32px; ">象</span><br><span style="">xiàng</span><br><span style="">象棋, xiàngqí, Chinese chess</span>
+<span style="font-size: 32px; ">香</span>	<span style="">xiāng</span><br><span style="">fragrant</span><br><span style="">香菇, xiānggū, mushrooms<br>香辣, xiānglà, spicy<br>香港, Xiānggǎng, Hongkong</span>
+<br><span style="">fragrant</span><br>	<span style="font-size: 32px; ">香</span><br><span style="">xiāng</span><br><span style="">香菇, xiānggū, mushrooms<br>香辣, xiānglà, spicy<br>香港, Xiānggǎng, Hongkong</span>
+<span style="font-size: 32px; ">像</span>	<span style="">xiàng</span><br><span style="">resemble</span><br><span style="">好像, hǎoxiàng, be like</span>
+<br><span style="">resemble</span><br>	<span style="font-size: 32px; ">像</span><br><span style="">xiàng</span><br><span style="">好像, hǎoxiàng, be like</span>
+<span style="font-size: 32px; ">相</span>	<span style="">xiāng</span><br><span style="">each other</span><br><span style="">相声, xiàngsheng, comedy</span>
+<br><span style="">each other</span><br>	<span style="font-size: 32px; ">相</span><br><span style="">xiāng</span><br><span style="">相声, xiàngsheng, comedy</span>
+<span style="font-size: 32px; ">小</span>	<span style="">xiǎo</span><br><span style="">small</span><br><span style="">小时, xiǎoshí, hour<br>小姐, xiǎojiě, Miss</span>
+<br><span style="">small</span><br>	<span style="font-size: 32px; ">小</span><br><span style="">xiǎo</span><br><span style="">小时, xiǎoshí, hour<br>小姐, xiǎojiě, Miss</span>
+<span style="font-size: 32px; ">效</span>	<span style="">xiào</span><br><span style="">effect</span><br><span style="">疗效, liáoxiào, curative effect</span>
+<br><span style="">effect</span><br>	<span style="font-size: 32px; ">效</span><br><span style="">xiào</span><br><span style="">疗效, liáoxiào, curative effect</span>
+<span style="font-size: 32px; ">消</span>	<span style="">xiāo</span><br><span style="">disappear</span><br><span style="">消炎, xiāoyán, diminish inflammation</span>
+<br><span style="">disappear</span><br>	<span style="font-size: 32px; ">消</span><br><span style="">xiāo</span><br><span style="">消炎, xiāoyán, diminish inflammation</span>
+<span style="font-size: 32px; ">宵</span>	<span style="">xiāo</span><br><span style="">night</span><br><span style="">元宵节, Yuánxiāojié, Lantern Festival</span>
+<br><span style="">night</span><br>	<span style="font-size: 32px; ">宵</span><br><span style="">xiāo</span><br><span style="">元宵节, Yuánxiāojié, Lantern Festival</span>
+<span style="font-size: 32px; ">写</span>	<span style="">xiě</span><br><span style="">write</span><br><span style=""></span>
+<br><span style="">write</span><br>	<span style="font-size: 32px; ">写</span><br><span style="">xiě</span><br><span style=""></span>
+<span style="font-size: 32px; ">些</span>	<span style="">xiē</span><br><span style="">some</span><br><span style="">一些, yīxī, some</span>
+<br><span style="">some</span><br>	<span style="font-size: 32px; ">些</span><br><span style="">xiē</span><br><span style="">一些, yīxī, some</span>
+<span style="font-size: 32px; ">谢</span>	<span style="">xiè</span><br><span style="">thank</span><br><span style="">谢谢, xièxie, thank you</span>
+<br><span style="">thank</span><br>	<span style="font-size: 32px; ">谢</span><br><span style="">xiè</span><br><span style="">谢谢, xièxie, thank you</span>
+<span style="font-size: 32px; ">新</span>	<span style="">xīn</span><br><span style="">new</span><br><span style="">新加坡, Xīnjiāpō, Singapore<br>新鲜, xīnxiān, fresh</span>
+<br><span style="">new</span><br>	<span style="font-size: 32px; ">新</span><br><span style="">xīn</span><br><span style="">新加坡, Xīnjiāpō, Singapore<br>新鲜, xīnxiān, fresh</span>
+<span style="font-size: 32px; ">信</span>	<span style="">xìn</span><br><span style="">letter</span><br><span style="">信用卡, xìnyòngkǎ, credit card</span>
+<br><span style="">letter</span><br>	<span style="font-size: 32px; ">信</span><br><span style="">xìn</span><br><span style="">信用卡, xìnyòngkǎ, credit card</span>
+<span style="font-size: 32px; ">欣</span>	<span style="">xīn</span><br><span style="">enjoy</span><br><span style="">欣赏, xīnshǎng, appreciate</span>
+<br><span style="">enjoy</span><br>	<span style="font-size: 32px; ">欣</span><br><span style="">xīn</span><br><span style="">欣赏, xīnshǎng, appreciate</span>
+<span style="font-size: 32px; ">心</span>	<span style="">xīn</span><br><span style="">heart</span><br><span style="">身心, shēnxīn, body and mind<br>开心, kāixīn, happy</span>
+<br><span style="">heart</span><br>	<span style="font-size: 32px; ">心</span><br><span style="">xīn</span><br><span style="">身心, shēnxīn, body and mind<br>开心, kāixīn, happy</span>
+<span style="font-size: 32px; ">兴</span>	<span style="">xìng</span><br><span style="">glad</span><br><span style="">高兴, gāoxìng, happy,<br>兴趣, xìngqù, interest</span>
+<br><span style="">glad</span><br>	<span style="font-size: 32px; ">兴</span><br><span style="">xìng</span><br><span style="">高兴, gāoxìng, happy,<br>兴趣, xìngqù, interest</span>
+<span style="font-size: 32px; ">姓</span>	<span style="">xìng</span><br><span style="">surname</span><br><span style=""></span>
+<br><span style="">surname</span><br>	<span style="font-size: 32px; ">姓</span><br><span style="">xìng</span><br><span style=""></span>
+<span style="font-size: 32px; ">幸</span>	<span style="">xìng</span><br><span style="">luck</span><br><span style="">荣幸, róngxìng, honored</span>
+<br><span style="">luck</span><br>	<span style="font-size: 32px; ">幸</span><br><span style="">xìng</span><br><span style="">荣幸, róngxìng, honored</span>
+<span style="font-size: 32px; ">星</span>	<span style="">xīng</span><br><span style="">star</span><br><span style="">星期, xīngqī, week</span>
+<br><span style="">star</span><br>	<span style="font-size: 32px; ">星</span><br><span style="">xīng</span><br><span style="">星期, xīngqī, week</span>
+<span style="font-size: 32px; ">休</span>	<span style="">xiū</span><br><span style="">stop</span><br><span style="">退休, tuìxiū, retire</span>
+<br><span style="">stop</span><br>	<span style="font-size: 32px; ">休</span><br><span style="">xiū</span><br><span style="">退休, tuìxiū, retire</span>
+<span style="font-size: 32px; ">修</span>	<span style="">xiū</span><br><span style="">repair</span><br><span style=""></span>
+<br><span style="">repair</span><br>	<span style="font-size: 32px; ">修</span><br><span style="">xiū</span><br><span style=""></span>
+<span style="font-size: 32px; ">许</span>	<span style="">xǔ</span><br><span style="">allow</span><br><span style="">允许, yǔnxǔ, allow</span>
+<br><span style="">allow</span><br>	<span style="font-size: 32px; ">许</span><br><span style="">xǔ</span><br><span style="">允许, yǔnxǔ, allow</span>
+<span style="font-size: 32px; ">需</span>	<span style="">xū</span><br><span style="">need</span><br><span style="">需要, xūyào, require</span>
+<br><span style="">need</span><br>	<span style="font-size: 32px; ">需</span><br><span style="">xū</span><br><span style="">需要, xūyào, require</span>
+<span style="font-size: 32px; ">学</span>	<span style="">xué</span><br><span style="">learn</span><br><span style="">学生, xuésheng, student<br>学习, xuéxí, learn<br>大学, dàxué, university<br>化学, huàxué, chemistry<br>学院, xuéyuàn, campus<br>同学, tóngxué, fellow student</span>
+<br><span style="">learn</span><br>	<span style="font-size: 32px; ">学</span><br><span style="">xué</span><br><span style="">学生, xuésheng, student<br>学习, xuéxí, learn<br>大学, dàxué, university<br>化学, huàxué, chemistry<br>学院, xuéyuàn, campus<br>同学, tóngxué, fellow student</span>
+<span style="font-size: 32px; ">雪</span>	<span style="">xuě</span><br><span style="">snow</span><br><span style="">滑雪, huáxuě, ski</span>
+<br><span style="">snow</span><br>	<span style="font-size: 32px; ">雪</span><br><span style="">xuě</span><br><span style="">滑雪, huáxuě, ski</span>
+<span style="font-size: 32px; ">牙</span>	<span style="">yá</span><br><span style="">tooth</span><br><span style="">下班呀, Xiābānyá, Spain</span>
+<br><span style="">tooth</span><br>	<span style="font-size: 32px; ">牙</span><br><span style="">yá</span><br><span style="">下班呀, Xiābānyá, Spain</span>
+<span style="font-size: 32px; ">yā</span>	<span style="">呀</span><br><span style="">[sentence final particle: ya]</span><br><span style=""></span>
+<br><span style="">[sentence final particle: ya]</span><br>	<span style="font-size: 32px; ">yā</span><br><span style="">呀</span><br><span style=""></span>
+<span style="font-size: 32px; ">言</span>	<span style="">yán</span><br><span style="">word</span><br><span style="">语言, yúyǎn, language</span>
+<br><span style="">word</span><br>	<span style="font-size: 32px; ">言</span><br><span style="">yán</span><br><span style="">语言, yúyǎn, language</span>
+<span style="font-size: 32px; ">yán</span>	<span style="">炎</span><br><span style="">burning hot</span><br><span style="">发炎, fāyán, inflammation<br>消炎, xiāoyán, diminish inflammation</span>
+<br><span style="">burning hot</span><br>	<span style="font-size: 32px; ">yán</span><br><span style="">炎</span><br><span style="">发炎, fāyán, inflammation<br>消炎, xiāoyán, diminish inflammation</span>
+<span style="font-size: 32px; ">研</span>	<span style="">yán</span><br><span style="">grind</span><br><span style="">研究, yánjiū, research</span>
+<br><span style="">grind</span><br>	<span style="font-size: 32px; ">研</span><br><span style="">yán</span><br><span style="">研究, yánjiū, research</span>
+<span style="font-size: 32px; ">yǎn</span>	<span style="">演</span><br><span style="">perform</span><br><span style="">表演, biǎoyǎn, perform</span>
+<br><span style="">perform</span><br>	<span style="font-size: 32px; ">yǎn</span><br><span style="">演</span><br><span style="">表演, biǎoyǎn, perform</span>
+<span style="font-size: 32px; ">验</span>	<span style="">yàn</span><br><span style="">experience</span><br><span style="">实验室, shíyànshì, laboratory</span>
+<br><span style="">experience</span><br>	<span style="font-size: 32px; ">验</span><br><span style="">yàn</span><br><span style="">实验室, shíyànshì, laboratory</span>
+<span style="font-size: 32px; ">杨</span>	<span style="">yáng</span><br><span style="">poplar tree（name)</span><br><span style=""></span>
+<br><span style="">poplar tree（name)</span><br>	<span style="font-size: 32px; ">杨</span><br><span style="">yáng</span><br><span style=""></span>
+<span style="font-size: 32px; ">样</span>	<span style="">yàng</span><br><span style="">manner</span><br><span style="">怎么样, zěnmeyàng, how?</span>
+<br><span style="">manner</span><br>	<span style="font-size: 32px; ">样</span><br><span style="">yàng</span><br><span style="">怎么样, zěnmeyàng, how?</span>
+<span style="font-size: 32px; ">养</span>	<span style="">yǎng</span><br><span style="">raise, nourish</span><br><span style="">营养, yíngyǎng, nutrition</span>
+<br><span style="">raise, nourish</span><br>	<span style="font-size: 32px; ">养</span><br><span style="">yǎng</span><br><span style="">营养, yíngyǎng, nutrition</span>
+<span style="font-size: 32px; ">央</span>	<span style="">yāng</span><br><span style="">centre</span><br><span style="">中央, zhōngyāng, centre</span>
+<br><span style="">centre</span><br>	<span style="font-size: 32px; ">央</span><br><span style="">yāng</span><br><span style="">中央, zhōngyāng, centre</span>
+<span style="font-size: 32px; ">洋</span>	<span style="">yáng</span><br><span style="">foreign</span><br><span style="">喜气洋洋, xíqìyángyáng, jubilant</span>
+<br><span style="">foreign</span><br>	<span style="font-size: 32px; ">洋</span><br><span style="">yáng</span><br><span style="">喜气洋洋, xíqìyángyáng, jubilant</span>
+<span style="font-size: 32px; ">要</span>	<span style="">yào</span><br><span style="">want</span><br><span style="">需要, xūyào, request</span>
+<br><span style="">want</span><br>	<span style="font-size: 32px; ">要</span><br><span style="">yào</span><br><span style="">需要, xūyào, request</span>
+<span style="font-size: 32px; ">钥</span>	<span style="">yào</span><br><span style="">[key]</span><br><span style="">钥匙, yàoshi, key</span>
+<br><span style="">[key]</span><br>	<span style="font-size: 32px; ">钥</span><br><span style="">yào</span><br><span style="">钥匙, yàoshi, key</span>
+<span style="font-size: 32px; ">药</span>	<span style="">yào</span><br><span style="">medicine</span><br><span style=""></span>
+<br><span style="">medicine</span><br>	<span style="font-size: 32px; ">药</span><br><span style="">yào</span><br><span style=""></span>
+<span style="font-size: 32px; ">也</span>	<span style="">yě</span><br><span style="">also</span><br><span style=""></span>
+<br><span style="">also</span><br>	<span style="font-size: 32px; ">也</span><br><span style="">yě</span><br><span style=""></span>
+<span style="font-size: 32px; ">爷</span>	<span style="">yé</span><br><span style="">grandfather</span><br><span style="">爷爷, yèye, grandfather</span>
+<br><span style="">grandfather</span><br>	<span style="font-size: 32px; ">爷</span><br><span style="">yé</span><br><span style="">爷爷, yèye, grandfather</span>
+<span style="font-size: 32px; ">业</span>	<span style="">yè</span><br><span style="">commerce</span><br><span style="">专业, zhuānyè, specialty<br>毕业, bìyè, graduate</span>
+<br><span style="">commerce</span><br>	<span style="font-size: 32px; ">业</span><br><span style="">yè</span><br><span style="">专业, zhuānyè, specialty<br>毕业, bìyè, graduate</span>
+<span style="font-size: 32px; ">夜</span>	<span style="">yè</span><br><span style="">night</span><br><span style="">年夜饭, niányèfàn, dinner on New Year's Eve</span>
+<br><span style="">night</span><br>	<span style="font-size: 32px; ">夜</span><br><span style="">yè</span><br><span style="">年夜饭, niányèfàn, dinner on New Year's Eve</span>
+<span style="font-size: 32px; ">一</span>	<span style="">yī</span><br><span style="">one</span><br><span style="">一下, yīxià, a littlbe bit<br>一起, yīqǐ, together<br>一定yīdìng, definitely<br>一点点yīdiǎndiǎn, a little bit<br>一会儿, yīhuìr, a little while<br>一共yīgòng, alltogether<br>一些yīxiē, some</span>
+<br><span style="">one</span><br>	<span style="font-size: 32px; ">一</span><br><span style="">yī</span><br><span style="">一下, yīxià, a littlbe bit<br>一起, yīqǐ, together<br>一定yīdìng, definitely<br>一点点yīdiǎndiǎn, a little bit<br>一会儿, yīhuìr, a little while<br>一共yīgòng, alltogether<br>一些yīxiē, some</span>
+<span style="font-size: 32px; ">姨</span>	<span style="">yí</span><br><span style="">aunt</span><br><span style="">阿姨, āyí, aunt</span>
+<br><span style="">aunt</span><br>	<span style="font-size: 32px; ">姨</span><br><span style="">yí</span><br><span style="">阿姨, āyí, aunt</span>
+<span style="font-size: 32px; ">医</span>	<span style="">yī</span><br><span style="">medical science</span><br><span style="">医生, yīshēng, doctor<br>医院, yīyuàn, hospital</span>
+<br><span style="">medical science</span><br>	<span style="font-size: 32px; ">医</span><br><span style="">yī</span><br><span style="">医生, yīshēng, doctor<br>医院, yīyuàn, hospital</span>
+<span style="font-size: 32px; ">颐</span>	<span style="">yí</span><br><span style="">cheek</span><br><span style="">颐和园, Yíhéyuán, Summer Palace (in Beijing)</span>
+<br><span style="">cheek</span><br>	<span style="font-size: 32px; ">颐</span><br><span style="">yí</span><br><span style="">颐和园, Yíhéyuán, Summer Palace (in Beijing)</span>
+<span style="font-size: 32px; ">已</span>	<span style="">yǐ</span><br><span style="">already</span><br><span style="">已经, yǐjīng, already</span>
+<br><span style="">already</span><br>	<span style="font-size: 32px; ">已</span><br><span style="">yǐ</span><br><span style="">已经, yǐjīng, already</span>
+<span style="font-size: 32px; ">意</span>	<span style="">yì</span><br><span style="">meaning</span><br><span style="">有意思, yǒuyìsi, intersting<br>意大利, Yìdàlì, Italy<br>注意, zhùyì, pay attention to</span>
+<br><span style="">meaning</span><br>	<span style="font-size: 32px; ">意</span><br><span style="">yì</span><br><span style="">有意思, yǒuyìsi, intersting<br>意大利, Yìdàlì, Italy<br>注意, zhùyì, pay attention to</span>
+<span style="font-size: 32px; ">义</span>	<span style="">yì</span><br><span style="">justice</span><br><span style="">顾名思义, gùmíngsiyì, just as the name implies</span>
+<br><span style="">justice</span><br>	<span style="font-size: 32px; ">义</span><br><span style="">yì</span><br><span style="">顾名思义, gùmíngsiyì, just as the name implies</span>
+<span style="font-size: 32px; ">以</span>	<span style="">yǐ</span><br><span style="">using</span><br><span style="">以后, yǐhòu, afterwards<br />以前, yǐqián, before<br />所以, suǒyǐ, therefore</span>
+<br><span style="">using</span><br>	<span style="font-size: 32px; ">以</span><br><span style="">yǐ</span><br><span style="">以后, yǐhòu, afterwards<br />以前, yǐqián, before<br />所以, suǒyǐ, therefore</span>
+<span style="font-size: 32px; ">议</span>	<span style="">yì</span><br><span style="">discuss</span><br><span style="">会议, huìyì, meeting<br>可以, kěyǐ, can</span>
+<br><span style="">discuss</span><br>	<span style="font-size: 32px; ">议</span><br><span style="">yì</span><br><span style="">会议, huìyì, meeting<br>可以, kěyǐ, can</span>
+<span style="font-size: 32px; ">衣</span>	<span style="">yī</span><br><span style="">clothing</span><br><span style="">试衣间, shìyījian, changing room (in clothes shop)</span>
+<br><span style="">clothing</span><br>	<span style="font-size: 32px; ">衣</span><br><span style="">yī</span><br><span style="">试衣间, shìyījian, changing room (in clothes shop)</span>
+<span style="font-size: 32px; ">宜</span>	<span style="">yì</span><br><span style="">suitable便宜, piányì, cheap</span><br><span style=""></span>
+<br><span style="">suitable便宜, piányì, cheap</span><br>	<span style="font-size: 32px; ">宜</span><br><span style="">yì</span><br><span style=""></span>
+<span style="font-size: 32px; ">易</span>	<span style="">yì</span><br><span style="">easy</span><br><span style="">贸易, màoyì, trade</span>
+<br><span style="">easy</span><br>	<span style="font-size: 32px; ">易</span><br><span style="">yì</span><br><span style="">贸易, màoyì, trade</span>
+<span style="font-size: 32px; ">银</span>	<span style="">yín</span><br><span style="">silver</span><br><span style="">银行, yínháng, bank<br>收银员, shōuyínyuán, cashier</span>
+<br><span style="">silver</span><br>	<span style="font-size: 32px; ">银</span><br><span style="">yín</span><br><span style="">银行, yínháng, bank<br>收银员, shōuyínyuán, cashier</span>
+<span style="font-size: 32px; ">音</span>	<span style="">yīn</span><br><span style="">sound</span><br><span style="">音乐, yīnyuè, music<br>录音, lùyīn, sound recording</span>
+<br><span style="">sound</span><br>	<span style="font-size: 32px; ">音</span><br><span style="">yīn</span><br><span style="">音乐, yīnyuè, music<br>录音, lùyīn, sound recording</span>
+<span style="font-size: 32px; ">饮</span>	<span style="">yǐn</span><br><span style="">drink</span><br><span style="">饮料, yǐnliào, drinks</span>
+<br><span style="">drink</span><br>	<span style="font-size: 32px; ">饮</span><br><span style="">yǐn</span><br><span style="">饮料, yǐnliào, drinks</span>
+<span style="font-size: 32px; ">因</span>	<span style="">yīn</span><br><span style="">cause</span><br><span style="">因为, yīnwèi, because</span>
+<br><span style="">cause</span><br>	<span style="font-size: 32px; ">因</span><br><span style="">yīn</span><br><span style="">因为, yīnwèi, because</span>
+<span style="font-size: 32px; ">阴</span>	<span style="">yīn</span><br><span style="">dark side</span><br><span style="">阴历, yīnlì, lunar calender</span>
+<br><span style="">dark side</span><br>	<span style="font-size: 32px; ">阴</span><br><span style="">yīn</span><br><span style="">阴历, yīnlì, lunar calender</span>
+<span style="font-size: 32px; ">英</span>	<span style="">yīng</span><br><span style="">hero</span><br><span style="">英语, Yīngyǔ, English language</span>
+<br><span style="">hero</span><br>	<span style="font-size: 32px; ">英</span><br><span style="">yīng</span><br><span style="">英语, Yīngyǔ, English language</span>
+<span style="font-size: 32px; ">影</span>	<span style="">yǐng</span><br><span style="">shadow</span><br><span style="">电影, diànyǐng<br>电影院, diànyǐngyuàn, cinema</span>
+<br><span style="">shadow</span><br>	<span style="font-size: 32px; ">影</span><br><span style="">yǐng</span><br><span style="">电影, diànyǐng<br>电影院, diànyǐngyuàn, cinema</span>
+<span style="font-size: 32px; ">迎</span>	<span style="">yíng</span><br><span style="">welcome</span><br><span style="">欢迎, huānying, welcome<br />欢迎光临, huānying guānglín, welcome</span>
+<br><span style="">welcome</span><br>	<span style="font-size: 32px; ">迎</span><br><span style="">yíng</span><br><span style="">欢迎, huānying, welcome<br />欢迎光临, huānying guānglín, welcome</span>
+<span style="font-size: 32px; ">应</span>	<span style="">yīng</span><br><span style="">ought to</span><br><span style="">应该, yīnggāi, ought to</span>
+<br><span style="">ought to</span><br>	<span style="font-size: 32px; ">应</span><br><span style="">yīng</span><br><span style="">应该, yīnggāi, ought to</span>
+<span style="font-size: 32px; ">营</span>	<span style="">yíng</span><br><span style="">camp</span><br><span style="">营养, yíngyǎng, nutrition</span>
+<br><span style="">camp</span><br>	<span style="font-size: 32px; ">营</span><br><span style="">yíng</span><br><span style="">营养, yíngyǎng, nutrition</span>
+<span style="font-size: 32px; ">硬</span>	<span style="">yìng</span><br><span style="">hard</span><br><span style="">硬卧, yìngwò, hard sleeper</span>
+<br><span style="">hard</span><br>	<span style="font-size: 32px; ">硬</span><br><span style="">yìng</span><br><span style="">硬卧, yìngwò, hard sleeper</span>
+<span style="font-size: 32px; ">有</span>	<span style="">yǒu</span><br><span style="">have</span><br><span style=""></span>
+<br><span style="">have</span><br>	<span style="font-size: 32px; ">有</span><br><span style="">yǒu</span><br><span style=""></span>
+<span style="font-size: 32px; ">游</span>	<span style="">yóu</span><br><span style="">swim</span><br><span style="">游泳, yóuyǒng, swim</span>
+<br><span style="">swim</span><br>	<span style="font-size: 32px; ">游</span><br><span style="">yóu</span><br><span style="">游泳, yóuyǒng, swim</span>
+<span style="font-size: 32px; ">友</span>	<span style="">yǒu</span><br><span style="">friend</span><br><span style="">朋友, péngyou, friend</span>
+<br><span style="">friend</span><br>	<span style="font-size: 32px; ">友</span><br><span style="">yǒu</span><br><span style="">朋友, péngyou, friend</span>
+<span style="font-size: 32px; ">尤</span>	<span style="">yóu</span><br><span style="">especially</span><br><span style="">尤其, yóuqí, especially</span>
+<br><span style="">especially</span><br>	<span style="font-size: 32px; ">尤</span><br><span style="">yóu</span><br><span style="">尤其, yóuqí, especially</span>
+<span style="font-size: 32px; ">yǒng</span>	<span style="">泳</span><br><span style="">swim</span><br><span style="">游泳, yóuyǒng, swim</span>
+<br><span style="">swim</span><br>	<span style="font-size: 32px; ">yǒng</span><br><span style="">泳</span><br><span style="">游泳, yóuyǒng, swim</span>
+<span style="font-size: 32px; ">用</span>	<span style="">yòng</span><br><span style="">use</span><br><span style="">能用, néngyòng, capable<br>信用卡, xìnyòngkǎ, credit card</span>
+<br><span style="">use</span><br>	<span style="font-size: 32px; ">用</span><br><span style="">yòng</span><br><span style="">能用, néngyòng, capable<br>信用卡, xìnyòngkǎ, credit card</span>
+<span style="font-size: 32px; ">与</span>	<span style="">yǔ</span><br><span style="">and</span><br><span style=""></span>
+<br><span style="">and</span><br>	<span style="font-size: 32px; ">与</span><br><span style="">yǔ</span><br><span style=""></span>
+<span style="font-size: 32px; ">语</span>	<span style="">yǔ</span><br><span style="">language</span><br><span style="">英语, Yīngyǔ, English language<br>语言, yǔyán, language</span>
+<br><span style="">language</span><br>	<span style="font-size: 32px; ">语</span><br><span style="">yǔ</span><br><span style="">英语, Yīngyǔ, English language<br>语言, yǔyán, language</span>
+<span style="font-size: 32px; ">预</span>	<span style="">yù</span><br><span style="">prepare</span><br><span style="">预订, yùdìng, book, place an order</span>
+<br><span style="">prepare</span><br>	<span style="font-size: 32px; ">预</span><br><span style="">yù</span><br><span style="">预订, yùdìng, book, place an order</span>
+<span style="font-size: 32px; ">鱼</span>	<span style="">yú</span><br><span style="">fish</span><br><span style=""></span>
+<br><span style="">fish</span><br>	<span style="font-size: 32px; ">鱼</span><br><span style="">yú</span><br><span style=""></span>
+<span style="font-size: 32px; ">员</span>	<span style="">yuán</span><br><span style="">member</span><br><span style="">公务员, gōngwùyuán, government employee<br>服务员fúwùyuán, waiter, clerk<br>售货员, shòuhuòyuán, shop assistant<br>收银员, shōuyínyuán, cashier</span>
+<br><span style="">member</span><br>	<span style="font-size: 32px; ">员</span><br><span style="">yuán</span><br><span style="">公务员, gōngwùyuán, government employee<br>服务员fúwùyuán, waiter, clerk<br>售货员, shòuhuòyuán, shop assistant<br>收银员, shōuyínyuán, cashier</span>
+<span style="font-size: 32px; ">院</span>	<span style="">yuàn</span><br><span style="">court</span><br><span style="">医院, yīyuàn, hospital<br>电影院, diànyǐngyuàn, cinema<br>学院, xuéyuàn, school</span>
+<br><span style="">court</span><br>	<span style="font-size: 32px; ">院</span><br><span style="">yuàn</span><br><span style="">医院, yīyuàn, hospital<br>电影院, diànyǐngyuàn, cinema<br>学院, xuéyuàn, school</span>
+<span style="font-size: 32px; ">园</span>	<span style="">yuán</span><br><span style="">garden</span><br><span style="">颐和园, Yíhéyuán, Summer Palace</span>
+<br><span style="">garden</span><br>	<span style="font-size: 32px; ">园</span><br><span style="">yuán</span><br><span style="">颐和园, Yíhéyuán, Summer Palace</span>
+<span style="font-size: 32px; ">圆</span>	<span style="">yuán</span><br><span style="">round</span><br><span style="">团圆, tuányuán, round</span>
+<br><span style="">round</span><br>	<span style="font-size: 32px; ">圆</span><br><span style="">yuán</span><br><span style="">团圆, tuányuán, round</span>
+<span style="font-size: 32px; ">元</span>	<span style="">yuán</span><br><span style="">Yuan</span><br><span style=""></span>
+<br><span style="">Yuan</span><br>	<span style="font-size: 32px; ">元</span><br><span style="">yuán</span><br><span style=""></span>
+<span style="font-size: 32px; ">愿</span>	<span style="">yuàn</span><br><span style="">wish</span><br><span style="">但愿, dànyuàn, if only</span>
+<br><span style="">wish</span><br>	<span style="font-size: 32px; ">愿</span><br><span style="">yuàn</span><br><span style="">但愿, dànyuàn, if only</span>
+<span style="font-size: 32px; ">月</span>	<span style="">yué</span><br><span style="">month</span><br><span style="">月亮, yuèliang, moonlight<br>月饼, yuèbǐng moon cake</span>
+<br><span style="">month</span><br>	<span style="font-size: 32px; ">月</span><br><span style="">yué</span><br><span style="">月亮, yuèliang, moonlight<br>月饼, yuèbǐng moon cake</span>
+<span style="font-size: 32px; ">允</span>	<span style="">yǔn</span><br><span style="">permit</span><br><span style="">允许, yǔnxǔ, permit</span>
+<br><span style="">permit</span><br>	<span style="font-size: 32px; ">允</span><br><span style="">yǔn</span><br><span style="">允许, yǔnxǔ, permit</span>
+<span style="font-size: 32px; ">运</span>	<span style="">yùn</span><br><span style="">transport</span><br><span style="">运动, yùndòng, sport</span>
+<br><span style="">transport</span><br>	<span style="font-size: 32px; ">运</span><br><span style="">yùn</span><br><span style="">运动, yùndòng, sport</span>
+<span style="font-size: 32px; ">zài</span>	<span style="">再</span><br><span style="">again</span><br><span style=""></span>
+<br><span style="">again</span><br>	<span style="font-size: 32px; ">zài</span><br><span style="">再</span><br><span style=""></span>
+<span style="font-size: 32px; ">在</span>	<span style="">zài</span><br><span style="">at</span><br><span style="">正在, zhèngzài, be in the process of<br>现在, xiànzài, now</span>
+<br><span style="">at</span><br>	<span style="font-size: 32px; ">在</span><br><span style="">zài</span><br><span style="">正在, zhèngzài, be in the process of<br>现在, xiànzài, now</span>
+<span style="font-size: 32px; ">早</span>	<span style="">zǎo</span><br><span style="">early</span><br><span style="">早上, zǎoshang, morning<br>早上好, zǎoshang hǎo, Good morning<br>早饭, zǎofàn, breakfast<br>早餐, zǎocān, breakfast</span>
+<br><span style="">early</span><br>	<span style="font-size: 32px; ">早</span><br><span style="">zǎo</span><br><span style="">早上, zǎoshang, morning<br>早上好, zǎoshang hǎo, Good morning<br>早饭, zǎofàn, breakfast<br>早餐, zǎocān, breakfast</span>
+<span style="font-size: 32px; ">责</span>	<span style="">zé</span><br><span style="">suffer, carry on shoulder</span><br><span style="">负责, zèfú, be responsible for</span>
+<br><span style="">suffer, carry on shoulder</span><br>	<span style="font-size: 32px; ">责</span><br><span style="">zé</span><br><span style="">负责, zèfú, be responsible for</span>
+<span style="font-size: 32px; ">怎</span>	<span style="">zěn</span><br><span style="">how</span><br><span style="">怎么, zěnme, how<br>怎么了, zěnmele, what is the matter<br>怎么样, zěnmeyàng, how?</span>
+<br><span style="">how</span><br>	<span style="font-size: 32px; ">怎</span><br><span style="">zěn</span><br><span style="">怎么, zěnme, how<br>怎么了, zěnmele, what is the matter<br>怎么样, zěnmeyàng, how?</span>
+<span style="font-size: 32px; ">张</span>	<span style="">zhāng</span><br><span style="">spread, sheet of paper</span><br><span style=""></span>
+<br><span style="">spread, sheet of paper</span><br>	<span style="font-size: 32px; ">张</span><br><span style="">zhāng</span><br><span style=""></span>
+<span style="font-size: 32px; ">帐/账</span>	<span style="">zhàng</span><br><span style="">account</span><br><span style="">结帐, jiézhàng, settle accounts<br>账单, zhàngdān, account</span>
+<br><span style="">account</span><br>	<span style="font-size: 32px; ">帐/账</span><br><span style="">zhàng</span><br><span style="">结帐, jiézhàng, settle accounts<br>账单, zhàngdān, account</span>
+<span style="font-size: 32px; ">长</span>	<span style="">zhāng</span><br><span style="">long</span><br><span style="">多长, duō cháng, how long<br>擅长, shàncháng, be good at</span>
+<br><span style="">long</span><br>	<span style="font-size: 32px; ">长</span><br><span style="">zhāng</span><br><span style="">多长, duō cháng, how long<br>擅长, shàncháng, be good at</span>
+<span style="font-size: 32px; ">找</span>	<span style="">zhǎo</span><br><span style="">look for, seek</span><br><span style=""></span>
+<br><span style="">look for, seek</span><br>	<span style="font-size: 32px; ">找</span><br><span style="">zhǎo</span><br><span style=""></span>
+<span style="font-size: 32px; ">这</span>	<span style="">zhè</span><br><span style="">this</span><br><span style="">这里, zhèlǐ, here<br>这儿, zhèr, here</span>
+<br><span style="">this</span><br>	<span style="font-size: 32px; ">这</span><br><span style="">zhè</span><br><span style="">这里, zhèlǐ, here<br>这儿, zhèr, here</span>
+<span style="font-size: 32px; ">折</span>	<span style="">zhè</span><br><span style="">deduct</span><br><span style="">打折, dǎzhé, deduct</span>
+<br><span style="">deduct</span><br>	<span style="font-size: 32px; ">折</span><br><span style="">zhè</span><br><span style="">打折, dǎzhé, deduct</span>
+<span style="font-size: 32px; ">真</span>	<span style="">zhēn</span><br><span style="">true</span><br><span style=""></span>
+<br><span style="">true</span><br>	<span style="font-size: 32px; ">真</span><br><span style="">zhēn</span><br><span style=""></span>
+<span style="font-size: 32px; ">正</span>	<span style="">zhēng</span><br><span style="">right</span><br><span style="">正在, zhèngzài, be in the process of<br>正好, zhènghǎo, just right</span>
+<br><span style="">right</span><br>	<span style="font-size: 32px; ">正</span><br><span style="">zhēng</span><br><span style="">正在, zhèngzài, be in the process of<br>正好, zhènghǎo, just right</span>
+<span style="font-size: 32px; ">证</span>	<span style="">zhèng</span><br><span style="">prove</span><br><span style="">身份证, shēnfènzhèng, identity card</span>
+<br><span style="">prove</span><br>	<span style="font-size: 32px; ">证</span><br><span style="">zhèng</span><br><span style="">身份证, shēnfènzhèng, identity card</span>
+<span style="font-size: 32px; ">芝</span>	<span style="">zhī</span><br><span style="">sesame</span><br><span style="">芝加哥, Zhījiāgē, Chicago</span>
+<br><span style="">sesame</span><br>	<span style="font-size: 32px; ">芝</span><br><span style="">zhī</span><br><span style="">芝加哥, Zhījiāgē, Chicago</span>
+<span style="font-size: 32px; ">制</span>	<span style="">zhì</span><br><span style="">system</span><br><span style="">制作, zhìzuò, make</span>
+<br><span style="">system</span><br>	<span style="font-size: 32px; ">制</span><br><span style="">zhì</span><br><span style="">制作, zhìzuò, make</span>
+<span style="font-size: 32px; ">只</span>	<span style="">zhǐ</span><br><span style="">only</span><br><span style=""></span>
+<br><span style="">only</span><br>	<span style="font-size: 32px; ">只</span><br><span style="">zhǐ</span><br><span style=""></span>
+<span style="font-size: 32px; ">汁</span>	<span style="">zhī</span><br><span style="">juice</span><br><span style=""></span>
+<br><span style="">juice</span><br>	<span style="font-size: 32px; ">汁</span><br><span style="">zhī</span><br><span style=""></span>
+<span style="font-size: 32px; ">知</span>	<span style="">zhī</span><br><span style="">know</span><br><span style="">知道, zhīdao, know</span>
+<br><span style="">know</span><br>	<span style="font-size: 32px; ">知</span><br><span style="">zhī</span><br><span style="">知道, zhīdao, know</span>
+<span style="font-size: 32px; ">直</span>	<span style="">zhí</span><br><span style="">straight</span><br><span style="">一直, yīzhí, continously</span>
+<br><span style="">straight</span><br>	<span style="font-size: 32px; ">直</span><br><span style="">zhí</span><br><span style="">一直, yīzhí, continously</span>
+<span style="font-size: 32px; ">中</span>	<span style="">zhōng</span><br><span style="">middle</span><br><span style="">中国, Zhōngguó, China</span>
+<br><span style="">middle</span><br>	<span style="font-size: 32px; ">中</span><br><span style="">zhōng</span><br><span style="">中国, Zhōngguó, China</span>
+<span style="font-size: 32px; ">种</span>	<span style="">zhǒng</span><br><span style="">kind</span><br><span style=""></span>
+<br><span style="">kind</span><br>	<span style="font-size: 32px; ">种</span><br><span style="">zhǒng</span><br><span style=""></span>
+<span style="font-size: 32px; ">重</span>	<span style="">zhòng</span><br><span style="">heavy</span><br><span style="">重视, zhòngshì, take seriously<br>重要, zhòngyào, important</span>
+<br><span style="">heavy</span><br>	<span style="font-size: 32px; ">重</span><br><span style="">zhòng</span><br><span style="">重视, zhòngshì, take seriously<br>重要, zhòngyào, important</span>
+<span style="font-size: 32px; ">州</span>	<span style="">zhōu</span><br><span style="">prefecture</span><br><span style="">杭州, Hángzhōu, Hangzhou (city)</span>
+<br><span style="">prefecture</span><br>	<span style="font-size: 32px; ">州</span><br><span style="">zhōu</span><br><span style="">杭州, Hángzhōu, Hangzhou (city)</span>
+<span style="font-size: 32px; ">洲</span>	<span style="">zhōu</span><br><span style="">continent</span><br><span style="">欧洲, Ōuzhōu, Europe</span>
+<br><span style="">continent</span><br>	<span style="font-size: 32px; ">洲</span><br><span style="">zhōu</span><br><span style="">欧洲, Ōuzhōu, Europe</span>
+<span style="font-size: 32px; ">周</span>	<span style="">zhōu</span><br><span style="">circuit</span><br><span style="">周末, zhōumò, weekend</span>
+<br><span style="">circuit</span><br>	<span style="font-size: 32px; ">周</span><br><span style="">zhōu</span><br><span style="">周末, zhōumò, weekend</span>
+<span style="font-size: 32px; ">助</span>	<span style="">zhù</span><br><span style="">assistant</span><br><span style="">助手, zhùshǒu, assistant</span>
+<br><span style="">assistant</span><br>	<span style="font-size: 32px; ">助</span><br><span style="">zhù</span><br><span style="">助手, zhùshǒu, assistant</span>
+<span style="font-size: 32px; ">祝</span>	<span style="">zhù</span><br><span style="">express good wishes</span><br><span style=""></span>
+<br><span style="">express good wishes</span><br>	<span style="font-size: 32px; ">祝</span><br><span style="">zhù</span><br><span style=""></span>
+<span style="font-size: 32px; ">住</span>	<span style="">zhù</span><br><span style="">live</span><br><span style=""></span>
+<br><span style="">live</span><br>	<span style="font-size: 32px; ">住</span><br><span style="">zhù</span><br><span style=""></span>
+<span style="font-size: 32px; ">注</span>	<span style="">zhù</span><br><span style="">pour</span><br><span style="">注意, zhùyì, pay attention</span>
+<br><span style="">pour</span><br>	<span style="font-size: 32px; ">注</span><br><span style="">zhù</span><br><span style="">注意, zhùyì, pay attention</span>
+<span style="font-size: 32px; ">筑</span>	<span style="">zhù</span><br><span style="">build</span><br><span style="">建筑, jiànzhù, build</span>
+<br><span style="">build</span><br>	<span style="font-size: 32px; ">筑</span><br><span style="">zhù</span><br><span style="">建筑, jiànzhù, build</span>
+<span style="font-size: 32px; ">专</span>	<span style="">zhuān</span><br><span style="">special</span><br><span style="">专业, zhuānyè, specialty</span>
+<br><span style="">special</span><br>	<span style="font-size: 32px; ">专</span><br><span style="">zhuān</span><br><span style="">专业, zhuānyè, specialty</span>
+<span style="font-size: 32px; ">字</span>	<span style="">zì</span><br><span style="">name</span><br><span style="">名字, míngzi, name</span>
+<br><span style="">name</span><br>	<span style="font-size: 32px; ">字</span><br><span style="">zì</span><br><span style="">名字, míngzi, name</span>
+<span style="font-size: 32px; ">自</span>	<span style="">zì</span><br><span style="">self</span><br><span style="">来自láizì, to come from<br>自己, zìjǐ, self</span>
+<br><span style="">self</span><br>	<span style="font-size: 32px; ">自</span><br><span style="">zì</span><br><span style="">来自láizì, to come from<br>自己, zìjǐ, self</span>
+<span style="font-size: 32px; ">子</span>	<span style="">zǐ</span><br><span style="">child</span><br><span style="">儿子, érzi, son<br>橙子, chéngzi, orange (fruit)<br>桃子, táozi, peach</span>
+<br><span style="">child</span><br>	<span style="font-size: 32px; ">子</span><br><span style="">zǐ</span><br><span style="">儿子, érzi, son<br>橙子, chéngzi, orange (fruit)<br>桃子, táozi, peach</span>
+<span style="font-size: 32px; ">总</span>	<span style="">zǒng</span><br><span style="">general</span><br><span style="">总共, zǒnggòng, already</span>
+<br><span style="">general</span><br>	<span style="font-size: 32px; ">总</span><br><span style="">zǒng</span><br><span style="">总共, zǒnggòng, already</span>
+<span style="font-size: 32px; ">足</span>	<span style="">zú</span><br><span style="">foot</span><br><span style="">足球, zúqiú, football</span>
+<br><span style="">foot</span><br>	<span style="font-size: 32px; ">足</span><br><span style="">zú</span><br><span style="">足球, zúqiú, football</span>
+<span style="font-size: 32px; ">族</span>	<span style="">zú</span><br><span style="">people</span><br><span style="">汉族, Hànzú, Han ethnic group</span>
+<br><span style="">people</span><br>	<span style="font-size: 32px; ">族</span><br><span style="">zú</span><br><span style="">汉族, Hànzú, Han ethnic group</span>
+<span style="font-size: 32px; ">最</span>	<span style="">zuī</span><br><span style="">most</span><br><span style="">最近, zuìjìn, recently</span>
+<br><span style="">most</span><br>	<span style="font-size: 32px; ">最</span><br><span style="">zuī</span><br><span style="">最近, zuìjìn, recently</span>
+<span style="font-size: 32px; ">嘴</span>	<span style="">zuǐ</span><br><span style="">mouth</span><br><span style=""></span>
+<br><span style="">mouth</span><br>	<span style="font-size: 32px; ">嘴</span><br><span style="">zuǐ</span><br><span style=""></span>
+<span style="font-size: 32px; ">作</span>	<span style="">zuò</span><br><span style="">do, make</span><br><span style="">合作, hézuò, collaborate<br>制作, zhìzuò, produce<br>工作, gōngzuò, work</span>
+<br><span style="">do, make</span><br>	<span style="font-size: 32px; ">作</span><br><span style="">zuò</span><br><span style="">合作, hézuò, collaborate<br>制作, zhìzuò, produce<br>工作, gōngzuò, work</span>
+<span style="font-size: 32px; ">做</span>	<span style="">zuò</span><br><span style="">make, produce</span><br><span style=""></span>
+<br><span style="">make, produce</span><br>	<span style="font-size: 32px; ">做</span><br><span style="">zuò</span><br><span style=""></span>
+<span style="font-size: 32px; ">昨</span>	<span style="">zuó</span><br><span style="">yesterday</span><br><span style="">昨天, zuótiān, yesterday</span>
+<br><span style="">yesterday</span><br>	<span style="font-size: 32px; ">昨</span><br><span style="">zuó</span><br><span style="">昨天, zuótiān, yesterday</span>
+<span style="font-size: 32px; ">坐</span>	<span style="">zuò</span><br><span style="">sit</span><br><span style=""></span>
+<br><span style="">sit</span><br>	<span style="font-size: 32px; ">坐</span><br><span style="">zuò</span><br><span style=""></span>
