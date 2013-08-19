@@ -7,7 +7,7 @@ I have put this on Github for the collaborative finding, tracking, and fixing of
 
 The file is a tab separated text file. Feel free to fork and edit it according to the style guide:
 - Every line of the file corresponds to a flash card
-- The format of each card/line is *Front <tab> Back*
+- The format of each card/line is: *text on front* TAB *text on back*
 - The cards allow for basic html commands
 
 I recommend importing the *.txt* into the [desktop version of Anki](http://ankisrs.net/) and then using the synchronization server by Anki to transfer it to mobile devices. 
